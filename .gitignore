@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.env
+*.key
+*.token
+private/
+reproduced/
+.DS_Store

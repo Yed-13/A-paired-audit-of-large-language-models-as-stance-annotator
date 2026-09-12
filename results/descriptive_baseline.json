@@ -1,0 +1,21 @@
+{
+  "status": "post_hoc_training_majority_baseline",
+  "selected_using": "remaining training partition only; no test-label selection",
+  "labels": {
+    "Hillary Clinton": "AGAINST",
+    "Feminist Movement": "AGAINST",
+    "Climate Change is a Real Concern": "FAVOR",
+    "Atheism": "AGAINST",
+    "Legalization of Abortion": "AGAINST"
+  },
+  "metrics": {
+    "n_scheduled": 600,
+    "n_valid": 600,
+    "coverage": 1.0,
+    "accuracy_all": 0.6816666666666666,
+    "accuracy_valid": 0.6816666666666666,
+    "macro_f1": 0.4732334711201492,
+    "kappa": 0.3737704918032786,
+    "alpha_gold": 0.3411083330695952
+  }
+}

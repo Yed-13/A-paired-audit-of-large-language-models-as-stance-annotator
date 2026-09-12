@@ -1,0 +1,161 @@
+model,left,right,target,label,n_paired_complete,n_target,share_difference,ci_low,ci_high,bootstrap_defined,left_margin,right_margin,sign_reversal
+gpt4o_mini,persona_pro,persona_neutral,Atheism,FAVOR,120,120,0.01944444444444444,0.0,0.047222222222222214,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Atheism,AGAINST,120,120,-0.05555555555555556,-0.09166666666666666,-0.025,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Atheism,NONE,120,120,0.036111111111111115,1.827242061362238e-18,0.07222222222222222,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Atheism,support_minus_opposition,120,120,,,,,-0.30833333333333335,-0.38333333333333336,False
+gpt4o_mini,persona_pro,persona_neutral,Climate Change is a Real Concern,FAVOR,118,120,0.09887005649717513,0.047951977401129935,0.14971751412429377,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Climate Change is a Real Concern,AGAINST,118,120,-0.02824858757062147,-0.06497175141242938,0.008474576271186439,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Climate Change is a Real Concern,NONE,118,120,-0.07062146892655367,-0.12429378531073447,-0.01694915254237288,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Climate Change is a Real Concern,support_minus_opposition,118,120,,,,,0.12994350282485875,0.002824858757062147,False
+gpt4o_mini,persona_pro,persona_neutral,Feminist Movement,FAVOR,120,120,0.047222222222222214,0.013888888888888888,0.0861111111111111,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Feminist Movement,AGAINST,120,120,-0.08888888888888889,-0.14166666666666666,-0.04166666666666667,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Feminist Movement,NONE,120,120,0.041666666666666664,-0.008333333333333335,0.09722222222222222,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Feminist Movement,support_minus_opposition,120,120,,,,,-0.375,-0.5111111111111111,False
+gpt4o_mini,persona_pro,persona_neutral,Hillary Clinton,FAVOR,120,120,0.036111111111111115,0.008333333333333333,0.06951388888888851,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Hillary Clinton,AGAINST,120,120,-0.03611111111111111,-0.06673611111111111,-0.011111111111111112,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Hillary Clinton,NONE,120,120,1.8503717077085942e-18,-0.03888888888888888,0.036111111111111115,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Hillary Clinton,support_minus_opposition,120,120,,,,,-0.37222222222222223,-0.4444444444444444,False
+gpt4o_mini,persona_pro,persona_neutral,Legalization of Abortion,FAVOR,119,120,0.10084033613445378,0.05322128851540616,0.15686274509803919,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Legalization of Abortion,AGAINST,119,120,-0.10644257703081234,-0.1624649859943978,-0.056022408963585436,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Legalization of Abortion,NONE,119,120,0.005602240896358543,-0.03361344537815126,0.044817927170868355,2000,,,
+gpt4o_mini,persona_pro,persona_neutral,Legalization of Abortion,support_minus_opposition,119,120,,,,,-0.15126050420168066,-0.3585434173669468,False
+gpt4o_mini,persona_con,persona_neutral,Atheism,FAVOR,120,120,-0.036111111111111115,-0.06944444444444445,-0.008333333333333333,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Atheism,AGAINST,120,120,0.011111111111111108,-0.027777777777777776,0.05,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Atheism,NONE,120,120,0.025,-0.016666666666666666,0.06944444444444443,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Atheism,support_minus_opposition,120,120,,,,,-0.4305555555555556,-0.38333333333333336,False
+gpt4o_mini,persona_con,persona_neutral,Climate Change is a Real Concern,FAVOR,119,120,-0.10364145658263305,-0.15966386554621848,-0.05602240896358543,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Climate Change is a Real Concern,AGAINST,119,120,0.008403361344537815,0.0,0.022408963585434177,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Climate Change is a Real Concern,NONE,119,120,0.09523809523809523,0.047619047619047616,0.15126050420168066,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Climate Change is a Real Concern,support_minus_opposition,119,120,,,,,-0.1092436974789916,0.0028011204481792717,True
+gpt4o_mini,persona_con,persona_neutral,Feminist Movement,FAVOR,120,120,-0.041666666666666664,-0.08333333333333333,-0.008333333333333333,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Feminist Movement,AGAINST,120,120,0.0638888888888889,0.025,0.11111111111111112,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Feminist Movement,NONE,120,120,-0.02222222222222222,-0.06944444444444443,0.025,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Feminist Movement,support_minus_opposition,120,120,,,,,-0.6166666666666667,-0.5111111111111111,False
+gpt4o_mini,persona_con,persona_neutral,Hillary Clinton,FAVOR,120,120,-0.041666666666666664,-0.07777777777777778,-0.013888888888888888,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Hillary Clinton,AGAINST,120,120,0.03055555555555555,-0.005555555555555556,0.06673611111111073,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Hillary Clinton,NONE,120,120,0.011111111111111106,-0.036111111111111115,0.0638888888888889,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Hillary Clinton,support_minus_opposition,120,120,,,,,-0.5166666666666667,-0.4444444444444444,False
+gpt4o_mini,persona_con,persona_neutral,Legalization of Abortion,FAVOR,120,120,-0.06388888888888888,-0.10833333333333334,-0.025,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Legalization of Abortion,AGAINST,120,120,0.08055555555555556,0.041666666666666664,0.12777777777777777,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Legalization of Abortion,NONE,120,120,-0.01666666666666667,-0.044444444444444446,0.011111111111111108,2000,,,
+gpt4o_mini,persona_con,persona_neutral,Legalization of Abortion,support_minus_opposition,120,120,,,,,-0.5083333333333333,-0.3638888888888889,False
+gpt4o_mini,persona_pro,persona_con,Atheism,FAVOR,120,120,0.05555555555555556,0.019444444444444445,0.09722222222222224,2000,,,
+gpt4o_mini,persona_pro,persona_con,Atheism,AGAINST,120,120,-0.06666666666666667,-0.11395833333333334,-0.02222222222222222,2000,,,
+gpt4o_mini,persona_pro,persona_con,Atheism,NONE,120,120,0.011111111111111112,-0.041666666666666664,0.058333333333333334,2000,,,
+gpt4o_mini,persona_pro,persona_con,Atheism,support_minus_opposition,120,120,,,,,-0.30833333333333335,-0.4305555555555556,False
+gpt4o_mini,persona_pro,persona_con,Climate Change is a Real Concern,FAVOR,119,120,0.20168067226890757,0.1372549019607843,0.2745098039215686,2000,,,
+gpt4o_mini,persona_pro,persona_con,Climate Change is a Real Concern,AGAINST,119,120,-0.03641456582633053,-0.07282913165266107,-0.0028011204481792713,2000,,,
+gpt4o_mini,persona_pro,persona_con,Climate Change is a Real Concern,NONE,119,120,-0.16526610644257705,-0.24089635854341737,-0.09803921568627451,2000,,,
+gpt4o_mini,persona_pro,persona_con,Climate Change is a Real Concern,support_minus_opposition,119,120,,,,,0.12044817927170869,-0.11764705882352941,True
+gpt4o_mini,persona_pro,persona_con,Feminist Movement,FAVOR,120,120,0.08888888888888888,0.041666666666666664,0.14166666666666666,2000,,,
+gpt4o_mini,persona_pro,persona_con,Feminist Movement,AGAINST,120,120,-0.1527777777777778,-0.21666666666666667,-0.09444444444444446,2000,,,
+gpt4o_mini,persona_pro,persona_con,Feminist Movement,NONE,120,120,0.06388888888888888,-0.005555555555555558,0.13333333333333333,2000,,,
+gpt4o_mini,persona_pro,persona_con,Feminist Movement,support_minus_opposition,120,120,,,,,-0.375,-0.6166666666666667,False
+gpt4o_mini,persona_pro,persona_con,Hillary Clinton,FAVOR,120,120,0.07777777777777778,0.03881944444444445,0.1277777777777778,2000,,,
+gpt4o_mini,persona_pro,persona_con,Hillary Clinton,AGAINST,120,120,-0.06666666666666667,-0.10555555555555557,-0.030555555555555555,2000,,,
+gpt4o_mini,persona_pro,persona_con,Hillary Clinton,NONE,120,120,-0.011111111111111108,-0.075,0.047222222222222235,2000,,,
+gpt4o_mini,persona_pro,persona_con,Hillary Clinton,support_minus_opposition,120,120,,,,,-0.37222222222222223,-0.5166666666666667,False
+gpt4o_mini,persona_pro,persona_con,Legalization of Abortion,FAVOR,119,120,0.165266106442577,0.10364145658263305,0.23529411764705882,2000,,,
+gpt4o_mini,persona_pro,persona_con,Legalization of Abortion,AGAINST,119,120,-0.18767507002801123,-0.25770308123249297,-0.12605042016806722,2000,,,
+gpt4o_mini,persona_pro,persona_con,Legalization of Abortion,NONE,119,120,0.022408963585434177,-0.025210084033613446,0.07563025210084033,2000,,,
+gpt4o_mini,persona_pro,persona_con,Legalization of Abortion,support_minus_opposition,119,120,,,,,-0.15126050420168066,-0.5042016806722689,False
+gpt4o_mini,persona_neutral,zero_shot,Atheism,FAVOR,120,120,0.0,0.0,0.0,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Atheism,AGAINST,120,120,-0.016666666666666666,-0.052777777777777785,0.016666666666666666,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Atheism,NONE,120,120,0.016666666666666666,-0.016666666666666666,0.05277777777777778,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Atheism,support_minus_opposition,120,120,,,,,-0.38333333333333336,-0.4,False
+gpt4o_mini,persona_neutral,zero_shot,Climate Change is a Real Concern,FAVOR,119,120,-0.028011204481792718,-0.056022408963585436,-0.0056022408963585435,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Climate Change is a Real Concern,AGAINST,119,120,0.01680672268907563,0.0,0.0392156862745098,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Climate Change is a Real Concern,NONE,119,120,0.011204481792717089,0.0,0.03081232492997199,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Climate Change is a Real Concern,support_minus_opposition,119,120,,,,,0.0028011204481792717,0.047619047619047616,False
+gpt4o_mini,persona_neutral,zero_shot,Feminist Movement,FAVOR,120,120,-0.0027777777777777775,-0.008333333333333333,0.0,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Feminist Movement,AGAINST,120,120,-0.002777777777777776,-0.030555555555555558,0.022222222222222223,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Feminist Movement,NONE,120,120,0.005555555555555556,-0.01944444444444444,0.030555555555555558,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Feminist Movement,support_minus_opposition,120,120,,,,,-0.5111111111111111,-0.5111111111111111,False
+gpt4o_mini,persona_neutral,zero_shot,Hillary Clinton,FAVOR,120,120,-0.008333333333333333,-0.041666666666666664,0.02222222222222222,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Hillary Clinton,AGAINST,120,120,3.7007434154171884e-18,-0.030625,0.036111111111111115,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Hillary Clinton,NONE,120,120,0.008333333333333337,-0.03888888888888888,0.05555555555555555,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Hillary Clinton,support_minus_opposition,120,120,,,,,-0.4444444444444444,-0.4361111111111111,False
+gpt4o_mini,persona_neutral,zero_shot,Legalization of Abortion,FAVOR,120,120,-0.019444444444444445,-0.05277777777777778,0.011111111111111112,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Legalization of Abortion,AGAINST,120,120,0.01111111111111111,-0.027777777777777783,0.05,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Legalization of Abortion,NONE,120,120,0.008333333333333333,-0.011111111111111112,0.030555555555555555,2000,,,
+gpt4o_mini,persona_neutral,zero_shot,Legalization of Abortion,support_minus_opposition,120,120,,,,,-0.3638888888888889,-0.3333333333333333,False
+qwen3_30b,persona_pro,persona_neutral,Atheism,FAVOR,120,120,0.058333333333333334,0.02222222222222222,0.10277777777777777,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Atheism,AGAINST,120,120,0.08888888888888889,0.03888888888888888,0.14444444444444443,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Atheism,NONE,120,120,-0.1472222222222222,-0.21666666666666667,-0.08611111111111111,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Atheism,support_minus_opposition,120,120,,,,,-0.23333333333333334,-0.20277777777777778,False
+qwen3_30b,persona_pro,persona_neutral,Climate Change is a Real Concern,FAVOR,119,120,0.10084033613445378,0.05602240896358543,0.15406162464985992,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Climate Change is a Real Concern,AGAINST,119,120,-0.014005602240896357,-0.04481792717086835,0.011204481792717087,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Climate Change is a Real Concern,NONE,119,120,-0.08683473389355742,-0.13445378151260504,-0.04761904761904762,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Climate Change is a Real Concern,support_minus_opposition,119,120,,,,,0.4677871148459384,0.35294117647058826,False
+qwen3_30b,persona_pro,persona_neutral,Feminist Movement,FAVOR,120,120,0.075,0.03333333333333333,0.125,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Feminist Movement,AGAINST,120,120,0.04166666666666666,-0.008333333333333333,0.09444444444444443,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Feminist Movement,NONE,120,120,-0.11666666666666667,-0.17506944444444444,-0.0638888888888889,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Feminist Movement,support_minus_opposition,120,120,,,,,-0.3638888888888889,-0.3972222222222222,False
+qwen3_30b,persona_pro,persona_neutral,Hillary Clinton,FAVOR,118,120,0.059322033898305086,0.01694915254237288,0.11016949152542373,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Hillary Clinton,AGAINST,118,120,-0.01694915254237288,-0.059322033898305086,0.019774011299435026,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Hillary Clinton,NONE,118,120,-0.0423728813559322,-0.07909604519774012,-0.01129943502824859,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Hillary Clinton,support_minus_opposition,118,120,,,,,-0.3050847457627119,-0.3813559322033898,False
+qwen3_30b,persona_pro,persona_neutral,Legalization of Abortion,FAVOR,119,120,0.09523809523809525,0.05042016806722689,0.14565826330532214,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Legalization of Abortion,AGAINST,119,120,-0.028011204481792718,-0.0784313725490196,0.02240896358543417,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Legalization of Abortion,NONE,119,120,-0.06722689075630252,-0.1176470588235294,-0.0196078431372549,2000,,,
+qwen3_30b,persona_pro,persona_neutral,Legalization of Abortion,support_minus_opposition,119,120,,,,,-0.17647058823529413,-0.29971988795518206,False
+qwen3_30b,persona_con,persona_neutral,Atheism,FAVOR,119,120,-0.028011204481792718,-0.06442577030812326,0.0056722689075626425,2000,,,
+qwen3_30b,persona_con,persona_neutral,Atheism,AGAINST,119,120,0.23249299719887956,0.1624649859943978,0.3109243697478991,2000,,,
+qwen3_30b,persona_con,persona_neutral,Atheism,NONE,119,120,-0.20448179271708683,-0.2857142857142857,-0.12605042016806725,2000,,,
+qwen3_30b,persona_con,persona_neutral,Atheism,support_minus_opposition,119,120,,,,,-0.4565826330532213,-0.19607843137254902,False
+qwen3_30b,persona_con,persona_neutral,Climate Change is a Real Concern,FAVOR,119,120,-0.07282913165266107,-0.12044817927170869,-0.028011204481792718,2000,,,
+qwen3_30b,persona_con,persona_neutral,Climate Change is a Real Concern,AGAINST,119,120,0.10644257703081234,0.058823529411764705,0.16246498599439774,2000,,,
+qwen3_30b,persona_con,persona_neutral,Climate Change is a Real Concern,NONE,119,120,-0.03361344537815126,-0.09243697478991598,0.025210084033613443,2000,,,
+qwen3_30b,persona_con,persona_neutral,Climate Change is a Real Concern,support_minus_opposition,119,120,,,,,0.17366946778711484,0.35294117647058826,False
+qwen3_30b,persona_con,persona_neutral,Feminist Movement,FAVOR,120,120,-0.025,-0.05555555555555555,-0.002777777777777778,2000,,,
+qwen3_30b,persona_con,persona_neutral,Feminist Movement,AGAINST,120,120,0.16944444444444445,0.10555555555555556,0.2361111111111111,2000,,,
+qwen3_30b,persona_con,persona_neutral,Feminist Movement,NONE,120,120,-0.14444444444444446,-0.2027777777777778,-0.08611111111111111,2000,,,
+qwen3_30b,persona_con,persona_neutral,Feminist Movement,support_minus_opposition,120,120,,,,,-0.5916666666666667,-0.3972222222222222,False
+qwen3_30b,persona_con,persona_neutral,Hillary Clinton,FAVOR,119,120,-0.025210084033613446,-0.058823529411764705,0.0,2000,,,
+qwen3_30b,persona_con,persona_neutral,Hillary Clinton,AGAINST,119,120,0.07002801120448178,0.028011204481792715,0.11764705882352941,2000,,,
+qwen3_30b,persona_con,persona_neutral,Hillary Clinton,NONE,119,120,-0.044817927170868355,-0.08963585434173671,-0.002801120448179272,2000,,,
+qwen3_30b,persona_con,persona_neutral,Hillary Clinton,support_minus_opposition,119,120,,,,,-0.4733893557422969,-0.37815126050420167,False
+qwen3_30b,persona_con,persona_neutral,Legalization of Abortion,FAVOR,120,120,-0.04444444444444444,-0.08333333333333333,-0.01111111111111111,2000,,,
+qwen3_30b,persona_con,persona_neutral,Legalization of Abortion,AGAINST,120,120,0.16666666666666666,0.10277777777777779,0.2361111111111111,2000,,,
+qwen3_30b,persona_con,persona_neutral,Legalization of Abortion,NONE,120,120,-0.12222222222222222,-0.18333333333333332,-0.06944444444444443,2000,,,
+qwen3_30b,persona_con,persona_neutral,Legalization of Abortion,support_minus_opposition,120,120,,,,,-0.5083333333333333,-0.2972222222222222,False
+qwen3_30b,persona_pro,persona_con,Atheism,FAVOR,119,120,0.08683473389355743,0.0392156862745098,0.1400560224089636,2000,,,
+qwen3_30b,persona_pro,persona_con,Atheism,AGAINST,119,120,-0.14285714285714282,-0.20448179271708686,-0.0896358543417367,2000,,,
+qwen3_30b,persona_pro,persona_con,Atheism,NONE,119,120,0.056022408963585436,-0.008403361344537811,0.11771708683473352,2000,,,
+qwen3_30b,persona_pro,persona_con,Atheism,support_minus_opposition,119,120,,,,,-0.226890756302521,-0.4565826330532213,False
+qwen3_30b,persona_pro,persona_con,Climate Change is a Real Concern,FAVOR,120,120,0.17222222222222222,0.11388888888888889,0.23611111111111108,2000,,,
+qwen3_30b,persona_pro,persona_con,Climate Change is a Real Concern,AGAINST,120,120,-0.11944444444444444,-0.175,-0.06666666666666667,2000,,,
+qwen3_30b,persona_pro,persona_con,Climate Change is a Real Concern,NONE,120,120,-0.05277777777777778,-0.11666666666666667,0.0055555555555555506,2000,,,
+qwen3_30b,persona_pro,persona_con,Climate Change is a Real Concern,support_minus_opposition,120,120,,,,,0.4722222222222222,0.18055555555555555,False
+qwen3_30b,persona_pro,persona_con,Feminist Movement,FAVOR,120,120,0.1,0.05277777777777778,0.15833333333333333,2000,,,
+qwen3_30b,persona_pro,persona_con,Feminist Movement,AGAINST,120,120,-0.12777777777777777,-0.18888888888888886,-0.075,2000,,,
+qwen3_30b,persona_pro,persona_con,Feminist Movement,NONE,120,120,0.02777777777777778,-0.02777777777777778,0.08333333333333333,2000,,,
+qwen3_30b,persona_pro,persona_con,Feminist Movement,support_minus_opposition,120,120,,,,,-0.3638888888888889,-0.5916666666666667,False
+qwen3_30b,persona_pro,persona_con,Hillary Clinton,FAVOR,119,120,0.08403361344537816,0.04201680672268908,0.14285714285714285,2000,,,
+qwen3_30b,persona_pro,persona_con,Hillary Clinton,AGAINST,119,120,-0.08683473389355743,-0.1400560224089636,-0.0392156862745098,2000,,,
+qwen3_30b,persona_pro,persona_con,Hillary Clinton,NONE,119,120,0.0028011204481792713,-0.039215686274509796,0.04201680672268908,2000,,,
+qwen3_30b,persona_pro,persona_con,Hillary Clinton,support_minus_opposition,119,120,,,,,-0.31092436974789917,-0.48179271708683474,False
+qwen3_30b,persona_pro,persona_con,Legalization of Abortion,FAVOR,119,120,0.14005602240896356,0.08123249299719887,0.20455182072829095,2000,,,
+qwen3_30b,persona_pro,persona_con,Legalization of Abortion,AGAINST,119,120,-0.19607843137254904,-0.2661064425770308,-0.13165266106442577,2000,,,
+qwen3_30b,persona_pro,persona_con,Legalization of Abortion,NONE,119,120,0.056022408963585436,-0.0028011204481792713,0.11484593837535013,2000,,,
+qwen3_30b,persona_pro,persona_con,Legalization of Abortion,support_minus_opposition,119,120,,,,,-0.17647058823529413,-0.5126050420168067,False
+qwen3_30b,persona_neutral,zero_shot,Atheism,FAVOR,120,120,-0.011111111111111108,-0.041666666666666664,0.016666666666666666,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Atheism,AGAINST,120,120,-0.07777777777777777,-0.12777777777777777,-0.030555555555555558,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Atheism,NONE,120,120,0.08888888888888889,0.03888888888888888,0.14166666666666666,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Atheism,support_minus_opposition,120,120,,,,,-0.20277777777777778,-0.26944444444444443,False
+qwen3_30b,persona_neutral,zero_shot,Climate Change is a Real Concern,FAVOR,119,120,-0.04201680672268908,-0.0784313725490196,-0.011204481792717087,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Climate Change is a Real Concern,AGAINST,119,120,0.008403361344537815,-0.005602240896358544,0.028011204481792715,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Climate Change is a Real Concern,NONE,119,120,0.03361344537815126,0.005602240896358544,0.06722689075630252,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Climate Change is a Real Concern,support_minus_opposition,119,120,,,,,0.35294117647058826,0.40336134453781514,False
+qwen3_30b,persona_neutral,zero_shot,Feminist Movement,FAVOR,120,120,0.005555555555555555,0.0,0.016666666666666666,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Feminist Movement,AGAINST,120,120,-0.0027777777777777766,-0.016666666666666666,0.011111111111111115,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Feminist Movement,NONE,120,120,-0.002777777777777777,-0.022222222222222223,0.01388888888888889,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Feminist Movement,support_minus_opposition,120,120,,,,,-0.3972222222222222,-0.40555555555555556,False
+qwen3_30b,persona_neutral,zero_shot,Hillary Clinton,FAVOR,119,120,0.008403361344537816,-0.0056022408963585435,0.02801120448179272,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Hillary Clinton,AGAINST,119,120,-0.0028011204481792717,-0.008403361344537815,0.0,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Hillary Clinton,NONE,119,120,-0.005602240896358543,-0.025210084033613443,0.008403361344537815,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Hillary Clinton,support_minus_opposition,119,120,,,,,-0.37815126050420167,-0.38935574229691877,False
+qwen3_30b,persona_neutral,zero_shot,Legalization of Abortion,FAVOR,120,120,0.008333333333333333,-0.02777777777777778,0.04444444444444444,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Legalization of Abortion,AGAINST,120,120,-0.03611111111111111,-0.08333333333333333,0.011111111111111112,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Legalization of Abortion,NONE,120,120,0.02777777777777778,-0.002777777777777777,0.06111111111111111,2000,,,
+qwen3_30b,persona_neutral,zero_shot,Legalization of Abortion,support_minus_opposition,120,120,,,,,-0.2972222222222222,-0.3416666666666667,False

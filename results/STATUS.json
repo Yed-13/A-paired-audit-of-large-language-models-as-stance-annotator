@@ -1,0 +1,9 @@
+{
+  "status": "OBSERVED_LIVE_RECORDS_NOT_EXTERNALLY_AUTHENTICATED",
+  "plan_sha256": "ffe904cb9b69d52a4facfa3ce6d02bddf99bac6b18cd60e875f56a247fdd09ff",
+  "bootstrap_draws": 2000,
+  "bootstrap_unit": "item; stratified by target; all repetitions kept together",
+  "intervals": "pointwise percentile 95%; no multiplicity-adjusted significance claims",
+  "coverage_policy": "accuracy_all counts failures as incorrect; F1/kappa/alpha_gold use valid responses",
+  "scope": "selected targets, items, model configurations and observed rounds only"
+}

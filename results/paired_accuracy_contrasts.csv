@@ -1,0 +1,9 @@
+model,left,right,metric,estimate,ci_low,ci_high,bootstrap_defined
+gpt4o_mini,persona_pro,persona_neutral,accuracy_all_difference,0.007222222222222222,-0.01555555555555556,0.02944444444444444,2000
+gpt4o_mini,persona_con,persona_neutral,accuracy_all_difference,-0.03166666666666667,-0.052236111111111115,-0.011111111111111112,2000
+gpt4o_mini,persona_pro,persona_con,accuracy_all_difference,0.03888888888888888,0.01,0.06888888888888887,2000
+gpt4o_mini,persona_neutral,zero_shot,accuracy_all_difference,-0.012222222222222221,-0.027777777777777773,0.002222222222222221,2000
+qwen3_30b,persona_pro,persona_neutral,accuracy_all_difference,0.03833333333333333,0.014986111111111106,0.06222222222222223,2000
+qwen3_30b,persona_con,persona_neutral,accuracy_all_difference,0.042222222222222223,0.01555555555555556,0.06888888888888887,2000
+qwen3_30b,persona_pro,persona_con,accuracy_all_difference,-0.00388888888888889,-0.03388888888888889,0.02666666666666666,2000
+qwen3_30b,persona_neutral,zero_shot,accuracy_all_difference,-0.028333333333333332,-0.043333333333333335,-0.012777777777777777,2000

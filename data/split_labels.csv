@@ -1,0 +1,4064 @@
+id,split,target,label
+101,train,Atheism,AGAINST
+102,train,Atheism,AGAINST
+103,train,Atheism,AGAINST
+104,train,Atheism,AGAINST
+105,train,Atheism,AGAINST
+106,train,Atheism,AGAINST
+107,train,Atheism,AGAINST
+108,train,Atheism,FAVOR
+109,train,Atheism,NONE
+110,train,Atheism,NONE
+111,train,Atheism,FAVOR
+112,train,Atheism,AGAINST
+113,train,Atheism,AGAINST
+114,train,Atheism,AGAINST
+115,train,Atheism,AGAINST
+116,train,Atheism,AGAINST
+117,train,Atheism,NONE
+118,train,Atheism,AGAINST
+119,train,Atheism,FAVOR
+120,train,Atheism,AGAINST
+121,train,Atheism,AGAINST
+122,train,Atheism,FAVOR
+123,train,Atheism,NONE
+124,train,Atheism,AGAINST
+125,train,Atheism,AGAINST
+126,train,Atheism,FAVOR
+127,train,Atheism,AGAINST
+128,train,Atheism,AGAINST
+129,train,Atheism,AGAINST
+130,train,Atheism,NONE
+131,train,Atheism,AGAINST
+132,train,Atheism,AGAINST
+133,train,Atheism,AGAINST
+134,train,Atheism,FAVOR
+135,train,Atheism,NONE
+136,train,Atheism,AGAINST
+137,train,Atheism,NONE
+138,train,Atheism,AGAINST
+139,train,Atheism,AGAINST
+140,train,Atheism,AGAINST
+141,train,Atheism,AGAINST
+142,train,Atheism,AGAINST
+143,train,Atheism,AGAINST
+144,train,Atheism,AGAINST
+145,train,Atheism,AGAINST
+146,train,Atheism,FAVOR
+147,train,Atheism,FAVOR
+148,train,Atheism,NONE
+149,train,Atheism,AGAINST
+150,train,Atheism,FAVOR
+151,train,Atheism,FAVOR
+152,train,Atheism,AGAINST
+153,train,Atheism,FAVOR
+154,train,Atheism,AGAINST
+155,train,Atheism,AGAINST
+156,train,Atheism,NONE
+157,train,Atheism,FAVOR
+158,train,Atheism,FAVOR
+159,train,Atheism,NONE
+160,train,Atheism,FAVOR
+161,train,Atheism,AGAINST
+162,train,Atheism,NONE
+163,train,Atheism,FAVOR
+164,dev,Atheism,NONE
+165,train,Atheism,AGAINST
+166,train,Atheism,AGAINST
+167,train,Atheism,AGAINST
+168,train,Atheism,AGAINST
+169,train,Atheism,AGAINST
+170,train,Atheism,AGAINST
+171,train,Atheism,FAVOR
+172,train,Atheism,AGAINST
+173,train,Atheism,AGAINST
+174,train,Atheism,AGAINST
+175,train,Atheism,FAVOR
+176,train,Atheism,AGAINST
+177,train,Atheism,NONE
+178,train,Atheism,FAVOR
+179,train,Atheism,FAVOR
+180,train,Atheism,NONE
+181,train,Atheism,AGAINST
+182,train,Atheism,AGAINST
+183,train,Atheism,FAVOR
+184,train,Atheism,NONE
+185,train,Atheism,AGAINST
+186,train,Atheism,NONE
+187,train,Atheism,NONE
+188,train,Atheism,AGAINST
+189,train,Atheism,AGAINST
+190,train,Atheism,AGAINST
+191,train,Atheism,NONE
+192,train,Atheism,AGAINST
+193,train,Atheism,AGAINST
+194,train,Atheism,AGAINST
+195,train,Atheism,AGAINST
+196,train,Atheism,AGAINST
+197,train,Atheism,FAVOR
+198,train,Atheism,AGAINST
+199,train,Atheism,AGAINST
+200,train,Atheism,FAVOR
+201,train,Atheism,AGAINST
+202,train,Atheism,FAVOR
+203,train,Atheism,FAVOR
+204,train,Atheism,FAVOR
+205,train,Atheism,AGAINST
+206,train,Atheism,AGAINST
+207,train,Atheism,AGAINST
+208,train,Atheism,AGAINST
+209,train,Atheism,FAVOR
+210,train,Atheism,FAVOR
+211,train,Atheism,AGAINST
+212,train,Atheism,NONE
+213,train,Atheism,NONE
+214,train,Atheism,AGAINST
+215,train,Atheism,AGAINST
+216,train,Atheism,AGAINST
+217,train,Atheism,AGAINST
+218,train,Atheism,AGAINST
+219,train,Atheism,FAVOR
+220,train,Atheism,FAVOR
+221,train,Atheism,AGAINST
+222,train,Atheism,AGAINST
+223,dev,Atheism,AGAINST
+224,train,Atheism,AGAINST
+225,train,Atheism,NONE
+226,train,Atheism,FAVOR
+227,train,Atheism,AGAINST
+228,train,Atheism,NONE
+229,train,Atheism,AGAINST
+230,train,Atheism,FAVOR
+231,train,Atheism,AGAINST
+232,train,Atheism,AGAINST
+233,train,Atheism,AGAINST
+234,train,Atheism,AGAINST
+235,train,Atheism,AGAINST
+236,train,Atheism,AGAINST
+237,train,Atheism,NONE
+238,train,Atheism,AGAINST
+239,train,Atheism,AGAINST
+240,train,Atheism,AGAINST
+241,train,Atheism,AGAINST
+242,train,Atheism,FAVOR
+243,train,Atheism,AGAINST
+244,train,Atheism,FAVOR
+245,train,Atheism,FAVOR
+246,train,Atheism,FAVOR
+247,train,Atheism,AGAINST
+248,train,Atheism,NONE
+249,train,Atheism,AGAINST
+250,train,Atheism,AGAINST
+251,train,Atheism,NONE
+252,train,Atheism,AGAINST
+253,train,Atheism,NONE
+254,train,Atheism,FAVOR
+255,train,Atheism,AGAINST
+256,train,Atheism,AGAINST
+257,train,Atheism,NONE
+258,train,Atheism,AGAINST
+259,train,Atheism,FAVOR
+260,train,Atheism,NONE
+261,train,Atheism,AGAINST
+262,train,Atheism,AGAINST
+263,train,Atheism,AGAINST
+264,train,Atheism,AGAINST
+265,train,Atheism,AGAINST
+266,train,Atheism,NONE
+267,train,Atheism,AGAINST
+268,train,Atheism,AGAINST
+269,train,Atheism,AGAINST
+270,train,Atheism,AGAINST
+271,train,Atheism,AGAINST
+272,train,Atheism,AGAINST
+273,train,Atheism,NONE
+274,train,Atheism,NONE
+275,train,Atheism,AGAINST
+276,train,Atheism,AGAINST
+277,train,Atheism,FAVOR
+278,train,Atheism,NONE
+279,train,Atheism,NONE
+280,train,Atheism,AGAINST
+281,train,Atheism,NONE
+282,train,Atheism,NONE
+283,train,Atheism,AGAINST
+284,train,Atheism,AGAINST
+285,train,Atheism,NONE
+286,train,Atheism,NONE
+287,train,Atheism,FAVOR
+288,train,Atheism,AGAINST
+289,train,Atheism,AGAINST
+290,train,Atheism,AGAINST
+291,train,Atheism,NONE
+292,train,Atheism,AGAINST
+293,train,Atheism,AGAINST
+294,train,Atheism,AGAINST
+295,train,Atheism,AGAINST
+296,train,Atheism,AGAINST
+297,train,Atheism,AGAINST
+298,train,Atheism,FAVOR
+299,train,Atheism,AGAINST
+300,train,Atheism,FAVOR
+301,train,Atheism,NONE
+302,train,Atheism,AGAINST
+303,train,Atheism,NONE
+304,train,Atheism,NONE
+305,train,Atheism,NONE
+306,train,Atheism,AGAINST
+307,train,Atheism,NONE
+308,train,Atheism,FAVOR
+309,train,Atheism,AGAINST
+310,train,Atheism,NONE
+311,train,Atheism,AGAINST
+312,train,Atheism,AGAINST
+313,train,Atheism,AGAINST
+314,train,Atheism,NONE
+315,train,Atheism,NONE
+316,train,Atheism,NONE
+317,train,Atheism,NONE
+318,train,Atheism,NONE
+319,train,Atheism,NONE
+320,dev,Atheism,NONE
+321,train,Atheism,NONE
+322,train,Atheism,NONE
+323,train,Atheism,NONE
+324,train,Atheism,NONE
+325,train,Atheism,FAVOR
+326,train,Atheism,AGAINST
+327,train,Atheism,FAVOR
+328,train,Atheism,FAVOR
+329,train,Atheism,AGAINST
+330,train,Atheism,FAVOR
+331,train,Atheism,NONE
+332,train,Atheism,NONE
+333,train,Atheism,FAVOR
+334,train,Atheism,FAVOR
+335,train,Atheism,NONE
+336,train,Atheism,NONE
+337,train,Atheism,NONE
+338,train,Atheism,NONE
+339,train,Atheism,FAVOR
+340,train,Atheism,NONE
+341,train,Atheism,NONE
+342,train,Atheism,FAVOR
+343,train,Atheism,AGAINST
+344,train,Atheism,NONE
+345,train,Atheism,NONE
+346,train,Atheism,AGAINST
+347,train,Atheism,NONE
+348,train,Atheism,NONE
+349,train,Atheism,FAVOR
+350,train,Atheism,FAVOR
+351,train,Atheism,NONE
+352,train,Atheism,NONE
+353,train,Atheism,FAVOR
+354,train,Atheism,FAVOR
+355,train,Atheism,FAVOR
+356,train,Atheism,FAVOR
+357,train,Atheism,NONE
+358,train,Atheism,AGAINST
+359,train,Atheism,AGAINST
+360,train,Atheism,AGAINST
+361,train,Atheism,FAVOR
+362,train,Atheism,AGAINST
+363,train,Atheism,NONE
+364,train,Atheism,NONE
+365,train,Atheism,NONE
+366,train,Atheism,NONE
+367,train,Atheism,AGAINST
+368,train,Atheism,NONE
+369,train,Atheism,NONE
+370,train,Atheism,NONE
+371,train,Atheism,AGAINST
+372,train,Atheism,AGAINST
+373,train,Atheism,AGAINST
+374,train,Atheism,NONE
+375,train,Atheism,FAVOR
+376,train,Atheism,AGAINST
+377,train,Atheism,AGAINST
+378,train,Atheism,NONE
+379,train,Atheism,NONE
+380,train,Atheism,AGAINST
+381,train,Atheism,AGAINST
+382,train,Atheism,NONE
+383,train,Atheism,FAVOR
+384,train,Atheism,AGAINST
+385,train,Atheism,NONE
+386,train,Atheism,NONE
+387,train,Atheism,NONE
+388,train,Atheism,AGAINST
+389,train,Atheism,NONE
+390,train,Atheism,AGAINST
+391,train,Atheism,AGAINST
+392,train,Atheism,AGAINST
+393,train,Atheism,AGAINST
+394,train,Atheism,NONE
+395,train,Atheism,FAVOR
+396,train,Atheism,AGAINST
+397,train,Atheism,AGAINST
+398,train,Atheism,AGAINST
+399,train,Atheism,AGAINST
+400,train,Atheism,AGAINST
+401,train,Atheism,AGAINST
+402,train,Atheism,NONE
+403,train,Atheism,AGAINST
+404,train,Atheism,AGAINST
+405,train,Atheism,AGAINST
+406,train,Atheism,FAVOR
+407,train,Atheism,FAVOR
+408,train,Atheism,AGAINST
+409,train,Atheism,FAVOR
+410,train,Atheism,AGAINST
+411,train,Atheism,FAVOR
+412,train,Atheism,NONE
+413,train,Atheism,FAVOR
+414,train,Atheism,NONE
+415,train,Atheism,FAVOR
+416,train,Atheism,AGAINST
+417,train,Atheism,FAVOR
+418,train,Atheism,AGAINST
+419,train,Atheism,AGAINST
+420,train,Atheism,AGAINST
+421,train,Atheism,AGAINST
+422,train,Atheism,AGAINST
+423,train,Atheism,AGAINST
+424,train,Atheism,NONE
+425,train,Atheism,FAVOR
+426,train,Atheism,NONE
+427,train,Atheism,FAVOR
+428,train,Atheism,FAVOR
+429,train,Atheism,NONE
+430,train,Atheism,FAVOR
+431,train,Atheism,FAVOR
+432,train,Atheism,AGAINST
+433,train,Atheism,AGAINST
+434,train,Atheism,NONE
+435,train,Atheism,FAVOR
+436,train,Atheism,NONE
+437,train,Atheism,FAVOR
+438,train,Atheism,AGAINST
+439,train,Atheism,FAVOR
+440,train,Atheism,AGAINST
+441,train,Atheism,NONE
+442,train,Atheism,FAVOR
+443,train,Atheism,NONE
+444,train,Atheism,AGAINST
+445,train,Atheism,AGAINST
+446,train,Atheism,AGAINST
+447,train,Atheism,AGAINST
+448,train,Atheism,NONE
+449,train,Atheism,NONE
+450,train,Atheism,FAVOR
+451,train,Atheism,AGAINST
+452,train,Atheism,AGAINST
+453,train,Atheism,NONE
+454,train,Atheism,FAVOR
+455,train,Atheism,AGAINST
+456,train,Atheism,AGAINST
+457,train,Atheism,AGAINST
+458,train,Atheism,AGAINST
+459,train,Atheism,AGAINST
+460,train,Atheism,NONE
+461,train,Atheism,NONE
+462,train,Atheism,AGAINST
+463,train,Atheism,FAVOR
+464,train,Atheism,AGAINST
+465,train,Atheism,FAVOR
+466,train,Atheism,NONE
+467,train,Atheism,FAVOR
+468,train,Atheism,FAVOR
+469,train,Atheism,AGAINST
+470,train,Atheism,AGAINST
+471,train,Atheism,FAVOR
+472,train,Atheism,AGAINST
+473,train,Atheism,FAVOR
+474,train,Atheism,NONE
+475,train,Atheism,AGAINST
+476,train,Atheism,AGAINST
+477,train,Atheism,FAVOR
+478,train,Atheism,AGAINST
+479,train,Atheism,NONE
+480,train,Atheism,NONE
+481,train,Atheism,AGAINST
+482,train,Atheism,AGAINST
+483,train,Atheism,NONE
+484,train,Atheism,NONE
+485,train,Atheism,NONE
+486,train,Atheism,FAVOR
+487,train,Atheism,FAVOR
+488,train,Atheism,NONE
+489,train,Atheism,AGAINST
+490,train,Atheism,AGAINST
+491,train,Atheism,AGAINST
+492,train,Atheism,AGAINST
+493,train,Atheism,AGAINST
+494,train,Atheism,AGAINST
+495,train,Atheism,AGAINST
+496,train,Atheism,AGAINST
+497,train,Atheism,AGAINST
+498,train,Atheism,AGAINST
+499,train,Atheism,AGAINST
+500,train,Atheism,AGAINST
+501,train,Atheism,AGAINST
+502,train,Atheism,AGAINST
+503,train,Atheism,AGAINST
+504,train,Atheism,AGAINST
+505,train,Atheism,AGAINST
+506,train,Atheism,AGAINST
+507,train,Atheism,AGAINST
+508,train,Atheism,AGAINST
+509,train,Atheism,AGAINST
+510,train,Atheism,AGAINST
+511,train,Atheism,AGAINST
+512,train,Atheism,AGAINST
+513,train,Atheism,AGAINST
+514,train,Atheism,AGAINST
+515,train,Atheism,AGAINST
+516,train,Atheism,AGAINST
+517,train,Atheism,AGAINST
+518,train,Atheism,AGAINST
+519,train,Atheism,AGAINST
+520,train,Atheism,AGAINST
+521,train,Atheism,AGAINST
+522,train,Atheism,AGAINST
+523,train,Atheism,AGAINST
+524,train,Atheism,AGAINST
+525,train,Atheism,AGAINST
+526,train,Atheism,AGAINST
+527,train,Atheism,AGAINST
+528,train,Atheism,AGAINST
+529,train,Atheism,AGAINST
+530,train,Atheism,AGAINST
+531,train,Atheism,AGAINST
+532,train,Atheism,AGAINST
+533,train,Atheism,AGAINST
+534,train,Atheism,AGAINST
+535,train,Atheism,AGAINST
+536,train,Atheism,AGAINST
+537,train,Atheism,AGAINST
+538,train,Atheism,AGAINST
+539,train,Atheism,AGAINST
+540,train,Atheism,AGAINST
+541,train,Atheism,AGAINST
+542,dev,Atheism,AGAINST
+543,train,Atheism,AGAINST
+544,train,Atheism,AGAINST
+545,train,Atheism,AGAINST
+546,train,Atheism,AGAINST
+547,train,Atheism,AGAINST
+548,train,Atheism,AGAINST
+549,train,Atheism,AGAINST
+550,train,Atheism,AGAINST
+551,train,Atheism,AGAINST
+552,train,Atheism,AGAINST
+553,train,Atheism,AGAINST
+554,train,Atheism,AGAINST
+555,train,Atheism,AGAINST
+556,train,Atheism,AGAINST
+557,train,Atheism,AGAINST
+558,train,Atheism,AGAINST
+559,train,Atheism,AGAINST
+560,train,Atheism,AGAINST
+561,train,Atheism,AGAINST
+562,train,Atheism,AGAINST
+563,train,Atheism,AGAINST
+564,train,Atheism,AGAINST
+565,train,Atheism,AGAINST
+566,train,Atheism,AGAINST
+567,train,Atheism,AGAINST
+568,train,Atheism,AGAINST
+569,train,Atheism,AGAINST
+570,train,Atheism,AGAINST
+571,train,Atheism,AGAINST
+572,train,Atheism,AGAINST
+573,train,Atheism,AGAINST
+574,train,Atheism,AGAINST
+575,train,Atheism,AGAINST
+576,train,Atheism,AGAINST
+577,train,Atheism,AGAINST
+578,train,Atheism,AGAINST
+579,train,Atheism,FAVOR
+580,train,Atheism,AGAINST
+581,train,Atheism,FAVOR
+582,train,Atheism,NONE
+583,train,Atheism,NONE
+584,train,Atheism,AGAINST
+585,train,Atheism,AGAINST
+586,train,Atheism,AGAINST
+587,train,Atheism,AGAINST
+588,train,Atheism,AGAINST
+589,train,Atheism,FAVOR
+590,train,Atheism,AGAINST
+591,train,Atheism,AGAINST
+592,train,Atheism,AGAINST
+593,train,Atheism,FAVOR
+594,train,Atheism,NONE
+595,train,Atheism,NONE
+596,train,Atheism,AGAINST
+597,train,Atheism,AGAINST
+598,train,Atheism,FAVOR
+599,train,Atheism,NONE
+600,train,Atheism,NONE
+601,train,Atheism,AGAINST
+602,train,Atheism,AGAINST
+603,train,Atheism,NONE
+604,train,Atheism,NONE
+605,train,Atheism,AGAINST
+606,train,Atheism,AGAINST
+607,train,Atheism,AGAINST
+608,train,Atheism,AGAINST
+609,train,Atheism,AGAINST
+610,train,Atheism,AGAINST
+611,train,Atheism,AGAINST
+612,train,Atheism,AGAINST
+613,train,Atheism,AGAINST
+614,train,Climate Change is a Real Concern,FAVOR
+615,train,Climate Change is a Real Concern,FAVOR
+616,train,Climate Change is a Real Concern,FAVOR
+617,train,Climate Change is a Real Concern,FAVOR
+618,train,Climate Change is a Real Concern,FAVOR
+619,train,Climate Change is a Real Concern,FAVOR
+620,dev,Climate Change is a Real Concern,FAVOR
+621,train,Climate Change is a Real Concern,FAVOR
+622,train,Climate Change is a Real Concern,FAVOR
+623,train,Climate Change is a Real Concern,AGAINST
+624,train,Climate Change is a Real Concern,FAVOR
+625,train,Climate Change is a Real Concern,FAVOR
+626,train,Climate Change is a Real Concern,FAVOR
+627,train,Climate Change is a Real Concern,FAVOR
+628,train,Climate Change is a Real Concern,FAVOR
+629,train,Climate Change is a Real Concern,FAVOR
+630,train,Climate Change is a Real Concern,FAVOR
+631,train,Climate Change is a Real Concern,FAVOR
+632,train,Climate Change is a Real Concern,NONE
+633,train,Climate Change is a Real Concern,NONE
+634,train,Climate Change is a Real Concern,FAVOR
+635,train,Climate Change is a Real Concern,FAVOR
+636,train,Climate Change is a Real Concern,NONE
+637,train,Climate Change is a Real Concern,FAVOR
+638,train,Climate Change is a Real Concern,FAVOR
+639,train,Climate Change is a Real Concern,FAVOR
+640,train,Climate Change is a Real Concern,FAVOR
+641,train,Climate Change is a Real Concern,NONE
+642,train,Climate Change is a Real Concern,FAVOR
+643,train,Climate Change is a Real Concern,NONE
+644,train,Climate Change is a Real Concern,NONE
+645,train,Climate Change is a Real Concern,FAVOR
+646,train,Climate Change is a Real Concern,NONE
+647,train,Climate Change is a Real Concern,NONE
+648,train,Climate Change is a Real Concern,NONE
+649,train,Climate Change is a Real Concern,NONE
+650,train,Climate Change is a Real Concern,NONE
+651,train,Climate Change is a Real Concern,FAVOR
+652,train,Climate Change is a Real Concern,FAVOR
+653,train,Climate Change is a Real Concern,NONE
+654,train,Climate Change is a Real Concern,FAVOR
+655,train,Climate Change is a Real Concern,FAVOR
+656,train,Climate Change is a Real Concern,NONE
+657,train,Climate Change is a Real Concern,FAVOR
+658,train,Climate Change is a Real Concern,NONE
+659,train,Climate Change is a Real Concern,NONE
+660,train,Climate Change is a Real Concern,AGAINST
+661,train,Climate Change is a Real Concern,FAVOR
+662,train,Climate Change is a Real Concern,FAVOR
+663,train,Climate Change is a Real Concern,FAVOR
+664,train,Climate Change is a Real Concern,NONE
+665,train,Climate Change is a Real Concern,FAVOR
+666,train,Climate Change is a Real Concern,NONE
+667,train,Climate Change is a Real Concern,FAVOR
+668,train,Climate Change is a Real Concern,NONE
+669,train,Climate Change is a Real Concern,FAVOR
+670,train,Climate Change is a Real Concern,NONE
+671,train,Climate Change is a Real Concern,NONE
+672,train,Climate Change is a Real Concern,NONE
+673,train,Climate Change is a Real Concern,NONE
+674,train,Climate Change is a Real Concern,NONE
+675,train,Climate Change is a Real Concern,NONE
+676,train,Climate Change is a Real Concern,FAVOR
+677,train,Climate Change is a Real Concern,FAVOR
+678,train,Climate Change is a Real Concern,FAVOR
+679,train,Climate Change is a Real Concern,NONE
+680,train,Climate Change is a Real Concern,NONE
+681,train,Climate Change is a Real Concern,NONE
+682,train,Climate Change is a Real Concern,FAVOR
+683,train,Climate Change is a Real Concern,FAVOR
+684,train,Climate Change is a Real Concern,FAVOR
+685,train,Climate Change is a Real Concern,NONE
+686,train,Climate Change is a Real Concern,NONE
+687,train,Climate Change is a Real Concern,NONE
+688,train,Climate Change is a Real Concern,AGAINST
+689,train,Climate Change is a Real Concern,NONE
+690,train,Climate Change is a Real Concern,FAVOR
+691,train,Climate Change is a Real Concern,NONE
+692,train,Climate Change is a Real Concern,FAVOR
+693,train,Climate Change is a Real Concern,AGAINST
+694,train,Climate Change is a Real Concern,NONE
+695,train,Climate Change is a Real Concern,NONE
+696,train,Climate Change is a Real Concern,NONE
+697,train,Climate Change is a Real Concern,NONE
+698,train,Climate Change is a Real Concern,FAVOR
+699,train,Climate Change is a Real Concern,FAVOR
+700,train,Climate Change is a Real Concern,NONE
+701,train,Climate Change is a Real Concern,FAVOR
+702,train,Climate Change is a Real Concern,NONE
+703,train,Climate Change is a Real Concern,FAVOR
+704,train,Climate Change is a Real Concern,NONE
+705,train,Climate Change is a Real Concern,FAVOR
+706,train,Climate Change is a Real Concern,NONE
+707,train,Climate Change is a Real Concern,FAVOR
+708,train,Climate Change is a Real Concern,NONE
+709,train,Climate Change is a Real Concern,NONE
+710,train,Climate Change is a Real Concern,NONE
+711,train,Climate Change is a Real Concern,NONE
+712,train,Climate Change is a Real Concern,NONE
+713,train,Climate Change is a Real Concern,FAVOR
+714,train,Climate Change is a Real Concern,NONE
+715,train,Climate Change is a Real Concern,FAVOR
+716,train,Climate Change is a Real Concern,FAVOR
+717,train,Climate Change is a Real Concern,NONE
+718,train,Climate Change is a Real Concern,FAVOR
+719,train,Climate Change is a Real Concern,NONE
+720,train,Climate Change is a Real Concern,FAVOR
+721,train,Climate Change is a Real Concern,FAVOR
+722,train,Climate Change is a Real Concern,FAVOR
+723,train,Climate Change is a Real Concern,NONE
+724,train,Climate Change is a Real Concern,NONE
+725,train,Climate Change is a Real Concern,FAVOR
+726,train,Climate Change is a Real Concern,FAVOR
+727,train,Climate Change is a Real Concern,NONE
+728,train,Climate Change is a Real Concern,FAVOR
+729,train,Climate Change is a Real Concern,NONE
+730,train,Climate Change is a Real Concern,NONE
+731,train,Climate Change is a Real Concern,NONE
+732,train,Climate Change is a Real Concern,FAVOR
+733,train,Climate Change is a Real Concern,FAVOR
+734,train,Climate Change is a Real Concern,NONE
+735,train,Climate Change is a Real Concern,FAVOR
+736,train,Climate Change is a Real Concern,FAVOR
+737,train,Climate Change is a Real Concern,NONE
+738,train,Climate Change is a Real Concern,NONE
+739,train,Climate Change is a Real Concern,NONE
+740,train,Climate Change is a Real Concern,FAVOR
+741,train,Climate Change is a Real Concern,FAVOR
+742,train,Climate Change is a Real Concern,NONE
+743,train,Climate Change is a Real Concern,NONE
+744,train,Climate Change is a Real Concern,NONE
+745,train,Climate Change is a Real Concern,NONE
+746,train,Climate Change is a Real Concern,FAVOR
+747,train,Climate Change is a Real Concern,NONE
+748,train,Climate Change is a Real Concern,FAVOR
+749,train,Climate Change is a Real Concern,NONE
+750,train,Climate Change is a Real Concern,FAVOR
+751,train,Climate Change is a Real Concern,NONE
+752,train,Climate Change is a Real Concern,NONE
+753,train,Climate Change is a Real Concern,NONE
+754,train,Climate Change is a Real Concern,NONE
+755,train,Climate Change is a Real Concern,FAVOR
+756,train,Climate Change is a Real Concern,NONE
+757,train,Climate Change is a Real Concern,FAVOR
+758,train,Climate Change is a Real Concern,FAVOR
+759,train,Climate Change is a Real Concern,NONE
+760,train,Climate Change is a Real Concern,FAVOR
+761,train,Climate Change is a Real Concern,FAVOR
+762,train,Climate Change is a Real Concern,NONE
+763,train,Climate Change is a Real Concern,NONE
+764,train,Climate Change is a Real Concern,FAVOR
+765,train,Climate Change is a Real Concern,FAVOR
+766,train,Climate Change is a Real Concern,FAVOR
+767,train,Climate Change is a Real Concern,NONE
+768,train,Climate Change is a Real Concern,FAVOR
+769,train,Climate Change is a Real Concern,NONE
+770,train,Climate Change is a Real Concern,NONE
+771,train,Climate Change is a Real Concern,FAVOR
+772,train,Climate Change is a Real Concern,FAVOR
+773,train,Climate Change is a Real Concern,FAVOR
+774,train,Climate Change is a Real Concern,NONE
+775,train,Climate Change is a Real Concern,FAVOR
+776,train,Climate Change is a Real Concern,FAVOR
+777,train,Climate Change is a Real Concern,FAVOR
+778,train,Climate Change is a Real Concern,FAVOR
+779,train,Climate Change is a Real Concern,NONE
+780,train,Climate Change is a Real Concern,NONE
+781,train,Climate Change is a Real Concern,NONE
+782,train,Climate Change is a Real Concern,FAVOR
+783,train,Climate Change is a Real Concern,NONE
+784,train,Climate Change is a Real Concern,NONE
+785,train,Climate Change is a Real Concern,FAVOR
+786,train,Climate Change is a Real Concern,FAVOR
+787,train,Climate Change is a Real Concern,FAVOR
+788,train,Climate Change is a Real Concern,NONE
+789,train,Climate Change is a Real Concern,FAVOR
+790,train,Climate Change is a Real Concern,NONE
+791,train,Climate Change is a Real Concern,NONE
+792,train,Climate Change is a Real Concern,FAVOR
+793,train,Climate Change is a Real Concern,NONE
+794,train,Climate Change is a Real Concern,FAVOR
+795,train,Climate Change is a Real Concern,NONE
+796,train,Climate Change is a Real Concern,FAVOR
+797,train,Climate Change is a Real Concern,FAVOR
+798,train,Climate Change is a Real Concern,FAVOR
+799,train,Climate Change is a Real Concern,NONE
+800,train,Climate Change is a Real Concern,NONE
+801,train,Climate Change is a Real Concern,FAVOR
+802,train,Climate Change is a Real Concern,NONE
+803,train,Climate Change is a Real Concern,NONE
+804,train,Climate Change is a Real Concern,FAVOR
+805,train,Climate Change is a Real Concern,NONE
+806,train,Climate Change is a Real Concern,NONE
+807,train,Climate Change is a Real Concern,NONE
+808,train,Climate Change is a Real Concern,NONE
+809,train,Climate Change is a Real Concern,NONE
+810,train,Climate Change is a Real Concern,FAVOR
+811,train,Climate Change is a Real Concern,FAVOR
+812,train,Climate Change is a Real Concern,FAVOR
+813,train,Climate Change is a Real Concern,FAVOR
+814,train,Climate Change is a Real Concern,FAVOR
+815,train,Climate Change is a Real Concern,NONE
+816,train,Climate Change is a Real Concern,FAVOR
+817,train,Climate Change is a Real Concern,NONE
+818,train,Climate Change is a Real Concern,NONE
+819,train,Climate Change is a Real Concern,NONE
+820,train,Climate Change is a Real Concern,FAVOR
+821,train,Climate Change is a Real Concern,FAVOR
+822,train,Climate Change is a Real Concern,FAVOR
+823,train,Climate Change is a Real Concern,NONE
+824,train,Climate Change is a Real Concern,NONE
+825,train,Climate Change is a Real Concern,FAVOR
+826,train,Climate Change is a Real Concern,NONE
+827,train,Climate Change is a Real Concern,FAVOR
+828,train,Climate Change is a Real Concern,FAVOR
+829,train,Climate Change is a Real Concern,FAVOR
+830,train,Climate Change is a Real Concern,NONE
+831,train,Climate Change is a Real Concern,FAVOR
+832,train,Climate Change is a Real Concern,FAVOR
+833,train,Climate Change is a Real Concern,FAVOR
+834,train,Climate Change is a Real Concern,FAVOR
+835,train,Climate Change is a Real Concern,NONE
+836,train,Climate Change is a Real Concern,NONE
+837,train,Climate Change is a Real Concern,NONE
+838,train,Climate Change is a Real Concern,NONE
+839,train,Climate Change is a Real Concern,NONE
+840,train,Climate Change is a Real Concern,FAVOR
+841,train,Climate Change is a Real Concern,FAVOR
+842,train,Climate Change is a Real Concern,FAVOR
+843,train,Climate Change is a Real Concern,FAVOR
+844,train,Climate Change is a Real Concern,FAVOR
+845,train,Climate Change is a Real Concern,FAVOR
+846,train,Climate Change is a Real Concern,FAVOR
+847,train,Climate Change is a Real Concern,FAVOR
+848,train,Climate Change is a Real Concern,FAVOR
+849,train,Climate Change is a Real Concern,FAVOR
+850,train,Climate Change is a Real Concern,NONE
+851,train,Climate Change is a Real Concern,NONE
+852,train,Climate Change is a Real Concern,FAVOR
+853,train,Climate Change is a Real Concern,FAVOR
+854,train,Climate Change is a Real Concern,FAVOR
+855,train,Climate Change is a Real Concern,FAVOR
+856,train,Climate Change is a Real Concern,FAVOR
+857,train,Climate Change is a Real Concern,FAVOR
+858,train,Climate Change is a Real Concern,NONE
+859,train,Climate Change is a Real Concern,FAVOR
+860,train,Climate Change is a Real Concern,NONE
+861,train,Climate Change is a Real Concern,NONE
+862,train,Climate Change is a Real Concern,FAVOR
+863,train,Climate Change is a Real Concern,FAVOR
+864,train,Climate Change is a Real Concern,FAVOR
+865,train,Climate Change is a Real Concern,FAVOR
+866,train,Climate Change is a Real Concern,NONE
+867,train,Climate Change is a Real Concern,NONE
+868,train,Climate Change is a Real Concern,NONE
+869,train,Climate Change is a Real Concern,FAVOR
+870,train,Climate Change is a Real Concern,FAVOR
+871,train,Climate Change is a Real Concern,FAVOR
+872,train,Climate Change is a Real Concern,FAVOR
+873,train,Climate Change is a Real Concern,FAVOR
+874,train,Climate Change is a Real Concern,FAVOR
+875,train,Climate Change is a Real Concern,NONE
+876,train,Climate Change is a Real Concern,NONE
+877,train,Climate Change is a Real Concern,FAVOR
+878,train,Climate Change is a Real Concern,FAVOR
+879,train,Climate Change is a Real Concern,FAVOR
+880,train,Climate Change is a Real Concern,FAVOR
+881,train,Climate Change is a Real Concern,FAVOR
+882,train,Climate Change is a Real Concern,FAVOR
+883,train,Climate Change is a Real Concern,NONE
+884,train,Climate Change is a Real Concern,NONE
+885,train,Climate Change is a Real Concern,FAVOR
+886,train,Climate Change is a Real Concern,NONE
+887,train,Climate Change is a Real Concern,NONE
+888,train,Climate Change is a Real Concern,FAVOR
+889,train,Climate Change is a Real Concern,FAVOR
+890,train,Climate Change is a Real Concern,FAVOR
+891,train,Climate Change is a Real Concern,FAVOR
+892,train,Climate Change is a Real Concern,FAVOR
+893,train,Climate Change is a Real Concern,FAVOR
+894,train,Climate Change is a Real Concern,FAVOR
+895,train,Climate Change is a Real Concern,FAVOR
+896,train,Climate Change is a Real Concern,NONE
+897,train,Climate Change is a Real Concern,FAVOR
+898,dev,Climate Change is a Real Concern,NONE
+899,train,Climate Change is a Real Concern,FAVOR
+900,train,Climate Change is a Real Concern,FAVOR
+901,train,Climate Change is a Real Concern,FAVOR
+902,train,Climate Change is a Real Concern,FAVOR
+903,train,Climate Change is a Real Concern,AGAINST
+904,train,Climate Change is a Real Concern,AGAINST
+905,train,Climate Change is a Real Concern,AGAINST
+906,train,Climate Change is a Real Concern,AGAINST
+907,train,Climate Change is a Real Concern,NONE
+908,train,Climate Change is a Real Concern,AGAINST
+909,train,Climate Change is a Real Concern,NONE
+910,train,Climate Change is a Real Concern,NONE
+911,train,Climate Change is a Real Concern,NONE
+912,train,Climate Change is a Real Concern,NONE
+913,train,Climate Change is a Real Concern,NONE
+914,train,Climate Change is a Real Concern,FAVOR
+915,train,Climate Change is a Real Concern,FAVOR
+916,train,Climate Change is a Real Concern,FAVOR
+917,train,Climate Change is a Real Concern,NONE
+918,train,Climate Change is a Real Concern,FAVOR
+919,train,Climate Change is a Real Concern,FAVOR
+920,train,Climate Change is a Real Concern,FAVOR
+921,train,Climate Change is a Real Concern,NONE
+922,train,Climate Change is a Real Concern,NONE
+923,dev,Climate Change is a Real Concern,NONE
+924,train,Climate Change is a Real Concern,FAVOR
+925,train,Climate Change is a Real Concern,FAVOR
+926,train,Climate Change is a Real Concern,FAVOR
+927,train,Climate Change is a Real Concern,FAVOR
+928,train,Climate Change is a Real Concern,FAVOR
+929,train,Climate Change is a Real Concern,FAVOR
+930,train,Climate Change is a Real Concern,FAVOR
+931,train,Climate Change is a Real Concern,FAVOR
+932,train,Climate Change is a Real Concern,NONE
+933,train,Climate Change is a Real Concern,FAVOR
+934,train,Climate Change is a Real Concern,FAVOR
+935,train,Climate Change is a Real Concern,FAVOR
+936,train,Climate Change is a Real Concern,FAVOR
+937,train,Climate Change is a Real Concern,FAVOR
+938,train,Climate Change is a Real Concern,NONE
+939,train,Climate Change is a Real Concern,FAVOR
+940,train,Climate Change is a Real Concern,NONE
+941,train,Climate Change is a Real Concern,FAVOR
+942,train,Climate Change is a Real Concern,NONE
+943,train,Climate Change is a Real Concern,NONE
+944,train,Climate Change is a Real Concern,FAVOR
+945,train,Climate Change is a Real Concern,AGAINST
+946,train,Climate Change is a Real Concern,AGAINST
+947,train,Climate Change is a Real Concern,AGAINST
+948,train,Climate Change is a Real Concern,AGAINST
+949,train,Climate Change is a Real Concern,AGAINST
+950,train,Climate Change is a Real Concern,FAVOR
+951,train,Climate Change is a Real Concern,FAVOR
+952,train,Climate Change is a Real Concern,NONE
+953,train,Climate Change is a Real Concern,AGAINST
+954,train,Climate Change is a Real Concern,NONE
+955,train,Climate Change is a Real Concern,NONE
+956,train,Climate Change is a Real Concern,FAVOR
+957,train,Climate Change is a Real Concern,FAVOR
+958,train,Climate Change is a Real Concern,FAVOR
+959,train,Climate Change is a Real Concern,NONE
+960,train,Climate Change is a Real Concern,FAVOR
+961,train,Climate Change is a Real Concern,NONE
+962,train,Climate Change is a Real Concern,NONE
+963,dev,Climate Change is a Real Concern,NONE
+964,train,Climate Change is a Real Concern,FAVOR
+965,train,Climate Change is a Real Concern,NONE
+966,train,Climate Change is a Real Concern,FAVOR
+967,train,Climate Change is a Real Concern,NONE
+968,train,Climate Change is a Real Concern,FAVOR
+969,train,Climate Change is a Real Concern,FAVOR
+970,train,Climate Change is a Real Concern,NONE
+971,train,Climate Change is a Real Concern,FAVOR
+972,train,Climate Change is a Real Concern,NONE
+973,train,Climate Change is a Real Concern,FAVOR
+974,train,Climate Change is a Real Concern,FAVOR
+975,train,Climate Change is a Real Concern,FAVOR
+976,train,Climate Change is a Real Concern,NONE
+977,train,Climate Change is a Real Concern,FAVOR
+978,train,Climate Change is a Real Concern,NONE
+979,train,Climate Change is a Real Concern,FAVOR
+980,train,Climate Change is a Real Concern,FAVOR
+981,train,Climate Change is a Real Concern,NONE
+982,train,Climate Change is a Real Concern,FAVOR
+983,train,Climate Change is a Real Concern,NONE
+984,train,Climate Change is a Real Concern,FAVOR
+985,train,Climate Change is a Real Concern,NONE
+986,train,Climate Change is a Real Concern,NONE
+987,train,Climate Change is a Real Concern,NONE
+988,train,Climate Change is a Real Concern,NONE
+989,train,Climate Change is a Real Concern,NONE
+990,train,Climate Change is a Real Concern,NONE
+991,train,Climate Change is a Real Concern,NONE
+992,train,Climate Change is a Real Concern,NONE
+993,train,Climate Change is a Real Concern,FAVOR
+994,train,Climate Change is a Real Concern,NONE
+995,train,Climate Change is a Real Concern,FAVOR
+996,train,Climate Change is a Real Concern,NONE
+997,train,Climate Change is a Real Concern,NONE
+998,train,Climate Change is a Real Concern,NONE
+999,train,Climate Change is a Real Concern,NONE
+1000,train,Climate Change is a Real Concern,FAVOR
+1001,train,Climate Change is a Real Concern,FAVOR
+1002,train,Climate Change is a Real Concern,FAVOR
+1003,train,Climate Change is a Real Concern,NONE
+1004,train,Climate Change is a Real Concern,FAVOR
+1005,train,Climate Change is a Real Concern,FAVOR
+1006,train,Climate Change is a Real Concern,FAVOR
+1007,train,Climate Change is a Real Concern,FAVOR
+1008,train,Climate Change is a Real Concern,FAVOR
+1009,train,Feminist Movement,FAVOR
+1010,train,Feminist Movement,FAVOR
+1011,train,Feminist Movement,AGAINST
+1012,train,Feminist Movement,AGAINST
+1013,train,Feminist Movement,FAVOR
+1014,train,Feminist Movement,FAVOR
+1015,train,Feminist Movement,FAVOR
+1016,train,Feminist Movement,FAVOR
+1017,train,Feminist Movement,FAVOR
+1018,train,Feminist Movement,FAVOR
+1019,train,Feminist Movement,FAVOR
+1020,train,Feminist Movement,NONE
+1021,train,Feminist Movement,FAVOR
+1022,train,Feminist Movement,AGAINST
+1023,train,Feminist Movement,AGAINST
+1024,train,Feminist Movement,FAVOR
+1025,train,Feminist Movement,FAVOR
+1026,train,Feminist Movement,AGAINST
+1027,train,Feminist Movement,FAVOR
+1028,train,Feminist Movement,FAVOR
+1029,train,Feminist Movement,AGAINST
+1030,train,Feminist Movement,FAVOR
+1031,train,Feminist Movement,FAVOR
+1032,train,Feminist Movement,NONE
+1033,train,Feminist Movement,AGAINST
+1034,train,Feminist Movement,FAVOR
+1035,train,Feminist Movement,FAVOR
+1036,train,Feminist Movement,FAVOR
+1037,train,Feminist Movement,FAVOR
+1038,train,Feminist Movement,FAVOR
+1039,train,Feminist Movement,FAVOR
+1040,train,Feminist Movement,NONE
+1041,train,Feminist Movement,NONE
+1042,train,Feminist Movement,FAVOR
+1043,train,Feminist Movement,FAVOR
+1044,train,Feminist Movement,FAVOR
+1045,train,Feminist Movement,FAVOR
+1046,train,Feminist Movement,FAVOR
+1047,train,Feminist Movement,NONE
+1048,train,Feminist Movement,FAVOR
+1049,train,Feminist Movement,AGAINST
+1050,train,Feminist Movement,NONE
+1051,train,Feminist Movement,FAVOR
+1052,train,Feminist Movement,FAVOR
+1053,train,Feminist Movement,FAVOR
+1054,train,Feminist Movement,AGAINST
+1055,train,Feminist Movement,NONE
+1056,train,Feminist Movement,FAVOR
+1057,train,Feminist Movement,AGAINST
+1058,train,Feminist Movement,NONE
+1059,train,Feminist Movement,FAVOR
+1060,train,Feminist Movement,AGAINST
+1061,train,Feminist Movement,NONE
+1062,train,Feminist Movement,AGAINST
+1063,train,Feminist Movement,FAVOR
+1064,train,Feminist Movement,FAVOR
+1065,train,Feminist Movement,NONE
+1066,train,Feminist Movement,FAVOR
+1067,train,Feminist Movement,AGAINST
+1068,train,Feminist Movement,FAVOR
+1069,train,Feminist Movement,FAVOR
+1070,train,Feminist Movement,FAVOR
+1071,train,Feminist Movement,FAVOR
+1072,train,Feminist Movement,FAVOR
+1073,train,Feminist Movement,FAVOR
+1074,train,Feminist Movement,FAVOR
+1075,train,Feminist Movement,FAVOR
+1076,train,Feminist Movement,FAVOR
+1077,train,Feminist Movement,NONE
+1078,train,Feminist Movement,NONE
+1079,train,Feminist Movement,AGAINST
+1080,train,Feminist Movement,NONE
+1081,train,Feminist Movement,FAVOR
+1082,train,Feminist Movement,NONE
+1083,train,Feminist Movement,FAVOR
+1084,train,Feminist Movement,AGAINST
+1085,train,Feminist Movement,AGAINST
+1086,train,Feminist Movement,AGAINST
+1087,train,Feminist Movement,NONE
+1088,train,Feminist Movement,FAVOR
+1089,train,Feminist Movement,FAVOR
+1090,train,Feminist Movement,FAVOR
+1091,train,Feminist Movement,FAVOR
+1092,dev,Feminist Movement,NONE
+1093,train,Feminist Movement,FAVOR
+1094,train,Feminist Movement,NONE
+1095,train,Feminist Movement,AGAINST
+1096,train,Feminist Movement,AGAINST
+1097,train,Feminist Movement,NONE
+1098,train,Feminist Movement,AGAINST
+1099,train,Feminist Movement,FAVOR
+1100,train,Feminist Movement,AGAINST
+1101,train,Feminist Movement,NONE
+1102,train,Feminist Movement,NONE
+1103,train,Feminist Movement,FAVOR
+1104,train,Feminist Movement,FAVOR
+1105,train,Feminist Movement,NONE
+1106,train,Feminist Movement,FAVOR
+1107,train,Feminist Movement,NONE
+1108,train,Feminist Movement,NONE
+1109,train,Feminist Movement,AGAINST
+1110,train,Feminist Movement,AGAINST
+1111,train,Feminist Movement,NONE
+1112,train,Feminist Movement,FAVOR
+1113,train,Feminist Movement,NONE
+1114,train,Feminist Movement,AGAINST
+1115,train,Feminist Movement,FAVOR
+1116,train,Feminist Movement,AGAINST
+1117,train,Feminist Movement,AGAINST
+1118,train,Feminist Movement,FAVOR
+1119,train,Feminist Movement,NONE
+1120,train,Feminist Movement,FAVOR
+1121,train,Feminist Movement,AGAINST
+1122,train,Feminist Movement,AGAINST
+1123,train,Feminist Movement,AGAINST
+1124,train,Feminist Movement,FAVOR
+1125,train,Feminist Movement,NONE
+1126,train,Feminist Movement,FAVOR
+1127,train,Feminist Movement,FAVOR
+1128,train,Feminist Movement,FAVOR
+1129,train,Feminist Movement,AGAINST
+1130,train,Feminist Movement,NONE
+1131,train,Feminist Movement,FAVOR
+1132,train,Feminist Movement,NONE
+1133,train,Feminist Movement,FAVOR
+1134,train,Feminist Movement,AGAINST
+1135,train,Feminist Movement,AGAINST
+1136,train,Feminist Movement,FAVOR
+1137,train,Feminist Movement,AGAINST
+1138,train,Feminist Movement,NONE
+1139,train,Feminist Movement,AGAINST
+1140,train,Feminist Movement,AGAINST
+1141,train,Feminist Movement,FAVOR
+1142,train,Feminist Movement,AGAINST
+1143,train,Feminist Movement,AGAINST
+1144,train,Feminist Movement,NONE
+1145,train,Feminist Movement,FAVOR
+1146,train,Feminist Movement,NONE
+1147,train,Feminist Movement,AGAINST
+1148,train,Feminist Movement,NONE
+1149,train,Feminist Movement,NONE
+1150,train,Feminist Movement,FAVOR
+1151,train,Feminist Movement,AGAINST
+1152,train,Feminist Movement,NONE
+1153,train,Feminist Movement,AGAINST
+1154,train,Feminist Movement,AGAINST
+1155,train,Feminist Movement,AGAINST
+1156,train,Feminist Movement,AGAINST
+1157,train,Feminist Movement,AGAINST
+1158,train,Feminist Movement,FAVOR
+1159,train,Feminist Movement,AGAINST
+1160,train,Feminist Movement,FAVOR
+1161,train,Feminist Movement,FAVOR
+1162,train,Feminist Movement,FAVOR
+1163,train,Feminist Movement,NONE
+1164,train,Feminist Movement,FAVOR
+1165,train,Feminist Movement,NONE
+1166,train,Feminist Movement,AGAINST
+1167,train,Feminist Movement,AGAINST
+1168,train,Feminist Movement,NONE
+1169,train,Feminist Movement,NONE
+1170,train,Feminist Movement,NONE
+1171,train,Feminist Movement,FAVOR
+1172,train,Feminist Movement,FAVOR
+1173,train,Feminist Movement,FAVOR
+1174,train,Feminist Movement,AGAINST
+1175,train,Feminist Movement,NONE
+1176,train,Feminist Movement,AGAINST
+1177,train,Feminist Movement,AGAINST
+1178,train,Feminist Movement,AGAINST
+1179,train,Feminist Movement,FAVOR
+1180,train,Feminist Movement,FAVOR
+1181,train,Feminist Movement,FAVOR
+1182,train,Feminist Movement,AGAINST
+1183,train,Feminist Movement,AGAINST
+1184,train,Feminist Movement,FAVOR
+1185,train,Feminist Movement,AGAINST
+1186,train,Feminist Movement,FAVOR
+1187,train,Feminist Movement,NONE
+1188,train,Feminist Movement,AGAINST
+1189,train,Feminist Movement,FAVOR
+1190,train,Feminist Movement,FAVOR
+1191,train,Feminist Movement,FAVOR
+1192,train,Feminist Movement,FAVOR
+1193,train,Feminist Movement,FAVOR
+1194,train,Feminist Movement,FAVOR
+1195,train,Feminist Movement,FAVOR
+1196,train,Feminist Movement,FAVOR
+1197,train,Feminist Movement,NONE
+1198,train,Feminist Movement,FAVOR
+1199,train,Feminist Movement,FAVOR
+1200,train,Feminist Movement,FAVOR
+1201,train,Feminist Movement,NONE
+1202,train,Feminist Movement,FAVOR
+1203,train,Feminist Movement,AGAINST
+1204,train,Feminist Movement,AGAINST
+1205,train,Feminist Movement,FAVOR
+1206,train,Feminist Movement,NONE
+1207,train,Feminist Movement,AGAINST
+1208,train,Feminist Movement,NONE
+1209,train,Feminist Movement,FAVOR
+1210,train,Feminist Movement,NONE
+1211,train,Feminist Movement,NONE
+1212,train,Feminist Movement,FAVOR
+1213,dev,Feminist Movement,NONE
+1214,train,Feminist Movement,FAVOR
+1215,train,Feminist Movement,NONE
+1216,train,Feminist Movement,NONE
+1217,train,Feminist Movement,AGAINST
+1218,train,Feminist Movement,FAVOR
+1219,train,Feminist Movement,FAVOR
+1220,train,Feminist Movement,FAVOR
+1221,train,Feminist Movement,FAVOR
+1222,train,Feminist Movement,FAVOR
+1223,train,Feminist Movement,FAVOR
+1224,train,Feminist Movement,NONE
+1225,train,Feminist Movement,AGAINST
+1226,train,Feminist Movement,FAVOR
+1227,train,Feminist Movement,FAVOR
+1228,train,Feminist Movement,FAVOR
+1229,train,Feminist Movement,FAVOR
+1230,train,Feminist Movement,FAVOR
+1231,train,Feminist Movement,FAVOR
+1232,train,Feminist Movement,FAVOR
+1233,train,Feminist Movement,AGAINST
+1234,train,Feminist Movement,NONE
+1235,train,Feminist Movement,AGAINST
+1236,train,Feminist Movement,FAVOR
+1237,train,Feminist Movement,FAVOR
+1238,train,Feminist Movement,FAVOR
+1239,train,Feminist Movement,FAVOR
+1240,train,Feminist Movement,FAVOR
+1241,train,Feminist Movement,FAVOR
+1242,train,Feminist Movement,NONE
+1243,train,Feminist Movement,FAVOR
+1244,train,Feminist Movement,FAVOR
+1245,train,Feminist Movement,FAVOR
+1246,train,Feminist Movement,FAVOR
+1247,train,Feminist Movement,NONE
+1248,train,Feminist Movement,AGAINST
+1249,train,Feminist Movement,AGAINST
+1250,train,Feminist Movement,FAVOR
+1251,train,Feminist Movement,FAVOR
+1252,train,Feminist Movement,AGAINST
+1253,train,Feminist Movement,AGAINST
+1254,train,Feminist Movement,FAVOR
+1255,train,Feminist Movement,FAVOR
+1256,train,Feminist Movement,NONE
+1257,train,Feminist Movement,NONE
+1258,train,Feminist Movement,FAVOR
+1259,train,Feminist Movement,FAVOR
+1260,train,Feminist Movement,NONE
+1261,train,Feminist Movement,NONE
+1262,train,Feminist Movement,AGAINST
+1263,train,Feminist Movement,FAVOR
+1264,train,Feminist Movement,AGAINST
+1265,train,Feminist Movement,AGAINST
+1266,train,Feminist Movement,NONE
+1267,train,Feminist Movement,FAVOR
+1268,train,Feminist Movement,AGAINST
+1269,train,Feminist Movement,AGAINST
+1270,train,Feminist Movement,AGAINST
+1271,train,Feminist Movement,FAVOR
+1272,train,Feminist Movement,FAVOR
+1273,train,Feminist Movement,FAVOR
+1274,train,Feminist Movement,AGAINST
+1275,train,Feminist Movement,FAVOR
+1276,train,Feminist Movement,FAVOR
+1277,train,Feminist Movement,AGAINST
+1278,train,Feminist Movement,FAVOR
+1279,train,Feminist Movement,FAVOR
+1280,train,Feminist Movement,FAVOR
+1281,train,Feminist Movement,FAVOR
+1282,train,Feminist Movement,FAVOR
+1283,train,Feminist Movement,FAVOR
+1284,train,Feminist Movement,AGAINST
+1285,train,Feminist Movement,AGAINST
+1286,train,Feminist Movement,AGAINST
+1287,train,Feminist Movement,FAVOR
+1288,train,Feminist Movement,AGAINST
+1289,train,Feminist Movement,NONE
+1290,train,Feminist Movement,AGAINST
+1291,train,Feminist Movement,AGAINST
+1292,train,Feminist Movement,FAVOR
+1293,train,Feminist Movement,NONE
+1294,train,Feminist Movement,NONE
+1295,train,Feminist Movement,NONE
+1296,train,Feminist Movement,FAVOR
+1297,train,Feminist Movement,NONE
+1298,train,Feminist Movement,AGAINST
+1299,train,Feminist Movement,AGAINST
+1300,train,Feminist Movement,NONE
+1301,train,Feminist Movement,FAVOR
+1302,train,Feminist Movement,NONE
+1303,train,Feminist Movement,AGAINST
+1304,train,Feminist Movement,FAVOR
+1305,train,Feminist Movement,AGAINST
+1306,train,Feminist Movement,FAVOR
+1307,train,Feminist Movement,FAVOR
+1308,train,Feminist Movement,FAVOR
+1309,train,Feminist Movement,FAVOR
+1310,train,Feminist Movement,AGAINST
+1311,train,Feminist Movement,NONE
+1312,train,Feminist Movement,FAVOR
+1313,train,Feminist Movement,AGAINST
+1314,train,Feminist Movement,AGAINST
+1315,train,Feminist Movement,AGAINST
+1316,train,Feminist Movement,AGAINST
+1317,train,Feminist Movement,AGAINST
+1318,train,Feminist Movement,NONE
+1319,train,Feminist Movement,NONE
+1320,train,Feminist Movement,AGAINST
+1321,train,Feminist Movement,AGAINST
+1322,train,Feminist Movement,AGAINST
+1323,train,Feminist Movement,FAVOR
+1324,train,Feminist Movement,AGAINST
+1325,train,Feminist Movement,NONE
+1326,train,Feminist Movement,AGAINST
+1327,train,Feminist Movement,AGAINST
+1328,train,Feminist Movement,NONE
+1329,train,Feminist Movement,AGAINST
+1330,train,Feminist Movement,NONE
+1331,train,Feminist Movement,NONE
+1332,train,Feminist Movement,FAVOR
+1333,train,Feminist Movement,NONE
+1334,train,Feminist Movement,FAVOR
+1335,train,Feminist Movement,NONE
+1336,train,Feminist Movement,NONE
+1337,train,Feminist Movement,AGAINST
+1338,train,Feminist Movement,NONE
+1339,train,Feminist Movement,AGAINST
+1340,train,Feminist Movement,FAVOR
+1341,train,Feminist Movement,AGAINST
+1342,train,Feminist Movement,NONE
+1343,train,Feminist Movement,AGAINST
+1344,train,Feminist Movement,AGAINST
+1345,train,Feminist Movement,NONE
+1346,train,Feminist Movement,FAVOR
+1347,train,Feminist Movement,NONE
+1348,train,Feminist Movement,FAVOR
+1349,train,Feminist Movement,FAVOR
+1350,train,Feminist Movement,NONE
+1351,train,Feminist Movement,FAVOR
+1352,train,Feminist Movement,AGAINST
+1353,train,Feminist Movement,NONE
+1354,train,Feminist Movement,FAVOR
+1355,train,Feminist Movement,NONE
+1356,train,Feminist Movement,AGAINST
+1357,train,Feminist Movement,NONE
+1358,train,Feminist Movement,AGAINST
+1359,train,Feminist Movement,AGAINST
+1360,train,Feminist Movement,AGAINST
+1361,train,Feminist Movement,AGAINST
+1362,train,Feminist Movement,FAVOR
+1363,train,Feminist Movement,FAVOR
+1364,train,Feminist Movement,NONE
+1365,train,Feminist Movement,FAVOR
+1366,train,Feminist Movement,NONE
+1367,train,Feminist Movement,FAVOR
+1368,train,Feminist Movement,NONE
+1369,train,Feminist Movement,AGAINST
+1370,train,Feminist Movement,NONE
+1371,train,Feminist Movement,AGAINST
+1372,train,Feminist Movement,FAVOR
+1373,train,Feminist Movement,FAVOR
+1374,train,Feminist Movement,FAVOR
+1375,train,Feminist Movement,NONE
+1376,train,Feminist Movement,FAVOR
+1377,train,Feminist Movement,NONE
+1378,train,Feminist Movement,AGAINST
+1379,train,Feminist Movement,FAVOR
+1380,train,Feminist Movement,NONE
+1381,train,Feminist Movement,NONE
+1382,train,Feminist Movement,NONE
+1383,train,Feminist Movement,AGAINST
+1384,train,Feminist Movement,FAVOR
+1385,train,Feminist Movement,FAVOR
+1386,train,Feminist Movement,NONE
+1387,train,Feminist Movement,NONE
+1388,train,Feminist Movement,FAVOR
+1389,train,Feminist Movement,NONE
+1390,train,Feminist Movement,FAVOR
+1391,train,Feminist Movement,FAVOR
+1392,train,Feminist Movement,FAVOR
+1393,train,Feminist Movement,FAVOR
+1394,train,Feminist Movement,AGAINST
+1395,train,Feminist Movement,FAVOR
+1396,train,Feminist Movement,AGAINST
+1397,train,Feminist Movement,FAVOR
+1398,train,Feminist Movement,FAVOR
+1399,train,Feminist Movement,AGAINST
+1400,train,Feminist Movement,AGAINST
+1401,train,Feminist Movement,AGAINST
+1402,train,Feminist Movement,AGAINST
+1403,train,Feminist Movement,AGAINST
+1404,train,Feminist Movement,AGAINST
+1405,train,Feminist Movement,AGAINST
+1406,train,Feminist Movement,AGAINST
+1407,train,Feminist Movement,AGAINST
+1408,train,Feminist Movement,AGAINST
+1409,train,Feminist Movement,FAVOR
+1410,train,Feminist Movement,AGAINST
+1411,train,Feminist Movement,NONE
+1412,train,Feminist Movement,FAVOR
+1413,train,Feminist Movement,FAVOR
+1414,train,Feminist Movement,NONE
+1415,train,Feminist Movement,NONE
+1416,train,Feminist Movement,FAVOR
+1417,train,Feminist Movement,AGAINST
+1418,train,Feminist Movement,NONE
+1419,train,Feminist Movement,FAVOR
+1420,train,Feminist Movement,FAVOR
+1421,train,Feminist Movement,NONE
+1422,train,Feminist Movement,AGAINST
+1423,train,Feminist Movement,NONE
+1424,train,Feminist Movement,NONE
+1425,train,Feminist Movement,AGAINST
+1426,train,Feminist Movement,FAVOR
+1427,train,Feminist Movement,FAVOR
+1428,train,Feminist Movement,FAVOR
+1429,train,Feminist Movement,AGAINST
+1430,train,Feminist Movement,NONE
+1431,train,Feminist Movement,AGAINST
+1432,train,Feminist Movement,NONE
+1433,train,Feminist Movement,FAVOR
+1434,train,Feminist Movement,AGAINST
+1435,train,Feminist Movement,FAVOR
+1436,train,Feminist Movement,FAVOR
+1437,train,Feminist Movement,AGAINST
+1438,train,Feminist Movement,AGAINST
+1439,train,Feminist Movement,NONE
+1440,train,Feminist Movement,AGAINST
+1441,train,Feminist Movement,AGAINST
+1442,train,Feminist Movement,NONE
+1443,train,Feminist Movement,AGAINST
+1444,train,Feminist Movement,NONE
+1445,train,Feminist Movement,NONE
+1446,train,Feminist Movement,AGAINST
+1447,train,Feminist Movement,FAVOR
+1448,train,Feminist Movement,FAVOR
+1449,train,Feminist Movement,AGAINST
+1450,train,Feminist Movement,AGAINST
+1451,train,Feminist Movement,AGAINST
+1452,train,Feminist Movement,NONE
+1453,train,Feminist Movement,NONE
+1454,train,Feminist Movement,AGAINST
+1455,train,Feminist Movement,AGAINST
+1456,train,Feminist Movement,FAVOR
+1457,train,Feminist Movement,FAVOR
+1458,train,Feminist Movement,FAVOR
+1459,train,Feminist Movement,AGAINST
+1460,train,Feminist Movement,NONE
+1461,train,Feminist Movement,FAVOR
+1462,train,Feminist Movement,NONE
+1463,train,Feminist Movement,FAVOR
+1464,train,Feminist Movement,NONE
+1465,train,Feminist Movement,FAVOR
+1466,train,Feminist Movement,FAVOR
+1467,train,Feminist Movement,AGAINST
+1468,train,Feminist Movement,NONE
+1469,train,Feminist Movement,AGAINST
+1470,train,Feminist Movement,AGAINST
+1471,train,Feminist Movement,NONE
+1472,train,Feminist Movement,FAVOR
+1473,train,Feminist Movement,AGAINST
+1474,train,Feminist Movement,AGAINST
+1475,train,Feminist Movement,AGAINST
+1476,train,Feminist Movement,AGAINST
+1477,train,Feminist Movement,AGAINST
+1478,train,Feminist Movement,AGAINST
+1479,train,Feminist Movement,AGAINST
+1480,train,Feminist Movement,AGAINST
+1481,train,Feminist Movement,AGAINST
+1482,train,Feminist Movement,AGAINST
+1483,train,Feminist Movement,AGAINST
+1484,train,Feminist Movement,AGAINST
+1485,train,Feminist Movement,AGAINST
+1486,train,Feminist Movement,AGAINST
+1487,train,Feminist Movement,AGAINST
+1488,train,Feminist Movement,AGAINST
+1489,train,Feminist Movement,AGAINST
+1490,train,Feminist Movement,AGAINST
+1491,train,Feminist Movement,AGAINST
+1492,train,Feminist Movement,AGAINST
+1493,train,Feminist Movement,AGAINST
+1494,train,Feminist Movement,AGAINST
+1495,dev,Feminist Movement,AGAINST
+1496,train,Feminist Movement,AGAINST
+1497,train,Feminist Movement,AGAINST
+1498,train,Feminist Movement,AGAINST
+1499,train,Feminist Movement,AGAINST
+1500,train,Feminist Movement,AGAINST
+1501,train,Feminist Movement,AGAINST
+1502,train,Feminist Movement,AGAINST
+1503,train,Feminist Movement,AGAINST
+1504,train,Feminist Movement,AGAINST
+1505,train,Feminist Movement,AGAINST
+1506,train,Feminist Movement,AGAINST
+1507,train,Feminist Movement,AGAINST
+1508,train,Feminist Movement,AGAINST
+1509,train,Feminist Movement,AGAINST
+1510,train,Feminist Movement,AGAINST
+1511,train,Feminist Movement,AGAINST
+1512,train,Feminist Movement,AGAINST
+1513,train,Feminist Movement,AGAINST
+1514,train,Feminist Movement,AGAINST
+1515,train,Feminist Movement,AGAINST
+1516,train,Feminist Movement,AGAINST
+1517,train,Feminist Movement,AGAINST
+1518,train,Feminist Movement,AGAINST
+1519,train,Feminist Movement,AGAINST
+1520,train,Feminist Movement,AGAINST
+1521,train,Feminist Movement,AGAINST
+1522,train,Feminist Movement,AGAINST
+1523,train,Feminist Movement,AGAINST
+1524,train,Feminist Movement,AGAINST
+1525,train,Feminist Movement,AGAINST
+1526,train,Feminist Movement,AGAINST
+1527,train,Feminist Movement,AGAINST
+1528,train,Feminist Movement,AGAINST
+1529,train,Feminist Movement,AGAINST
+1530,train,Feminist Movement,AGAINST
+1531,train,Feminist Movement,AGAINST
+1532,train,Feminist Movement,AGAINST
+1533,train,Feminist Movement,AGAINST
+1534,train,Feminist Movement,AGAINST
+1535,train,Feminist Movement,AGAINST
+1536,train,Feminist Movement,AGAINST
+1537,train,Feminist Movement,AGAINST
+1538,train,Feminist Movement,AGAINST
+1539,train,Feminist Movement,AGAINST
+1540,train,Feminist Movement,AGAINST
+1541,train,Feminist Movement,AGAINST
+1542,train,Feminist Movement,AGAINST
+1543,train,Feminist Movement,AGAINST
+1544,train,Feminist Movement,AGAINST
+1545,train,Feminist Movement,AGAINST
+1546,train,Feminist Movement,AGAINST
+1547,train,Feminist Movement,AGAINST
+1548,train,Feminist Movement,AGAINST
+1549,train,Feminist Movement,AGAINST
+1550,train,Feminist Movement,AGAINST
+1551,train,Feminist Movement,AGAINST
+1552,train,Feminist Movement,AGAINST
+1553,train,Feminist Movement,AGAINST
+1554,train,Feminist Movement,AGAINST
+1555,train,Feminist Movement,AGAINST
+1556,train,Feminist Movement,AGAINST
+1557,train,Feminist Movement,AGAINST
+1558,train,Feminist Movement,AGAINST
+1559,train,Feminist Movement,AGAINST
+1560,train,Feminist Movement,AGAINST
+1561,train,Feminist Movement,AGAINST
+1562,train,Feminist Movement,AGAINST
+1563,train,Feminist Movement,AGAINST
+1564,train,Feminist Movement,AGAINST
+1565,train,Feminist Movement,AGAINST
+1566,train,Feminist Movement,AGAINST
+1567,train,Feminist Movement,AGAINST
+1568,train,Feminist Movement,AGAINST
+1569,train,Feminist Movement,AGAINST
+1570,train,Feminist Movement,AGAINST
+1571,train,Feminist Movement,AGAINST
+1572,train,Feminist Movement,AGAINST
+1573,train,Feminist Movement,AGAINST
+1574,train,Feminist Movement,AGAINST
+1575,train,Feminist Movement,AGAINST
+1576,train,Feminist Movement,AGAINST
+1577,train,Feminist Movement,AGAINST
+1578,train,Feminist Movement,AGAINST
+1579,train,Feminist Movement,AGAINST
+1580,train,Feminist Movement,AGAINST
+1581,train,Feminist Movement,AGAINST
+1582,train,Feminist Movement,AGAINST
+1583,train,Feminist Movement,AGAINST
+1584,train,Feminist Movement,AGAINST
+1585,train,Feminist Movement,AGAINST
+1586,train,Feminist Movement,AGAINST
+1587,train,Feminist Movement,AGAINST
+1588,train,Feminist Movement,AGAINST
+1589,train,Feminist Movement,AGAINST
+1590,train,Feminist Movement,AGAINST
+1591,train,Feminist Movement,AGAINST
+1592,train,Feminist Movement,AGAINST
+1593,train,Feminist Movement,AGAINST
+1594,train,Feminist Movement,AGAINST
+1595,train,Feminist Movement,AGAINST
+1596,train,Feminist Movement,AGAINST
+1597,train,Feminist Movement,AGAINST
+1598,train,Feminist Movement,AGAINST
+1599,train,Feminist Movement,AGAINST
+1600,train,Feminist Movement,AGAINST
+1601,train,Feminist Movement,AGAINST
+1602,train,Feminist Movement,AGAINST
+1603,train,Feminist Movement,AGAINST
+1604,train,Feminist Movement,AGAINST
+1605,train,Feminist Movement,AGAINST
+1606,train,Feminist Movement,FAVOR
+1607,train,Feminist Movement,FAVOR
+1608,train,Feminist Movement,FAVOR
+1609,train,Feminist Movement,AGAINST
+1610,train,Feminist Movement,FAVOR
+1611,train,Feminist Movement,FAVOR
+1612,train,Feminist Movement,NONE
+1613,train,Feminist Movement,AGAINST
+1614,train,Feminist Movement,AGAINST
+1615,train,Feminist Movement,AGAINST
+1616,train,Feminist Movement,NONE
+1617,train,Feminist Movement,AGAINST
+1618,train,Feminist Movement,AGAINST
+1619,train,Feminist Movement,AGAINST
+1620,train,Feminist Movement,AGAINST
+1621,train,Feminist Movement,AGAINST
+1622,dev,Feminist Movement,AGAINST
+1623,train,Feminist Movement,AGAINST
+1624,train,Feminist Movement,AGAINST
+1625,train,Feminist Movement,AGAINST
+1626,train,Feminist Movement,NONE
+1627,train,Feminist Movement,NONE
+1628,train,Feminist Movement,AGAINST
+1629,train,Feminist Movement,FAVOR
+1630,train,Feminist Movement,NONE
+1631,train,Feminist Movement,AGAINST
+1632,train,Feminist Movement,AGAINST
+1633,train,Feminist Movement,NONE
+1634,train,Feminist Movement,AGAINST
+1635,train,Feminist Movement,FAVOR
+1636,train,Feminist Movement,NONE
+1637,train,Feminist Movement,NONE
+1638,train,Feminist Movement,AGAINST
+1639,train,Feminist Movement,NONE
+1640,train,Feminist Movement,AGAINST
+1641,train,Feminist Movement,FAVOR
+1642,train,Feminist Movement,AGAINST
+1643,train,Feminist Movement,AGAINST
+1644,train,Feminist Movement,AGAINST
+1645,train,Feminist Movement,AGAINST
+1646,train,Feminist Movement,AGAINST
+1647,train,Feminist Movement,AGAINST
+1648,train,Feminist Movement,FAVOR
+1649,train,Feminist Movement,AGAINST
+1650,train,Feminist Movement,AGAINST
+1651,train,Feminist Movement,AGAINST
+1652,train,Feminist Movement,AGAINST
+1653,train,Feminist Movement,AGAINST
+1654,train,Feminist Movement,AGAINST
+1655,train,Feminist Movement,AGAINST
+1656,train,Feminist Movement,AGAINST
+1657,train,Feminist Movement,AGAINST
+1658,train,Feminist Movement,AGAINST
+1659,train,Feminist Movement,AGAINST
+1660,train,Feminist Movement,AGAINST
+1661,train,Feminist Movement,AGAINST
+1662,train,Feminist Movement,AGAINST
+1663,train,Feminist Movement,AGAINST
+1664,train,Feminist Movement,AGAINST
+1665,train,Feminist Movement,AGAINST
+1666,train,Feminist Movement,AGAINST
+1667,train,Feminist Movement,AGAINST
+1668,train,Feminist Movement,AGAINST
+1669,train,Feminist Movement,AGAINST
+1670,train,Feminist Movement,AGAINST
+1671,train,Feminist Movement,AGAINST
+1672,train,Feminist Movement,AGAINST
+1673,train,Hillary Clinton,FAVOR
+1674,train,Hillary Clinton,AGAINST
+1675,train,Hillary Clinton,NONE
+1676,train,Hillary Clinton,FAVOR
+1677,train,Hillary Clinton,NONE
+1678,train,Hillary Clinton,AGAINST
+1679,train,Hillary Clinton,FAVOR
+1680,train,Hillary Clinton,AGAINST
+1681,train,Hillary Clinton,NONE
+1682,train,Hillary Clinton,FAVOR
+1683,train,Hillary Clinton,NONE
+1684,train,Hillary Clinton,NONE
+1685,train,Hillary Clinton,AGAINST
+1686,train,Hillary Clinton,NONE
+1687,train,Hillary Clinton,AGAINST
+1688,train,Hillary Clinton,NONE
+1689,train,Hillary Clinton,AGAINST
+1690,train,Hillary Clinton,FAVOR
+1691,train,Hillary Clinton,FAVOR
+1692,train,Hillary Clinton,FAVOR
+1693,train,Hillary Clinton,NONE
+1694,train,Hillary Clinton,NONE
+1695,train,Hillary Clinton,FAVOR
+1696,train,Hillary Clinton,AGAINST
+1697,train,Hillary Clinton,NONE
+1698,train,Hillary Clinton,AGAINST
+1699,train,Hillary Clinton,AGAINST
+1700,train,Hillary Clinton,FAVOR
+1701,train,Hillary Clinton,AGAINST
+1702,train,Hillary Clinton,NONE
+1703,train,Hillary Clinton,FAVOR
+1704,train,Hillary Clinton,AGAINST
+1705,train,Hillary Clinton,FAVOR
+1706,train,Hillary Clinton,AGAINST
+1707,train,Hillary Clinton,FAVOR
+1708,train,Hillary Clinton,NONE
+1709,train,Hillary Clinton,FAVOR
+1710,train,Hillary Clinton,FAVOR
+1711,train,Hillary Clinton,FAVOR
+1712,train,Hillary Clinton,AGAINST
+1713,train,Hillary Clinton,NONE
+1714,train,Hillary Clinton,FAVOR
+1715,train,Hillary Clinton,FAVOR
+1716,train,Hillary Clinton,FAVOR
+1717,train,Hillary Clinton,AGAINST
+1718,train,Hillary Clinton,NONE
+1719,train,Hillary Clinton,AGAINST
+1720,train,Hillary Clinton,AGAINST
+1721,train,Hillary Clinton,FAVOR
+1722,train,Hillary Clinton,AGAINST
+1723,train,Hillary Clinton,AGAINST
+1724,train,Hillary Clinton,AGAINST
+1725,train,Hillary Clinton,NONE
+1726,train,Hillary Clinton,AGAINST
+1727,train,Hillary Clinton,AGAINST
+1728,train,Hillary Clinton,NONE
+1729,train,Hillary Clinton,FAVOR
+1730,train,Hillary Clinton,AGAINST
+1731,train,Hillary Clinton,NONE
+1732,train,Hillary Clinton,AGAINST
+1733,train,Hillary Clinton,NONE
+1734,train,Hillary Clinton,NONE
+1735,train,Hillary Clinton,AGAINST
+1736,train,Hillary Clinton,AGAINST
+1737,train,Hillary Clinton,NONE
+1738,train,Hillary Clinton,AGAINST
+1739,train,Hillary Clinton,AGAINST
+1740,train,Hillary Clinton,AGAINST
+1741,train,Hillary Clinton,NONE
+1742,train,Hillary Clinton,NONE
+1743,train,Hillary Clinton,AGAINST
+1744,train,Hillary Clinton,NONE
+1745,train,Hillary Clinton,NONE
+1746,train,Hillary Clinton,FAVOR
+1747,train,Hillary Clinton,NONE
+1748,train,Hillary Clinton,FAVOR
+1749,train,Hillary Clinton,AGAINST
+1750,train,Hillary Clinton,AGAINST
+1751,train,Hillary Clinton,NONE
+1752,train,Hillary Clinton,FAVOR
+1753,dev,Hillary Clinton,FAVOR
+1754,train,Hillary Clinton,AGAINST
+1755,train,Hillary Clinton,AGAINST
+1756,train,Hillary Clinton,AGAINST
+1757,train,Hillary Clinton,FAVOR
+1758,train,Hillary Clinton,NONE
+1759,train,Hillary Clinton,NONE
+1760,train,Hillary Clinton,AGAINST
+1761,train,Hillary Clinton,AGAINST
+1762,train,Hillary Clinton,NONE
+1763,train,Hillary Clinton,NONE
+1764,train,Hillary Clinton,NONE
+1765,train,Hillary Clinton,AGAINST
+1766,train,Hillary Clinton,AGAINST
+1767,train,Hillary Clinton,AGAINST
+1768,train,Hillary Clinton,AGAINST
+1769,train,Hillary Clinton,AGAINST
+1770,train,Hillary Clinton,NONE
+1771,train,Hillary Clinton,AGAINST
+1772,train,Hillary Clinton,AGAINST
+1773,train,Hillary Clinton,AGAINST
+1774,train,Hillary Clinton,AGAINST
+1775,train,Hillary Clinton,AGAINST
+1776,train,Hillary Clinton,AGAINST
+1777,train,Hillary Clinton,NONE
+1778,train,Hillary Clinton,AGAINST
+1779,train,Hillary Clinton,NONE
+1780,train,Hillary Clinton,NONE
+1781,train,Hillary Clinton,AGAINST
+1782,train,Hillary Clinton,AGAINST
+1783,train,Hillary Clinton,AGAINST
+1784,train,Hillary Clinton,NONE
+1785,train,Hillary Clinton,FAVOR
+1786,train,Hillary Clinton,NONE
+1787,train,Hillary Clinton,FAVOR
+1788,train,Hillary Clinton,FAVOR
+1789,train,Hillary Clinton,AGAINST
+1790,train,Hillary Clinton,FAVOR
+1791,train,Hillary Clinton,FAVOR
+1792,train,Hillary Clinton,NONE
+1793,train,Hillary Clinton,FAVOR
+1794,train,Hillary Clinton,AGAINST
+1795,train,Hillary Clinton,AGAINST
+1796,train,Hillary Clinton,FAVOR
+1797,train,Hillary Clinton,AGAINST
+1798,train,Hillary Clinton,AGAINST
+1799,train,Hillary Clinton,FAVOR
+1800,train,Hillary Clinton,FAVOR
+1801,train,Hillary Clinton,AGAINST
+1802,train,Hillary Clinton,NONE
+1803,train,Hillary Clinton,AGAINST
+1804,train,Hillary Clinton,AGAINST
+1805,train,Hillary Clinton,AGAINST
+1806,train,Hillary Clinton,AGAINST
+1807,train,Hillary Clinton,AGAINST
+1808,train,Hillary Clinton,AGAINST
+1809,train,Hillary Clinton,NONE
+1810,train,Hillary Clinton,AGAINST
+1811,train,Hillary Clinton,AGAINST
+1812,train,Hillary Clinton,FAVOR
+1813,train,Hillary Clinton,AGAINST
+1814,train,Hillary Clinton,NONE
+1815,train,Hillary Clinton,NONE
+1816,train,Hillary Clinton,FAVOR
+1817,train,Hillary Clinton,AGAINST
+1818,train,Hillary Clinton,AGAINST
+1819,train,Hillary Clinton,FAVOR
+1820,train,Hillary Clinton,NONE
+1821,train,Hillary Clinton,AGAINST
+1822,train,Hillary Clinton,FAVOR
+1823,train,Hillary Clinton,AGAINST
+1824,train,Hillary Clinton,NONE
+1825,train,Hillary Clinton,FAVOR
+1826,train,Hillary Clinton,AGAINST
+1827,train,Hillary Clinton,FAVOR
+1828,train,Hillary Clinton,FAVOR
+1829,train,Hillary Clinton,FAVOR
+1830,train,Hillary Clinton,FAVOR
+1831,train,Hillary Clinton,FAVOR
+1832,train,Hillary Clinton,FAVOR
+1833,train,Hillary Clinton,NONE
+1834,train,Hillary Clinton,AGAINST
+1835,train,Hillary Clinton,NONE
+1836,train,Hillary Clinton,AGAINST
+1837,train,Hillary Clinton,FAVOR
+1838,train,Hillary Clinton,FAVOR
+1839,train,Hillary Clinton,AGAINST
+1840,train,Hillary Clinton,NONE
+1841,train,Hillary Clinton,AGAINST
+1842,train,Hillary Clinton,FAVOR
+1843,train,Hillary Clinton,AGAINST
+1844,train,Hillary Clinton,NONE
+1845,train,Hillary Clinton,AGAINST
+1846,train,Hillary Clinton,AGAINST
+1847,train,Hillary Clinton,AGAINST
+1848,train,Hillary Clinton,FAVOR
+1849,train,Hillary Clinton,NONE
+1850,train,Hillary Clinton,FAVOR
+1851,train,Hillary Clinton,NONE
+1852,train,Hillary Clinton,AGAINST
+1853,train,Hillary Clinton,AGAINST
+1854,train,Hillary Clinton,NONE
+1855,train,Hillary Clinton,AGAINST
+1856,train,Hillary Clinton,AGAINST
+1857,train,Hillary Clinton,FAVOR
+1858,train,Hillary Clinton,NONE
+1859,train,Hillary Clinton,NONE
+1860,train,Hillary Clinton,AGAINST
+1861,train,Hillary Clinton,FAVOR
+1862,train,Hillary Clinton,AGAINST
+1863,train,Hillary Clinton,NONE
+1864,train,Hillary Clinton,AGAINST
+1865,train,Hillary Clinton,NONE
+1866,train,Hillary Clinton,NONE
+1867,train,Hillary Clinton,AGAINST
+1868,train,Hillary Clinton,NONE
+1869,train,Hillary Clinton,NONE
+1870,train,Hillary Clinton,AGAINST
+1871,train,Hillary Clinton,FAVOR
+1872,train,Hillary Clinton,AGAINST
+1873,train,Hillary Clinton,NONE
+1874,train,Hillary Clinton,AGAINST
+1875,train,Hillary Clinton,NONE
+1876,train,Hillary Clinton,NONE
+1877,train,Hillary Clinton,FAVOR
+1878,train,Hillary Clinton,NONE
+1879,train,Hillary Clinton,FAVOR
+1880,train,Hillary Clinton,AGAINST
+1881,train,Hillary Clinton,AGAINST
+1882,train,Hillary Clinton,NONE
+1883,train,Hillary Clinton,NONE
+1884,train,Hillary Clinton,NONE
+1885,train,Hillary Clinton,NONE
+1886,train,Hillary Clinton,NONE
+1887,train,Hillary Clinton,FAVOR
+1888,train,Hillary Clinton,NONE
+1889,train,Hillary Clinton,NONE
+1890,train,Hillary Clinton,FAVOR
+1891,train,Hillary Clinton,NONE
+1892,train,Hillary Clinton,FAVOR
+1893,train,Hillary Clinton,AGAINST
+1894,train,Hillary Clinton,AGAINST
+1895,train,Hillary Clinton,FAVOR
+1896,train,Hillary Clinton,AGAINST
+1897,train,Hillary Clinton,AGAINST
+1898,train,Hillary Clinton,AGAINST
+1899,train,Hillary Clinton,NONE
+1900,train,Hillary Clinton,AGAINST
+1901,train,Hillary Clinton,AGAINST
+1902,train,Hillary Clinton,FAVOR
+1903,train,Hillary Clinton,NONE
+1904,train,Hillary Clinton,FAVOR
+1905,train,Hillary Clinton,AGAINST
+1906,train,Hillary Clinton,AGAINST
+1907,train,Hillary Clinton,FAVOR
+1908,train,Hillary Clinton,NONE
+1909,train,Hillary Clinton,AGAINST
+1910,train,Hillary Clinton,AGAINST
+1911,train,Hillary Clinton,AGAINST
+1912,train,Hillary Clinton,AGAINST
+1913,train,Hillary Clinton,FAVOR
+1914,train,Hillary Clinton,NONE
+1915,train,Hillary Clinton,AGAINST
+1916,train,Hillary Clinton,FAVOR
+1917,train,Hillary Clinton,NONE
+1918,train,Hillary Clinton,NONE
+1919,train,Hillary Clinton,NONE
+1920,train,Hillary Clinton,AGAINST
+1921,train,Hillary Clinton,FAVOR
+1922,train,Hillary Clinton,NONE
+1923,train,Hillary Clinton,NONE
+1924,train,Hillary Clinton,FAVOR
+1925,train,Hillary Clinton,FAVOR
+1926,train,Hillary Clinton,AGAINST
+1927,train,Hillary Clinton,AGAINST
+1928,train,Hillary Clinton,AGAINST
+1929,train,Hillary Clinton,AGAINST
+1930,train,Hillary Clinton,AGAINST
+1931,train,Hillary Clinton,FAVOR
+1932,train,Hillary Clinton,NONE
+1933,train,Hillary Clinton,AGAINST
+1934,train,Hillary Clinton,NONE
+1935,train,Hillary Clinton,AGAINST
+1936,train,Hillary Clinton,NONE
+1937,train,Hillary Clinton,NONE
+1938,train,Hillary Clinton,NONE
+1939,train,Hillary Clinton,NONE
+1940,train,Hillary Clinton,FAVOR
+1941,train,Hillary Clinton,NONE
+1942,train,Hillary Clinton,NONE
+1943,train,Hillary Clinton,FAVOR
+1944,train,Hillary Clinton,NONE
+1945,train,Hillary Clinton,NONE
+1946,train,Hillary Clinton,AGAINST
+1947,train,Hillary Clinton,NONE
+1948,train,Hillary Clinton,NONE
+1949,train,Hillary Clinton,NONE
+1950,train,Hillary Clinton,AGAINST
+1951,train,Hillary Clinton,AGAINST
+1952,train,Hillary Clinton,NONE
+1953,train,Hillary Clinton,NONE
+1954,train,Hillary Clinton,NONE
+1955,train,Hillary Clinton,FAVOR
+1956,train,Hillary Clinton,NONE
+1957,train,Hillary Clinton,NONE
+1958,train,Hillary Clinton,NONE
+1959,train,Hillary Clinton,NONE
+1960,train,Hillary Clinton,NONE
+1961,train,Hillary Clinton,AGAINST
+1962,train,Hillary Clinton,AGAINST
+1963,train,Hillary Clinton,FAVOR
+1964,train,Hillary Clinton,NONE
+1965,train,Hillary Clinton,FAVOR
+1966,train,Hillary Clinton,FAVOR
+1967,train,Hillary Clinton,NONE
+1968,train,Hillary Clinton,NONE
+1969,train,Hillary Clinton,NONE
+1970,train,Hillary Clinton,NONE
+1971,train,Hillary Clinton,NONE
+1972,train,Hillary Clinton,NONE
+1973,train,Hillary Clinton,NONE
+1974,train,Hillary Clinton,NONE
+1975,train,Hillary Clinton,NONE
+1976,train,Hillary Clinton,AGAINST
+1977,train,Hillary Clinton,FAVOR
+1978,train,Hillary Clinton,NONE
+1979,train,Hillary Clinton,NONE
+1980,train,Hillary Clinton,FAVOR
+1981,train,Hillary Clinton,NONE
+1982,train,Hillary Clinton,AGAINST
+1983,train,Hillary Clinton,NONE
+1984,train,Hillary Clinton,FAVOR
+1985,train,Hillary Clinton,FAVOR
+1986,train,Hillary Clinton,AGAINST
+1987,train,Hillary Clinton,AGAINST
+1988,train,Hillary Clinton,AGAINST
+1989,train,Hillary Clinton,AGAINST
+1990,train,Hillary Clinton,AGAINST
+1991,train,Hillary Clinton,NONE
+1992,train,Hillary Clinton,NONE
+1993,train,Hillary Clinton,FAVOR
+1994,train,Hillary Clinton,FAVOR
+1995,train,Hillary Clinton,AGAINST
+1996,train,Hillary Clinton,AGAINST
+1997,train,Hillary Clinton,NONE
+1998,train,Hillary Clinton,AGAINST
+1999,train,Hillary Clinton,FAVOR
+2000,train,Hillary Clinton,NONE
+2001,train,Hillary Clinton,NONE
+2002,train,Hillary Clinton,NONE
+2003,train,Hillary Clinton,NONE
+2004,train,Hillary Clinton,AGAINST
+2005,train,Hillary Clinton,FAVOR
+2006,train,Hillary Clinton,AGAINST
+2007,train,Hillary Clinton,AGAINST
+2008,train,Hillary Clinton,AGAINST
+2009,train,Hillary Clinton,NONE
+2010,train,Hillary Clinton,FAVOR
+2011,train,Hillary Clinton,NONE
+2012,train,Hillary Clinton,AGAINST
+2013,train,Hillary Clinton,AGAINST
+2014,train,Hillary Clinton,NONE
+2015,train,Hillary Clinton,NONE
+2016,train,Hillary Clinton,AGAINST
+2017,train,Hillary Clinton,NONE
+2018,train,Hillary Clinton,AGAINST
+2019,train,Hillary Clinton,FAVOR
+2020,train,Hillary Clinton,NONE
+2021,train,Hillary Clinton,FAVOR
+2022,train,Hillary Clinton,AGAINST
+2023,train,Hillary Clinton,NONE
+2024,train,Hillary Clinton,AGAINST
+2025,train,Hillary Clinton,NONE
+2026,train,Hillary Clinton,AGAINST
+2027,train,Hillary Clinton,FAVOR
+2028,train,Hillary Clinton,FAVOR
+2029,train,Hillary Clinton,NONE
+2030,train,Hillary Clinton,AGAINST
+2031,train,Hillary Clinton,NONE
+2032,train,Hillary Clinton,AGAINST
+2033,train,Hillary Clinton,NONE
+2034,train,Hillary Clinton,NONE
+2035,train,Hillary Clinton,NONE
+2036,train,Hillary Clinton,NONE
+2037,train,Hillary Clinton,FAVOR
+2038,train,Hillary Clinton,FAVOR
+2039,train,Hillary Clinton,FAVOR
+2040,train,Hillary Clinton,NONE
+2041,train,Hillary Clinton,AGAINST
+2042,train,Hillary Clinton,FAVOR
+2043,train,Hillary Clinton,AGAINST
+2044,train,Hillary Clinton,NONE
+2045,train,Hillary Clinton,AGAINST
+2046,train,Hillary Clinton,AGAINST
+2047,train,Hillary Clinton,AGAINST
+2048,train,Hillary Clinton,NONE
+2049,train,Hillary Clinton,AGAINST
+2050,train,Hillary Clinton,NONE
+2051,train,Hillary Clinton,NONE
+2052,train,Hillary Clinton,NONE
+2053,train,Hillary Clinton,NONE
+2054,train,Hillary Clinton,AGAINST
+2055,train,Hillary Clinton,AGAINST
+2056,train,Hillary Clinton,FAVOR
+2057,train,Hillary Clinton,NONE
+2058,train,Hillary Clinton,NONE
+2059,train,Hillary Clinton,AGAINST
+2060,train,Hillary Clinton,NONE
+2061,train,Hillary Clinton,AGAINST
+2062,train,Hillary Clinton,NONE
+2063,train,Hillary Clinton,NONE
+2064,train,Hillary Clinton,AGAINST
+2065,train,Hillary Clinton,AGAINST
+2066,train,Hillary Clinton,AGAINST
+2067,train,Hillary Clinton,FAVOR
+2068,train,Hillary Clinton,FAVOR
+2069,train,Hillary Clinton,FAVOR
+2070,train,Hillary Clinton,AGAINST
+2071,train,Hillary Clinton,FAVOR
+2072,train,Hillary Clinton,AGAINST
+2073,train,Hillary Clinton,FAVOR
+2074,train,Hillary Clinton,FAVOR
+2075,train,Hillary Clinton,NONE
+2076,train,Hillary Clinton,FAVOR
+2077,train,Hillary Clinton,FAVOR
+2078,train,Hillary Clinton,FAVOR
+2079,train,Hillary Clinton,FAVOR
+2080,train,Hillary Clinton,FAVOR
+2081,train,Hillary Clinton,AGAINST
+2082,train,Hillary Clinton,AGAINST
+2083,train,Hillary Clinton,AGAINST
+2084,train,Hillary Clinton,AGAINST
+2085,train,Hillary Clinton,AGAINST
+2086,train,Hillary Clinton,AGAINST
+2087,train,Hillary Clinton,AGAINST
+2088,train,Hillary Clinton,AGAINST
+2089,train,Hillary Clinton,AGAINST
+2090,train,Hillary Clinton,AGAINST
+2091,train,Hillary Clinton,AGAINST
+2092,train,Hillary Clinton,AGAINST
+2093,train,Hillary Clinton,AGAINST
+2094,train,Hillary Clinton,AGAINST
+2095,train,Hillary Clinton,AGAINST
+2096,train,Hillary Clinton,AGAINST
+2097,train,Hillary Clinton,AGAINST
+2098,train,Hillary Clinton,AGAINST
+2099,train,Hillary Clinton,AGAINST
+2100,train,Hillary Clinton,AGAINST
+2101,train,Hillary Clinton,AGAINST
+2102,train,Hillary Clinton,AGAINST
+2103,train,Hillary Clinton,AGAINST
+2104,train,Hillary Clinton,AGAINST
+2105,train,Hillary Clinton,AGAINST
+2106,train,Hillary Clinton,AGAINST
+2107,train,Hillary Clinton,AGAINST
+2108,train,Hillary Clinton,AGAINST
+2109,train,Hillary Clinton,AGAINST
+2110,train,Hillary Clinton,AGAINST
+2111,train,Hillary Clinton,AGAINST
+2112,train,Hillary Clinton,AGAINST
+2113,train,Hillary Clinton,AGAINST
+2114,train,Hillary Clinton,AGAINST
+2115,train,Hillary Clinton,AGAINST
+2116,train,Hillary Clinton,AGAINST
+2117,train,Hillary Clinton,AGAINST
+2118,train,Hillary Clinton,AGAINST
+2119,train,Hillary Clinton,AGAINST
+2120,train,Hillary Clinton,AGAINST
+2121,train,Hillary Clinton,AGAINST
+2122,train,Hillary Clinton,AGAINST
+2123,train,Hillary Clinton,AGAINST
+2124,train,Hillary Clinton,AGAINST
+2125,train,Hillary Clinton,AGAINST
+2126,train,Hillary Clinton,AGAINST
+2127,train,Hillary Clinton,AGAINST
+2128,train,Hillary Clinton,AGAINST
+2129,train,Hillary Clinton,AGAINST
+2130,train,Hillary Clinton,AGAINST
+2131,dev,Hillary Clinton,AGAINST
+2132,train,Hillary Clinton,AGAINST
+2133,train,Hillary Clinton,AGAINST
+2134,train,Hillary Clinton,AGAINST
+2135,train,Hillary Clinton,AGAINST
+2136,train,Hillary Clinton,AGAINST
+2137,train,Hillary Clinton,AGAINST
+2138,train,Hillary Clinton,AGAINST
+2139,train,Hillary Clinton,AGAINST
+2140,train,Hillary Clinton,AGAINST
+2141,train,Hillary Clinton,AGAINST
+2142,train,Hillary Clinton,AGAINST
+2143,train,Hillary Clinton,AGAINST
+2144,train,Hillary Clinton,AGAINST
+2145,train,Hillary Clinton,AGAINST
+2146,train,Hillary Clinton,AGAINST
+2147,train,Hillary Clinton,AGAINST
+2148,train,Hillary Clinton,AGAINST
+2149,train,Hillary Clinton,AGAINST
+2150,train,Hillary Clinton,AGAINST
+2151,train,Hillary Clinton,AGAINST
+2152,train,Hillary Clinton,AGAINST
+2153,train,Hillary Clinton,AGAINST
+2154,train,Hillary Clinton,AGAINST
+2155,train,Hillary Clinton,AGAINST
+2156,train,Hillary Clinton,AGAINST
+2157,train,Hillary Clinton,AGAINST
+2158,train,Hillary Clinton,AGAINST
+2159,train,Hillary Clinton,AGAINST
+2160,train,Hillary Clinton,AGAINST
+2161,train,Hillary Clinton,AGAINST
+2162,train,Hillary Clinton,AGAINST
+2163,train,Hillary Clinton,AGAINST
+2164,train,Hillary Clinton,AGAINST
+2165,train,Hillary Clinton,AGAINST
+2166,train,Hillary Clinton,AGAINST
+2167,train,Hillary Clinton,AGAINST
+2168,train,Hillary Clinton,AGAINST
+2169,train,Hillary Clinton,AGAINST
+2170,train,Hillary Clinton,AGAINST
+2171,dev,Hillary Clinton,AGAINST
+2172,train,Hillary Clinton,AGAINST
+2173,train,Hillary Clinton,AGAINST
+2174,train,Hillary Clinton,AGAINST
+2175,train,Hillary Clinton,AGAINST
+2176,train,Hillary Clinton,AGAINST
+2177,train,Hillary Clinton,AGAINST
+2178,train,Hillary Clinton,AGAINST
+2179,train,Hillary Clinton,AGAINST
+2180,train,Hillary Clinton,AGAINST
+2181,train,Hillary Clinton,AGAINST
+2182,train,Hillary Clinton,AGAINST
+2183,train,Hillary Clinton,AGAINST
+2184,train,Hillary Clinton,AGAINST
+2185,train,Hillary Clinton,AGAINST
+2186,train,Hillary Clinton,AGAINST
+2187,train,Hillary Clinton,AGAINST
+2188,train,Hillary Clinton,AGAINST
+2189,train,Hillary Clinton,AGAINST
+2190,train,Hillary Clinton,AGAINST
+2191,train,Hillary Clinton,AGAINST
+2192,train,Hillary Clinton,AGAINST
+2193,train,Hillary Clinton,AGAINST
+2194,train,Hillary Clinton,AGAINST
+2195,train,Hillary Clinton,AGAINST
+2196,train,Hillary Clinton,AGAINST
+2197,train,Hillary Clinton,AGAINST
+2198,train,Hillary Clinton,AGAINST
+2199,train,Hillary Clinton,AGAINST
+2200,train,Hillary Clinton,AGAINST
+2201,train,Hillary Clinton,AGAINST
+2202,train,Hillary Clinton,AGAINST
+2203,train,Hillary Clinton,AGAINST
+2204,train,Hillary Clinton,AGAINST
+2205,train,Hillary Clinton,AGAINST
+2206,train,Hillary Clinton,AGAINST
+2207,train,Hillary Clinton,AGAINST
+2208,train,Hillary Clinton,AGAINST
+2209,train,Hillary Clinton,AGAINST
+2210,train,Hillary Clinton,FAVOR
+2211,train,Hillary Clinton,AGAINST
+2212,train,Hillary Clinton,AGAINST
+2213,train,Hillary Clinton,NONE
+2214,train,Hillary Clinton,NONE
+2215,train,Hillary Clinton,FAVOR
+2216,train,Hillary Clinton,FAVOR
+2217,train,Hillary Clinton,AGAINST
+2218,train,Hillary Clinton,NONE
+2219,train,Hillary Clinton,FAVOR
+2220,train,Hillary Clinton,AGAINST
+2221,train,Hillary Clinton,NONE
+2222,train,Hillary Clinton,AGAINST
+2223,train,Hillary Clinton,AGAINST
+2224,train,Hillary Clinton,AGAINST
+2225,train,Hillary Clinton,AGAINST
+2226,train,Hillary Clinton,AGAINST
+2227,train,Hillary Clinton,AGAINST
+2228,train,Hillary Clinton,AGAINST
+2229,train,Hillary Clinton,AGAINST
+2230,train,Hillary Clinton,AGAINST
+2231,train,Hillary Clinton,FAVOR
+2232,train,Hillary Clinton,AGAINST
+2233,train,Hillary Clinton,AGAINST
+2234,train,Hillary Clinton,NONE
+2235,train,Hillary Clinton,AGAINST
+2236,train,Hillary Clinton,AGAINST
+2237,train,Hillary Clinton,AGAINST
+2238,train,Hillary Clinton,AGAINST
+2239,train,Hillary Clinton,FAVOR
+2240,train,Hillary Clinton,AGAINST
+2241,train,Hillary Clinton,NONE
+2242,train,Hillary Clinton,AGAINST
+2243,train,Hillary Clinton,NONE
+2244,train,Hillary Clinton,NONE
+2245,train,Hillary Clinton,NONE
+2246,dev,Hillary Clinton,AGAINST
+2247,train,Hillary Clinton,NONE
+2248,train,Hillary Clinton,AGAINST
+2249,train,Hillary Clinton,AGAINST
+2250,train,Hillary Clinton,NONE
+2251,train,Hillary Clinton,NONE
+2252,train,Hillary Clinton,NONE
+2253,train,Hillary Clinton,NONE
+2254,train,Hillary Clinton,FAVOR
+2255,train,Hillary Clinton,AGAINST
+2256,train,Hillary Clinton,NONE
+2257,train,Hillary Clinton,FAVOR
+2258,train,Hillary Clinton,NONE
+2259,train,Hillary Clinton,AGAINST
+2260,train,Hillary Clinton,AGAINST
+2261,train,Hillary Clinton,NONE
+2262,train,Hillary Clinton,AGAINST
+2263,train,Hillary Clinton,FAVOR
+2264,train,Hillary Clinton,NONE
+2265,train,Hillary Clinton,AGAINST
+2266,train,Hillary Clinton,AGAINST
+2267,train,Hillary Clinton,AGAINST
+2268,train,Hillary Clinton,AGAINST
+2269,train,Hillary Clinton,AGAINST
+2270,train,Hillary Clinton,AGAINST
+2271,train,Hillary Clinton,AGAINST
+2272,train,Hillary Clinton,AGAINST
+2273,train,Hillary Clinton,AGAINST
+2274,train,Hillary Clinton,AGAINST
+2275,train,Hillary Clinton,AGAINST
+2276,train,Hillary Clinton,AGAINST
+2277,train,Hillary Clinton,AGAINST
+2278,train,Hillary Clinton,AGAINST
+2279,train,Hillary Clinton,AGAINST
+2280,train,Hillary Clinton,AGAINST
+2281,train,Hillary Clinton,AGAINST
+2282,train,Hillary Clinton,AGAINST
+2283,train,Hillary Clinton,AGAINST
+2284,train,Hillary Clinton,AGAINST
+2285,train,Hillary Clinton,AGAINST
+2286,train,Hillary Clinton,AGAINST
+2287,train,Hillary Clinton,AGAINST
+2288,train,Hillary Clinton,AGAINST
+2289,train,Hillary Clinton,AGAINST
+2290,train,Hillary Clinton,AGAINST
+2291,train,Hillary Clinton,AGAINST
+2292,train,Hillary Clinton,AGAINST
+2293,train,Hillary Clinton,AGAINST
+2294,train,Hillary Clinton,AGAINST
+2295,train,Hillary Clinton,AGAINST
+2296,train,Hillary Clinton,AGAINST
+2297,train,Hillary Clinton,AGAINST
+2298,train,Hillary Clinton,AGAINST
+2299,train,Hillary Clinton,AGAINST
+2300,train,Hillary Clinton,AGAINST
+2301,train,Hillary Clinton,AGAINST
+2302,train,Hillary Clinton,AGAINST
+2303,train,Hillary Clinton,AGAINST
+2304,train,Hillary Clinton,AGAINST
+2305,train,Hillary Clinton,AGAINST
+2306,train,Hillary Clinton,AGAINST
+2307,train,Hillary Clinton,AGAINST
+2308,train,Hillary Clinton,AGAINST
+2309,train,Hillary Clinton,AGAINST
+2310,train,Hillary Clinton,AGAINST
+2311,train,Hillary Clinton,AGAINST
+2312,train,Legalization of Abortion,AGAINST
+2313,train,Legalization of Abortion,AGAINST
+2314,train,Legalization of Abortion,AGAINST
+2315,train,Legalization of Abortion,AGAINST
+2316,train,Legalization of Abortion,NONE
+2317,train,Legalization of Abortion,NONE
+2318,train,Legalization of Abortion,AGAINST
+2319,train,Legalization of Abortion,AGAINST
+2320,train,Legalization of Abortion,NONE
+2321,train,Legalization of Abortion,FAVOR
+2322,train,Legalization of Abortion,AGAINST
+2323,train,Legalization of Abortion,FAVOR
+2324,train,Legalization of Abortion,AGAINST
+2325,train,Legalization of Abortion,FAVOR
+2326,train,Legalization of Abortion,FAVOR
+2327,train,Legalization of Abortion,AGAINST
+2328,train,Legalization of Abortion,AGAINST
+2329,train,Legalization of Abortion,AGAINST
+2330,train,Legalization of Abortion,AGAINST
+2331,train,Legalization of Abortion,NONE
+2332,train,Legalization of Abortion,AGAINST
+2333,train,Legalization of Abortion,NONE
+2334,train,Legalization of Abortion,FAVOR
+2335,train,Legalization of Abortion,AGAINST
+2336,train,Legalization of Abortion,FAVOR
+2337,train,Legalization of Abortion,AGAINST
+2338,train,Legalization of Abortion,FAVOR
+2339,train,Legalization of Abortion,FAVOR
+2340,train,Legalization of Abortion,FAVOR
+2341,train,Legalization of Abortion,FAVOR
+2342,train,Legalization of Abortion,AGAINST
+2343,train,Legalization of Abortion,FAVOR
+2344,train,Legalization of Abortion,NONE
+2345,train,Legalization of Abortion,FAVOR
+2346,train,Legalization of Abortion,FAVOR
+2347,train,Legalization of Abortion,NONE
+2348,train,Legalization of Abortion,NONE
+2349,train,Legalization of Abortion,NONE
+2350,train,Legalization of Abortion,FAVOR
+2351,train,Legalization of Abortion,FAVOR
+2352,train,Legalization of Abortion,FAVOR
+2353,train,Legalization of Abortion,FAVOR
+2354,train,Legalization of Abortion,FAVOR
+2355,train,Legalization of Abortion,AGAINST
+2356,train,Legalization of Abortion,NONE
+2357,train,Legalization of Abortion,NONE
+2358,train,Legalization of Abortion,AGAINST
+2359,train,Legalization of Abortion,AGAINST
+2360,train,Legalization of Abortion,NONE
+2361,train,Legalization of Abortion,FAVOR
+2362,train,Legalization of Abortion,NONE
+2363,train,Legalization of Abortion,AGAINST
+2364,train,Legalization of Abortion,AGAINST
+2365,train,Legalization of Abortion,NONE
+2366,train,Legalization of Abortion,AGAINST
+2367,train,Legalization of Abortion,FAVOR
+2368,dev,Legalization of Abortion,FAVOR
+2369,train,Legalization of Abortion,AGAINST
+2370,train,Legalization of Abortion,AGAINST
+2371,train,Legalization of Abortion,NONE
+2372,train,Legalization of Abortion,AGAINST
+2373,train,Legalization of Abortion,AGAINST
+2374,train,Legalization of Abortion,AGAINST
+2375,train,Legalization of Abortion,AGAINST
+2376,train,Legalization of Abortion,NONE
+2377,dev,Legalization of Abortion,AGAINST
+2378,train,Legalization of Abortion,NONE
+2379,train,Legalization of Abortion,NONE
+2380,train,Legalization of Abortion,AGAINST
+2381,train,Legalization of Abortion,NONE
+2382,train,Legalization of Abortion,AGAINST
+2383,train,Legalization of Abortion,AGAINST
+2384,train,Legalization of Abortion,AGAINST
+2385,train,Legalization of Abortion,NONE
+2386,train,Legalization of Abortion,NONE
+2387,train,Legalization of Abortion,NONE
+2388,train,Legalization of Abortion,NONE
+2389,train,Legalization of Abortion,AGAINST
+2390,train,Legalization of Abortion,AGAINST
+2391,train,Legalization of Abortion,NONE
+2392,train,Legalization of Abortion,FAVOR
+2393,train,Legalization of Abortion,AGAINST
+2394,train,Legalization of Abortion,AGAINST
+2395,train,Legalization of Abortion,NONE
+2396,train,Legalization of Abortion,NONE
+2397,train,Legalization of Abortion,AGAINST
+2398,train,Legalization of Abortion,AGAINST
+2399,train,Legalization of Abortion,FAVOR
+2400,train,Legalization of Abortion,NONE
+2401,train,Legalization of Abortion,NONE
+2402,train,Legalization of Abortion,AGAINST
+2403,train,Legalization of Abortion,NONE
+2404,train,Legalization of Abortion,FAVOR
+2405,train,Legalization of Abortion,AGAINST
+2406,train,Legalization of Abortion,NONE
+2407,train,Legalization of Abortion,NONE
+2408,train,Legalization of Abortion,NONE
+2409,train,Legalization of Abortion,FAVOR
+2410,train,Legalization of Abortion,NONE
+2411,train,Legalization of Abortion,NONE
+2412,train,Legalization of Abortion,AGAINST
+2413,train,Legalization of Abortion,FAVOR
+2414,train,Legalization of Abortion,AGAINST
+2415,train,Legalization of Abortion,AGAINST
+2416,train,Legalization of Abortion,AGAINST
+2417,train,Legalization of Abortion,FAVOR
+2418,train,Legalization of Abortion,FAVOR
+2419,train,Legalization of Abortion,FAVOR
+2420,train,Legalization of Abortion,AGAINST
+2421,train,Legalization of Abortion,NONE
+2422,train,Legalization of Abortion,AGAINST
+2423,train,Legalization of Abortion,AGAINST
+2424,train,Legalization of Abortion,NONE
+2425,train,Legalization of Abortion,NONE
+2426,train,Legalization of Abortion,AGAINST
+2427,train,Legalization of Abortion,FAVOR
+2428,train,Legalization of Abortion,NONE
+2429,train,Legalization of Abortion,AGAINST
+2430,train,Legalization of Abortion,FAVOR
+2431,train,Legalization of Abortion,NONE
+2432,train,Legalization of Abortion,FAVOR
+2433,train,Legalization of Abortion,FAVOR
+2434,train,Legalization of Abortion,NONE
+2435,train,Legalization of Abortion,AGAINST
+2436,train,Legalization of Abortion,NONE
+2437,train,Legalization of Abortion,NONE
+2438,train,Legalization of Abortion,AGAINST
+2439,train,Legalization of Abortion,NONE
+2440,train,Legalization of Abortion,FAVOR
+2441,train,Legalization of Abortion,NONE
+2442,train,Legalization of Abortion,AGAINST
+2443,train,Legalization of Abortion,AGAINST
+2444,train,Legalization of Abortion,NONE
+2445,train,Legalization of Abortion,NONE
+2446,train,Legalization of Abortion,NONE
+2447,train,Legalization of Abortion,AGAINST
+2448,train,Legalization of Abortion,AGAINST
+2449,train,Legalization of Abortion,FAVOR
+2450,train,Legalization of Abortion,FAVOR
+2451,train,Legalization of Abortion,AGAINST
+2452,train,Legalization of Abortion,NONE
+2453,train,Legalization of Abortion,AGAINST
+2454,train,Legalization of Abortion,NONE
+2455,train,Legalization of Abortion,AGAINST
+2456,train,Legalization of Abortion,AGAINST
+2457,train,Legalization of Abortion,NONE
+2458,train,Legalization of Abortion,NONE
+2459,train,Legalization of Abortion,FAVOR
+2460,train,Legalization of Abortion,AGAINST
+2461,train,Legalization of Abortion,AGAINST
+2462,train,Legalization of Abortion,FAVOR
+2463,train,Legalization of Abortion,FAVOR
+2464,train,Legalization of Abortion,FAVOR
+2465,train,Legalization of Abortion,AGAINST
+2466,train,Legalization of Abortion,AGAINST
+2467,train,Legalization of Abortion,AGAINST
+2468,train,Legalization of Abortion,FAVOR
+2469,train,Legalization of Abortion,AGAINST
+2470,train,Legalization of Abortion,FAVOR
+2471,train,Legalization of Abortion,AGAINST
+2472,train,Legalization of Abortion,FAVOR
+2473,train,Legalization of Abortion,AGAINST
+2474,train,Legalization of Abortion,NONE
+2475,train,Legalization of Abortion,NONE
+2476,train,Legalization of Abortion,AGAINST
+2477,train,Legalization of Abortion,FAVOR
+2478,train,Legalization of Abortion,AGAINST
+2479,train,Legalization of Abortion,AGAINST
+2480,train,Legalization of Abortion,AGAINST
+2481,train,Legalization of Abortion,AGAINST
+2482,train,Legalization of Abortion,AGAINST
+2483,train,Legalization of Abortion,AGAINST
+2484,train,Legalization of Abortion,AGAINST
+2485,train,Legalization of Abortion,NONE
+2486,train,Legalization of Abortion,AGAINST
+2487,train,Legalization of Abortion,AGAINST
+2488,train,Legalization of Abortion,NONE
+2489,train,Legalization of Abortion,AGAINST
+2490,train,Legalization of Abortion,NONE
+2491,train,Legalization of Abortion,NONE
+2492,train,Legalization of Abortion,AGAINST
+2493,train,Legalization of Abortion,FAVOR
+2494,train,Legalization of Abortion,FAVOR
+2495,train,Legalization of Abortion,NONE
+2496,train,Legalization of Abortion,FAVOR
+2497,train,Legalization of Abortion,FAVOR
+2498,train,Legalization of Abortion,NONE
+2499,train,Legalization of Abortion,FAVOR
+2500,train,Legalization of Abortion,NONE
+2501,train,Legalization of Abortion,NONE
+2502,train,Legalization of Abortion,NONE
+2503,train,Legalization of Abortion,FAVOR
+2504,train,Legalization of Abortion,AGAINST
+2505,train,Legalization of Abortion,NONE
+2506,train,Legalization of Abortion,NONE
+2507,train,Legalization of Abortion,FAVOR
+2508,train,Legalization of Abortion,NONE
+2509,train,Legalization of Abortion,AGAINST
+2510,train,Legalization of Abortion,FAVOR
+2511,train,Legalization of Abortion,NONE
+2512,train,Legalization of Abortion,AGAINST
+2513,train,Legalization of Abortion,AGAINST
+2514,train,Legalization of Abortion,FAVOR
+2515,train,Legalization of Abortion,NONE
+2516,train,Legalization of Abortion,AGAINST
+2517,train,Legalization of Abortion,FAVOR
+2518,train,Legalization of Abortion,AGAINST
+2519,train,Legalization of Abortion,FAVOR
+2520,train,Legalization of Abortion,AGAINST
+2521,train,Legalization of Abortion,AGAINST
+2522,train,Legalization of Abortion,AGAINST
+2523,train,Legalization of Abortion,AGAINST
+2524,train,Legalization of Abortion,AGAINST
+2525,train,Legalization of Abortion,AGAINST
+2526,train,Legalization of Abortion,AGAINST
+2527,train,Legalization of Abortion,AGAINST
+2528,train,Legalization of Abortion,AGAINST
+2529,train,Legalization of Abortion,AGAINST
+2530,train,Legalization of Abortion,AGAINST
+2531,train,Legalization of Abortion,AGAINST
+2532,train,Legalization of Abortion,AGAINST
+2533,train,Legalization of Abortion,AGAINST
+2534,train,Legalization of Abortion,AGAINST
+2535,train,Legalization of Abortion,AGAINST
+2536,train,Legalization of Abortion,AGAINST
+2537,train,Legalization of Abortion,AGAINST
+2538,train,Legalization of Abortion,AGAINST
+2539,train,Legalization of Abortion,AGAINST
+2540,train,Legalization of Abortion,AGAINST
+2541,train,Legalization of Abortion,AGAINST
+2542,train,Legalization of Abortion,AGAINST
+2543,train,Legalization of Abortion,NONE
+2544,train,Legalization of Abortion,AGAINST
+2545,train,Legalization of Abortion,AGAINST
+2546,train,Legalization of Abortion,AGAINST
+2547,train,Legalization of Abortion,NONE
+2548,train,Legalization of Abortion,AGAINST
+2549,train,Legalization of Abortion,AGAINST
+2550,train,Legalization of Abortion,AGAINST
+2551,train,Legalization of Abortion,AGAINST
+2552,train,Legalization of Abortion,AGAINST
+2553,train,Legalization of Abortion,AGAINST
+2554,train,Legalization of Abortion,AGAINST
+2555,train,Legalization of Abortion,AGAINST
+2556,train,Legalization of Abortion,FAVOR
+2557,train,Legalization of Abortion,NONE
+2558,train,Legalization of Abortion,AGAINST
+2559,train,Legalization of Abortion,AGAINST
+2560,train,Legalization of Abortion,AGAINST
+2561,train,Legalization of Abortion,AGAINST
+2562,train,Legalization of Abortion,AGAINST
+2563,train,Legalization of Abortion,AGAINST
+2564,train,Legalization of Abortion,AGAINST
+2565,train,Legalization of Abortion,AGAINST
+2566,train,Legalization of Abortion,AGAINST
+2567,train,Legalization of Abortion,AGAINST
+2568,train,Legalization of Abortion,FAVOR
+2569,train,Legalization of Abortion,AGAINST
+2570,train,Legalization of Abortion,FAVOR
+2571,train,Legalization of Abortion,FAVOR
+2572,train,Legalization of Abortion,FAVOR
+2573,train,Legalization of Abortion,AGAINST
+2574,train,Legalization of Abortion,AGAINST
+2575,train,Legalization of Abortion,AGAINST
+2576,train,Legalization of Abortion,AGAINST
+2577,train,Legalization of Abortion,FAVOR
+2578,train,Legalization of Abortion,AGAINST
+2579,train,Legalization of Abortion,AGAINST
+2580,train,Legalization of Abortion,AGAINST
+2581,train,Legalization of Abortion,AGAINST
+2582,train,Legalization of Abortion,AGAINST
+2583,train,Legalization of Abortion,AGAINST
+2584,train,Legalization of Abortion,AGAINST
+2585,train,Legalization of Abortion,NONE
+2586,train,Legalization of Abortion,FAVOR
+2587,train,Legalization of Abortion,NONE
+2588,train,Legalization of Abortion,AGAINST
+2589,train,Legalization of Abortion,NONE
+2590,train,Legalization of Abortion,FAVOR
+2591,train,Legalization of Abortion,AGAINST
+2592,train,Legalization of Abortion,FAVOR
+2593,train,Legalization of Abortion,AGAINST
+2594,train,Legalization of Abortion,AGAINST
+2595,train,Legalization of Abortion,AGAINST
+2596,train,Legalization of Abortion,AGAINST
+2597,train,Legalization of Abortion,AGAINST
+2598,train,Legalization of Abortion,FAVOR
+2599,train,Legalization of Abortion,NONE
+2600,train,Legalization of Abortion,AGAINST
+2601,train,Legalization of Abortion,AGAINST
+2602,train,Legalization of Abortion,NONE
+2603,train,Legalization of Abortion,NONE
+2604,train,Legalization of Abortion,NONE
+2605,train,Legalization of Abortion,AGAINST
+2606,train,Legalization of Abortion,NONE
+2607,train,Legalization of Abortion,AGAINST
+2608,train,Legalization of Abortion,NONE
+2609,train,Legalization of Abortion,NONE
+2610,train,Legalization of Abortion,AGAINST
+2611,train,Legalization of Abortion,AGAINST
+2612,train,Legalization of Abortion,AGAINST
+2613,train,Legalization of Abortion,NONE
+2614,train,Legalization of Abortion,AGAINST
+2615,train,Legalization of Abortion,NONE
+2616,train,Legalization of Abortion,AGAINST
+2617,train,Legalization of Abortion,NONE
+2618,train,Legalization of Abortion,FAVOR
+2619,train,Legalization of Abortion,AGAINST
+2620,train,Legalization of Abortion,AGAINST
+2621,train,Legalization of Abortion,AGAINST
+2622,train,Legalization of Abortion,NONE
+2623,train,Legalization of Abortion,NONE
+2624,train,Legalization of Abortion,NONE
+2625,train,Legalization of Abortion,NONE
+2626,train,Legalization of Abortion,AGAINST
+2627,train,Legalization of Abortion,FAVOR
+2628,train,Legalization of Abortion,NONE
+2629,train,Legalization of Abortion,AGAINST
+2630,train,Legalization of Abortion,AGAINST
+2631,train,Legalization of Abortion,NONE
+2632,train,Legalization of Abortion,AGAINST
+2633,train,Legalization of Abortion,NONE
+2634,train,Legalization of Abortion,FAVOR
+2635,train,Legalization of Abortion,AGAINST
+2636,train,Legalization of Abortion,AGAINST
+2637,train,Legalization of Abortion,AGAINST
+2638,train,Legalization of Abortion,AGAINST
+2639,train,Legalization of Abortion,AGAINST
+2640,train,Legalization of Abortion,FAVOR
+2641,train,Legalization of Abortion,NONE
+2642,train,Legalization of Abortion,AGAINST
+2643,train,Legalization of Abortion,FAVOR
+2644,train,Legalization of Abortion,AGAINST
+2645,train,Legalization of Abortion,AGAINST
+2646,train,Legalization of Abortion,AGAINST
+2647,train,Legalization of Abortion,AGAINST
+2648,train,Legalization of Abortion,NONE
+2649,train,Legalization of Abortion,AGAINST
+2650,train,Legalization of Abortion,AGAINST
+2651,train,Legalization of Abortion,FAVOR
+2652,train,Legalization of Abortion,NONE
+2653,dev,Legalization of Abortion,NONE
+2654,train,Legalization of Abortion,NONE
+2655,train,Legalization of Abortion,AGAINST
+2656,train,Legalization of Abortion,NONE
+2657,train,Legalization of Abortion,AGAINST
+2658,train,Legalization of Abortion,NONE
+2659,train,Legalization of Abortion,NONE
+2660,train,Legalization of Abortion,AGAINST
+2661,train,Legalization of Abortion,NONE
+2662,train,Legalization of Abortion,NONE
+2663,train,Legalization of Abortion,NONE
+2664,train,Legalization of Abortion,AGAINST
+2665,train,Legalization of Abortion,AGAINST
+2666,train,Legalization of Abortion,NONE
+2667,train,Legalization of Abortion,NONE
+2668,train,Legalization of Abortion,AGAINST
+2669,train,Legalization of Abortion,NONE
+2670,train,Legalization of Abortion,FAVOR
+2671,train,Legalization of Abortion,NONE
+2672,train,Legalization of Abortion,NONE
+2673,train,Legalization of Abortion,AGAINST
+2674,train,Legalization of Abortion,NONE
+2675,train,Legalization of Abortion,AGAINST
+2676,train,Legalization of Abortion,AGAINST
+2677,train,Legalization of Abortion,FAVOR
+2678,train,Legalization of Abortion,AGAINST
+2679,train,Legalization of Abortion,AGAINST
+2680,train,Legalization of Abortion,AGAINST
+2681,train,Legalization of Abortion,NONE
+2682,train,Legalization of Abortion,FAVOR
+2683,train,Legalization of Abortion,NONE
+2684,train,Legalization of Abortion,NONE
+2685,train,Legalization of Abortion,AGAINST
+2686,train,Legalization of Abortion,FAVOR
+2687,train,Legalization of Abortion,AGAINST
+2688,train,Legalization of Abortion,NONE
+2689,train,Legalization of Abortion,NONE
+2690,train,Legalization of Abortion,FAVOR
+2691,train,Legalization of Abortion,AGAINST
+2692,train,Legalization of Abortion,AGAINST
+2693,train,Legalization of Abortion,AGAINST
+2694,train,Legalization of Abortion,NONE
+2695,train,Legalization of Abortion,AGAINST
+2696,train,Legalization of Abortion,FAVOR
+2697,train,Legalization of Abortion,FAVOR
+2698,train,Legalization of Abortion,NONE
+2699,train,Legalization of Abortion,FAVOR
+2700,train,Legalization of Abortion,AGAINST
+2701,train,Legalization of Abortion,AGAINST
+2702,train,Legalization of Abortion,NONE
+2703,train,Legalization of Abortion,AGAINST
+2704,train,Legalization of Abortion,AGAINST
+2705,train,Legalization of Abortion,NONE
+2706,train,Legalization of Abortion,AGAINST
+2707,train,Legalization of Abortion,NONE
+2708,train,Legalization of Abortion,AGAINST
+2709,train,Legalization of Abortion,NONE
+2710,train,Legalization of Abortion,AGAINST
+2711,train,Legalization of Abortion,NONE
+2712,train,Legalization of Abortion,NONE
+2713,train,Legalization of Abortion,NONE
+2714,train,Legalization of Abortion,NONE
+2715,train,Legalization of Abortion,NONE
+2716,train,Legalization of Abortion,FAVOR
+2717,train,Legalization of Abortion,NONE
+2718,train,Legalization of Abortion,AGAINST
+2719,train,Legalization of Abortion,AGAINST
+2720,train,Legalization of Abortion,FAVOR
+2721,train,Legalization of Abortion,AGAINST
+2722,train,Legalization of Abortion,AGAINST
+2723,train,Legalization of Abortion,NONE
+2724,train,Legalization of Abortion,NONE
+2725,train,Legalization of Abortion,FAVOR
+2726,train,Legalization of Abortion,AGAINST
+2727,train,Legalization of Abortion,AGAINST
+2728,train,Legalization of Abortion,AGAINST
+2729,train,Legalization of Abortion,AGAINST
+2730,train,Legalization of Abortion,AGAINST
+2731,train,Legalization of Abortion,NONE
+2732,train,Legalization of Abortion,AGAINST
+2733,train,Legalization of Abortion,AGAINST
+2734,train,Legalization of Abortion,AGAINST
+2735,train,Legalization of Abortion,NONE
+2736,train,Legalization of Abortion,AGAINST
+2737,train,Legalization of Abortion,FAVOR
+2738,train,Legalization of Abortion,NONE
+2739,train,Legalization of Abortion,FAVOR
+2740,train,Legalization of Abortion,AGAINST
+2741,train,Legalization of Abortion,NONE
+2742,train,Legalization of Abortion,NONE
+2743,train,Legalization of Abortion,AGAINST
+2744,train,Legalization of Abortion,NONE
+2745,train,Legalization of Abortion,AGAINST
+2746,train,Legalization of Abortion,NONE
+2747,train,Legalization of Abortion,NONE
+2748,train,Legalization of Abortion,AGAINST
+2749,train,Legalization of Abortion,AGAINST
+2750,train,Legalization of Abortion,NONE
+2751,train,Legalization of Abortion,NONE
+2752,train,Legalization of Abortion,AGAINST
+2753,train,Legalization of Abortion,NONE
+2754,train,Legalization of Abortion,NONE
+2755,train,Legalization of Abortion,AGAINST
+2756,train,Legalization of Abortion,AGAINST
+2757,train,Legalization of Abortion,AGAINST
+2758,train,Legalization of Abortion,AGAINST
+2759,train,Legalization of Abortion,NONE
+2760,train,Legalization of Abortion,NONE
+2761,train,Legalization of Abortion,NONE
+2762,train,Legalization of Abortion,AGAINST
+2763,train,Legalization of Abortion,NONE
+2764,train,Legalization of Abortion,NONE
+2765,train,Legalization of Abortion,NONE
+2766,train,Legalization of Abortion,AGAINST
+2767,train,Legalization of Abortion,NONE
+2768,train,Legalization of Abortion,AGAINST
+2769,train,Legalization of Abortion,AGAINST
+2770,train,Legalization of Abortion,NONE
+2771,train,Legalization of Abortion,AGAINST
+2772,train,Legalization of Abortion,AGAINST
+2773,train,Legalization of Abortion,NONE
+2774,train,Legalization of Abortion,NONE
+2775,train,Legalization of Abortion,AGAINST
+2776,train,Legalization of Abortion,AGAINST
+2777,train,Legalization of Abortion,AGAINST
+2778,train,Legalization of Abortion,AGAINST
+2779,train,Legalization of Abortion,AGAINST
+2780,train,Legalization of Abortion,AGAINST
+2781,train,Legalization of Abortion,NONE
+2782,train,Legalization of Abortion,FAVOR
+2783,train,Legalization of Abortion,AGAINST
+2784,train,Legalization of Abortion,NONE
+2785,train,Legalization of Abortion,AGAINST
+2786,train,Legalization of Abortion,AGAINST
+2787,train,Legalization of Abortion,AGAINST
+2788,train,Legalization of Abortion,AGAINST
+2789,train,Legalization of Abortion,NONE
+2790,train,Legalization of Abortion,NONE
+2791,train,Legalization of Abortion,FAVOR
+2792,train,Legalization of Abortion,FAVOR
+2793,train,Legalization of Abortion,AGAINST
+2794,train,Legalization of Abortion,AGAINST
+2795,train,Legalization of Abortion,NONE
+2796,train,Legalization of Abortion,FAVOR
+2797,train,Legalization of Abortion,FAVOR
+2798,train,Legalization of Abortion,FAVOR
+2799,train,Legalization of Abortion,AGAINST
+2800,train,Legalization of Abortion,AGAINST
+2801,train,Legalization of Abortion,FAVOR
+2802,train,Legalization of Abortion,FAVOR
+2803,train,Legalization of Abortion,FAVOR
+2804,train,Legalization of Abortion,NONE
+2805,train,Legalization of Abortion,FAVOR
+2806,train,Legalization of Abortion,NONE
+2807,train,Legalization of Abortion,NONE
+2808,train,Legalization of Abortion,NONE
+2809,train,Legalization of Abortion,FAVOR
+2810,train,Legalization of Abortion,NONE
+2811,train,Legalization of Abortion,NONE
+2812,train,Legalization of Abortion,FAVOR
+2813,train,Legalization of Abortion,AGAINST
+2814,train,Legalization of Abortion,AGAINST
+2815,train,Legalization of Abortion,AGAINST
+2816,train,Legalization of Abortion,FAVOR
+2817,train,Legalization of Abortion,AGAINST
+2818,train,Legalization of Abortion,FAVOR
+2819,train,Legalization of Abortion,FAVOR
+2820,train,Legalization of Abortion,AGAINST
+2821,train,Legalization of Abortion,FAVOR
+2822,train,Legalization of Abortion,AGAINST
+2823,train,Legalization of Abortion,NONE
+2824,train,Legalization of Abortion,AGAINST
+2825,train,Legalization of Abortion,FAVOR
+2826,train,Legalization of Abortion,NONE
+2827,train,Legalization of Abortion,FAVOR
+2828,train,Legalization of Abortion,FAVOR
+2829,train,Legalization of Abortion,FAVOR
+2830,train,Legalization of Abortion,NONE
+2831,train,Legalization of Abortion,NONE
+2832,train,Legalization of Abortion,AGAINST
+2833,train,Legalization of Abortion,FAVOR
+2834,train,Legalization of Abortion,NONE
+2835,train,Legalization of Abortion,AGAINST
+2836,train,Legalization of Abortion,AGAINST
+2837,train,Legalization of Abortion,AGAINST
+2838,train,Legalization of Abortion,AGAINST
+2839,train,Legalization of Abortion,AGAINST
+2840,train,Legalization of Abortion,AGAINST
+2841,train,Legalization of Abortion,AGAINST
+2842,train,Legalization of Abortion,AGAINST
+2843,train,Legalization of Abortion,AGAINST
+2844,train,Legalization of Abortion,AGAINST
+2845,train,Legalization of Abortion,AGAINST
+2846,train,Legalization of Abortion,AGAINST
+2847,train,Legalization of Abortion,AGAINST
+2848,train,Legalization of Abortion,AGAINST
+2849,train,Legalization of Abortion,AGAINST
+2850,train,Legalization of Abortion,AGAINST
+2851,train,Legalization of Abortion,AGAINST
+2852,train,Legalization of Abortion,AGAINST
+2853,train,Legalization of Abortion,AGAINST
+2854,train,Legalization of Abortion,AGAINST
+2855,train,Legalization of Abortion,AGAINST
+2856,train,Legalization of Abortion,AGAINST
+2857,train,Legalization of Abortion,AGAINST
+2858,train,Legalization of Abortion,AGAINST
+2859,train,Legalization of Abortion,AGAINST
+2860,train,Legalization of Abortion,AGAINST
+2861,train,Legalization of Abortion,AGAINST
+2862,train,Legalization of Abortion,AGAINST
+2863,train,Legalization of Abortion,AGAINST
+2864,train,Legalization of Abortion,AGAINST
+2865,train,Legalization of Abortion,AGAINST
+2866,train,Legalization of Abortion,AGAINST
+2867,train,Legalization of Abortion,AGAINST
+2868,train,Legalization of Abortion,AGAINST
+2869,train,Legalization of Abortion,AGAINST
+2870,train,Legalization of Abortion,AGAINST
+2871,train,Legalization of Abortion,AGAINST
+2872,train,Legalization of Abortion,AGAINST
+2873,train,Legalization of Abortion,AGAINST
+2874,train,Legalization of Abortion,AGAINST
+2875,train,Legalization of Abortion,AGAINST
+2876,train,Legalization of Abortion,AGAINST
+2877,train,Legalization of Abortion,AGAINST
+2878,train,Legalization of Abortion,AGAINST
+2879,train,Legalization of Abortion,AGAINST
+2880,train,Legalization of Abortion,AGAINST
+2881,train,Legalization of Abortion,AGAINST
+2882,train,Legalization of Abortion,AGAINST
+2883,train,Legalization of Abortion,AGAINST
+2884,train,Legalization of Abortion,AGAINST
+2885,train,Legalization of Abortion,AGAINST
+2886,train,Legalization of Abortion,AGAINST
+2887,train,Legalization of Abortion,AGAINST
+2888,train,Legalization of Abortion,AGAINST
+2889,dev,Legalization of Abortion,AGAINST
+2890,train,Legalization of Abortion,AGAINST
+2891,train,Legalization of Abortion,AGAINST
+2892,train,Legalization of Abortion,AGAINST
+2893,train,Legalization of Abortion,AGAINST
+2894,train,Legalization of Abortion,AGAINST
+2895,train,Legalization of Abortion,AGAINST
+2896,train,Legalization of Abortion,AGAINST
+2897,train,Legalization of Abortion,AGAINST
+2898,train,Legalization of Abortion,AGAINST
+2899,train,Legalization of Abortion,AGAINST
+2900,train,Legalization of Abortion,AGAINST
+2901,train,Legalization of Abortion,AGAINST
+2902,train,Legalization of Abortion,AGAINST
+2903,train,Legalization of Abortion,AGAINST
+2904,train,Legalization of Abortion,AGAINST
+2905,train,Legalization of Abortion,AGAINST
+2906,train,Legalization of Abortion,AGAINST
+2907,train,Legalization of Abortion,AGAINST
+2908,train,Legalization of Abortion,AGAINST
+2909,train,Legalization of Abortion,AGAINST
+2910,train,Legalization of Abortion,AGAINST
+2911,train,Legalization of Abortion,AGAINST
+2912,train,Legalization of Abortion,AGAINST
+2913,train,Legalization of Abortion,AGAINST
+2914,train,Legalization of Abortion,AGAINST
+10001,test,Atheism,AGAINST
+10002,test,Atheism,AGAINST
+10003,test,Atheism,AGAINST
+10004,test,Atheism,AGAINST
+10005,test,Atheism,AGAINST
+10006,test,Atheism,AGAINST
+10007,test,Atheism,AGAINST
+10008,test,Atheism,AGAINST
+10009,test,Atheism,AGAINST
+10010,test,Atheism,AGAINST
+10011,test,Atheism,AGAINST
+10012,test,Atheism,AGAINST
+10013,test,Atheism,AGAINST
+10014,test,Atheism,AGAINST
+10015,test,Atheism,AGAINST
+10016,test,Atheism,AGAINST
+10017,test,Atheism,AGAINST
+10018,test,Atheism,AGAINST
+10019,test,Atheism,AGAINST
+10020,test,Atheism,AGAINST
+10021,test,Atheism,AGAINST
+10022,test,Atheism,AGAINST
+10023,test,Atheism,AGAINST
+10024,test,Atheism,AGAINST
+10025,test,Atheism,AGAINST
+10026,test,Atheism,AGAINST
+10027,test,Atheism,AGAINST
+10028,test,Atheism,AGAINST
+10029,test,Atheism,AGAINST
+10030,test,Atheism,AGAINST
+10031,test,Atheism,AGAINST
+10032,test,Atheism,AGAINST
+10033,test,Atheism,AGAINST
+10034,test,Atheism,AGAINST
+10035,test,Atheism,AGAINST
+10036,test,Atheism,AGAINST
+10037,test,Atheism,AGAINST
+10038,test,Atheism,AGAINST
+10039,test,Atheism,AGAINST
+10040,test,Atheism,AGAINST
+10041,test,Atheism,AGAINST
+10042,test,Atheism,AGAINST
+10043,test,Atheism,AGAINST
+10044,test,Atheism,AGAINST
+10045,test,Atheism,AGAINST
+10046,test,Atheism,AGAINST
+10047,test,Atheism,AGAINST
+10048,test,Atheism,AGAINST
+10049,test,Atheism,AGAINST
+10050,test,Atheism,AGAINST
+10051,test,Atheism,AGAINST
+10052,test,Atheism,AGAINST
+10053,test,Atheism,AGAINST
+10054,test,Atheism,AGAINST
+10055,test,Atheism,AGAINST
+10056,test,Atheism,AGAINST
+10057,test,Atheism,AGAINST
+10058,test,Atheism,AGAINST
+10059,test,Atheism,AGAINST
+10060,test,Atheism,AGAINST
+10061,test,Atheism,AGAINST
+10062,test,Atheism,AGAINST
+10063,test,Atheism,AGAINST
+10064,test,Atheism,AGAINST
+10065,test,Atheism,AGAINST
+10066,test,Atheism,AGAINST
+10067,test,Atheism,AGAINST
+10068,test,Atheism,AGAINST
+10069,test,Atheism,AGAINST
+10070,test,Atheism,AGAINST
+10071,test,Atheism,AGAINST
+10072,test,Atheism,FAVOR
+10073,test,Atheism,NONE
+10074,test,Atheism,AGAINST
+10075,test,Atheism,AGAINST
+10076,test,Atheism,AGAINST
+10077,test,Atheism,AGAINST
+10078,test,Atheism,AGAINST
+10079,test,Atheism,AGAINST
+10080,test,Atheism,FAVOR
+10081,test,Atheism,AGAINST
+10082,test,Atheism,AGAINST
+10083,test,Atheism,AGAINST
+10084,test,Atheism,FAVOR
+10085,test,Atheism,AGAINST
+10086,test,Atheism,AGAINST
+10087,test,Atheism,NONE
+10088,test,Atheism,AGAINST
+10089,test,Atheism,AGAINST
+10090,test,Atheism,AGAINST
+10091,test,Atheism,AGAINST
+10092,test,Atheism,NONE
+10093,test,Atheism,NONE
+10094,test,Atheism,AGAINST
+10095,test,Atheism,NONE
+10096,test,Atheism,NONE
+10097,test,Atheism,NONE
+10098,test,Atheism,NONE
+10099,test,Atheism,AGAINST
+10100,test,Atheism,AGAINST
+10101,test,Atheism,AGAINST
+10102,test,Atheism,FAVOR
+10103,test,Atheism,NONE
+10104,test,Atheism,NONE
+10105,test,Atheism,NONE
+10106,test,Atheism,AGAINST
+10107,test,Atheism,FAVOR
+10108,test,Atheism,AGAINST
+10109,test,Atheism,AGAINST
+10110,test,Atheism,AGAINST
+10111,test,Atheism,AGAINST
+10112,test,Atheism,AGAINST
+10113,test,Atheism,AGAINST
+10114,test,Atheism,NONE
+10115,test,Atheism,AGAINST
+10116,test,Atheism,AGAINST
+10117,test,Atheism,NONE
+10118,test,Atheism,AGAINST
+10119,test,Atheism,FAVOR
+10120,test,Atheism,AGAINST
+10121,test,Atheism,FAVOR
+10122,test,Atheism,FAVOR
+10123,test,Atheism,FAVOR
+10124,test,Atheism,AGAINST
+10125,test,Atheism,AGAINST
+10126,test,Atheism,FAVOR
+10127,test,Atheism,NONE
+10128,test,Atheism,AGAINST
+10129,test,Atheism,AGAINST
+10130,test,Atheism,NONE
+10131,test,Atheism,FAVOR
+10132,test,Atheism,AGAINST
+10133,test,Atheism,AGAINST
+10134,test,Atheism,NONE
+10135,test,Atheism,FAVOR
+10136,test,Atheism,AGAINST
+10137,test,Atheism,AGAINST
+10138,test,Atheism,FAVOR
+10139,test,Atheism,AGAINST
+10140,test,Atheism,FAVOR
+10141,test,Atheism,FAVOR
+10142,test,Atheism,AGAINST
+10143,test,Atheism,AGAINST
+10144,test,Atheism,FAVOR
+10145,test,Atheism,FAVOR
+10146,test,Atheism,FAVOR
+10147,test,Atheism,AGAINST
+10148,test,Atheism,FAVOR
+10149,test,Atheism,AGAINST
+10150,test,Atheism,FAVOR
+10151,test,Atheism,AGAINST
+10152,test,Atheism,AGAINST
+10153,test,Atheism,AGAINST
+10154,test,Atheism,AGAINST
+10155,test,Atheism,NONE
+10156,test,Atheism,AGAINST
+10157,test,Atheism,NONE
+10158,test,Atheism,FAVOR
+10159,test,Atheism,NONE
+10160,test,Atheism,AGAINST
+10161,test,Atheism,NONE
+10162,test,Atheism,AGAINST
+10163,test,Atheism,FAVOR
+10164,test,Atheism,AGAINST
+10165,test,Atheism,AGAINST
+10166,test,Atheism,AGAINST
+10167,test,Atheism,AGAINST
+10168,test,Atheism,AGAINST
+10169,test,Atheism,NONE
+10170,test,Atheism,FAVOR
+10171,test,Atheism,FAVOR
+10172,test,Atheism,FAVOR
+10173,test,Atheism,NONE
+10174,test,Atheism,AGAINST
+10175,test,Atheism,NONE
+10176,test,Atheism,NONE
+10177,test,Atheism,AGAINST
+10178,test,Atheism,AGAINST
+10179,test,Atheism,AGAINST
+10180,test,Atheism,AGAINST
+10181,test,Atheism,AGAINST
+10182,test,Atheism,AGAINST
+10183,test,Atheism,AGAINST
+10184,test,Atheism,AGAINST
+10185,test,Atheism,AGAINST
+10186,test,Atheism,AGAINST
+10187,test,Atheism,AGAINST
+10188,test,Atheism,AGAINST
+10189,test,Atheism,AGAINST
+10190,test,Atheism,AGAINST
+10191,test,Atheism,AGAINST
+10192,test,Atheism,AGAINST
+10193,test,Atheism,AGAINST
+10194,test,Atheism,AGAINST
+10195,test,Atheism,AGAINST
+10196,test,Atheism,AGAINST
+10197,test,Atheism,AGAINST
+10198,test,Atheism,AGAINST
+10199,test,Atheism,FAVOR
+10200,test,Atheism,NONE
+10201,test,Atheism,FAVOR
+10202,test,Atheism,AGAINST
+10203,test,Atheism,FAVOR
+10204,test,Atheism,AGAINST
+10205,test,Atheism,FAVOR
+10206,test,Atheism,FAVOR
+10207,test,Atheism,NONE
+10208,test,Atheism,AGAINST
+10209,test,Atheism,AGAINST
+10210,test,Atheism,NONE
+10211,test,Atheism,AGAINST
+10212,test,Atheism,AGAINST
+10213,test,Atheism,AGAINST
+10214,test,Atheism,NONE
+10215,test,Atheism,AGAINST
+10216,test,Atheism,AGAINST
+10217,test,Atheism,FAVOR
+10218,test,Atheism,AGAINST
+10219,test,Atheism,FAVOR
+10220,test,Atheism,AGAINST
+10221,test,Climate Change is a Real Concern,NONE
+10222,test,Climate Change is a Real Concern,FAVOR
+10223,test,Climate Change is a Real Concern,FAVOR
+10224,test,Climate Change is a Real Concern,NONE
+10225,test,Climate Change is a Real Concern,FAVOR
+10226,test,Climate Change is a Real Concern,FAVOR
+10227,test,Climate Change is a Real Concern,FAVOR
+10228,test,Climate Change is a Real Concern,FAVOR
+10229,test,Climate Change is a Real Concern,NONE
+10230,test,Climate Change is a Real Concern,FAVOR
+10231,test,Climate Change is a Real Concern,FAVOR
+10232,test,Climate Change is a Real Concern,NONE
+10233,test,Climate Change is a Real Concern,FAVOR
+10234,test,Climate Change is a Real Concern,FAVOR
+10235,test,Climate Change is a Real Concern,NONE
+10236,test,Climate Change is a Real Concern,FAVOR
+10237,test,Climate Change is a Real Concern,FAVOR
+10238,test,Climate Change is a Real Concern,FAVOR
+10239,test,Climate Change is a Real Concern,FAVOR
+10240,test,Climate Change is a Real Concern,NONE
+10241,test,Climate Change is a Real Concern,FAVOR
+10242,test,Climate Change is a Real Concern,FAVOR
+10243,test,Climate Change is a Real Concern,FAVOR
+10244,test,Climate Change is a Real Concern,FAVOR
+10245,test,Climate Change is a Real Concern,FAVOR
+10246,test,Climate Change is a Real Concern,FAVOR
+10247,test,Climate Change is a Real Concern,FAVOR
+10248,test,Climate Change is a Real Concern,FAVOR
+10249,test,Climate Change is a Real Concern,FAVOR
+10250,test,Climate Change is a Real Concern,NONE
+10251,test,Climate Change is a Real Concern,FAVOR
+10252,test,Climate Change is a Real Concern,NONE
+10253,test,Climate Change is a Real Concern,FAVOR
+10254,test,Climate Change is a Real Concern,FAVOR
+10255,test,Climate Change is a Real Concern,FAVOR
+10256,test,Climate Change is a Real Concern,FAVOR
+10257,test,Climate Change is a Real Concern,FAVOR
+10258,test,Climate Change is a Real Concern,FAVOR
+10259,test,Climate Change is a Real Concern,NONE
+10260,test,Climate Change is a Real Concern,FAVOR
+10261,test,Climate Change is a Real Concern,FAVOR
+10262,test,Climate Change is a Real Concern,FAVOR
+10263,test,Climate Change is a Real Concern,NONE
+10264,test,Climate Change is a Real Concern,FAVOR
+10265,test,Climate Change is a Real Concern,FAVOR
+10266,test,Climate Change is a Real Concern,FAVOR
+10267,test,Climate Change is a Real Concern,NONE
+10268,test,Climate Change is a Real Concern,FAVOR
+10269,test,Climate Change is a Real Concern,FAVOR
+10270,test,Climate Change is a Real Concern,NONE
+10271,test,Climate Change is a Real Concern,NONE
+10272,test,Climate Change is a Real Concern,FAVOR
+10273,test,Climate Change is a Real Concern,FAVOR
+10274,test,Climate Change is a Real Concern,FAVOR
+10275,test,Climate Change is a Real Concern,FAVOR
+10276,test,Climate Change is a Real Concern,NONE
+10277,test,Climate Change is a Real Concern,FAVOR
+10278,test,Climate Change is a Real Concern,FAVOR
+10279,test,Climate Change is a Real Concern,NONE
+10280,test,Climate Change is a Real Concern,FAVOR
+10281,test,Climate Change is a Real Concern,FAVOR
+10282,test,Climate Change is a Real Concern,FAVOR
+10283,test,Climate Change is a Real Concern,FAVOR
+10284,test,Climate Change is a Real Concern,FAVOR
+10285,test,Climate Change is a Real Concern,FAVOR
+10286,test,Climate Change is a Real Concern,FAVOR
+10287,test,Climate Change is a Real Concern,FAVOR
+10288,test,Climate Change is a Real Concern,FAVOR
+10289,test,Climate Change is a Real Concern,FAVOR
+10290,test,Climate Change is a Real Concern,FAVOR
+10291,test,Climate Change is a Real Concern,NONE
+10292,test,Climate Change is a Real Concern,FAVOR
+10293,test,Climate Change is a Real Concern,FAVOR
+10294,test,Climate Change is a Real Concern,FAVOR
+10295,test,Climate Change is a Real Concern,FAVOR
+10296,test,Climate Change is a Real Concern,FAVOR
+10297,test,Climate Change is a Real Concern,FAVOR
+10298,test,Climate Change is a Real Concern,FAVOR
+10299,test,Climate Change is a Real Concern,FAVOR
+10300,test,Climate Change is a Real Concern,NONE
+10301,test,Climate Change is a Real Concern,FAVOR
+10302,test,Climate Change is a Real Concern,FAVOR
+10303,test,Climate Change is a Real Concern,FAVOR
+10304,test,Climate Change is a Real Concern,FAVOR
+10305,test,Climate Change is a Real Concern,FAVOR
+10306,test,Climate Change is a Real Concern,FAVOR
+10307,test,Climate Change is a Real Concern,NONE
+10308,test,Climate Change is a Real Concern,FAVOR
+10309,test,Climate Change is a Real Concern,FAVOR
+10310,test,Climate Change is a Real Concern,FAVOR
+10311,test,Climate Change is a Real Concern,FAVOR
+10312,test,Climate Change is a Real Concern,FAVOR
+10313,test,Climate Change is a Real Concern,NONE
+10314,test,Climate Change is a Real Concern,FAVOR
+10315,test,Climate Change is a Real Concern,FAVOR
+10316,test,Climate Change is a Real Concern,FAVOR
+10317,test,Climate Change is a Real Concern,FAVOR
+10318,test,Climate Change is a Real Concern,FAVOR
+10319,test,Climate Change is a Real Concern,NONE
+10320,test,Climate Change is a Real Concern,AGAINST
+10321,test,Climate Change is a Real Concern,FAVOR
+10322,test,Climate Change is a Real Concern,FAVOR
+10323,test,Climate Change is a Real Concern,NONE
+10324,test,Climate Change is a Real Concern,FAVOR
+10325,test,Climate Change is a Real Concern,FAVOR
+10326,test,Climate Change is a Real Concern,FAVOR
+10327,test,Climate Change is a Real Concern,FAVOR
+10328,test,Climate Change is a Real Concern,FAVOR
+10329,test,Climate Change is a Real Concern,FAVOR
+10330,test,Climate Change is a Real Concern,AGAINST
+10331,test,Climate Change is a Real Concern,NONE
+10332,test,Climate Change is a Real Concern,NONE
+10333,test,Climate Change is a Real Concern,FAVOR
+10334,test,Climate Change is a Real Concern,NONE
+10335,test,Climate Change is a Real Concern,NONE
+10336,test,Climate Change is a Real Concern,FAVOR
+10337,test,Climate Change is a Real Concern,FAVOR
+10338,test,Climate Change is a Real Concern,NONE
+10339,test,Climate Change is a Real Concern,NONE
+10340,test,Climate Change is a Real Concern,FAVOR
+10341,test,Climate Change is a Real Concern,AGAINST
+10342,test,Climate Change is a Real Concern,FAVOR
+10343,test,Climate Change is a Real Concern,NONE
+10344,test,Climate Change is a Real Concern,FAVOR
+10345,test,Climate Change is a Real Concern,FAVOR
+10346,test,Climate Change is a Real Concern,FAVOR
+10347,test,Climate Change is a Real Concern,FAVOR
+10348,test,Climate Change is a Real Concern,AGAINST
+10349,test,Climate Change is a Real Concern,FAVOR
+10350,test,Climate Change is a Real Concern,FAVOR
+10351,test,Climate Change is a Real Concern,FAVOR
+10352,test,Climate Change is a Real Concern,FAVOR
+10353,test,Climate Change is a Real Concern,NONE
+10354,test,Climate Change is a Real Concern,FAVOR
+10355,test,Climate Change is a Real Concern,FAVOR
+10356,test,Climate Change is a Real Concern,NONE
+10357,test,Climate Change is a Real Concern,AGAINST
+10358,test,Climate Change is a Real Concern,FAVOR
+10359,test,Climate Change is a Real Concern,FAVOR
+10360,test,Climate Change is a Real Concern,FAVOR
+10361,test,Climate Change is a Real Concern,FAVOR
+10362,test,Climate Change is a Real Concern,FAVOR
+10363,test,Climate Change is a Real Concern,FAVOR
+10364,test,Climate Change is a Real Concern,FAVOR
+10365,test,Climate Change is a Real Concern,FAVOR
+10366,test,Climate Change is a Real Concern,AGAINST
+10367,test,Climate Change is a Real Concern,AGAINST
+10368,test,Climate Change is a Real Concern,AGAINST
+10369,test,Climate Change is a Real Concern,FAVOR
+10370,test,Climate Change is a Real Concern,AGAINST
+10371,test,Climate Change is a Real Concern,FAVOR
+10372,test,Climate Change is a Real Concern,AGAINST
+10373,test,Climate Change is a Real Concern,FAVOR
+10374,test,Climate Change is a Real Concern,FAVOR
+10375,test,Climate Change is a Real Concern,FAVOR
+10376,test,Climate Change is a Real Concern,NONE
+10377,test,Climate Change is a Real Concern,FAVOR
+10378,test,Climate Change is a Real Concern,AGAINST
+10379,test,Climate Change is a Real Concern,FAVOR
+10380,test,Climate Change is a Real Concern,FAVOR
+10381,test,Climate Change is a Real Concern,FAVOR
+10382,test,Climate Change is a Real Concern,NONE
+10383,test,Climate Change is a Real Concern,NONE
+10384,test,Climate Change is a Real Concern,NONE
+10385,test,Climate Change is a Real Concern,NONE
+10386,test,Climate Change is a Real Concern,FAVOR
+10387,test,Climate Change is a Real Concern,FAVOR
+10388,test,Climate Change is a Real Concern,FAVOR
+10389,test,Climate Change is a Real Concern,FAVOR
+10390,test,Feminist Movement,AGAINST
+10391,test,Feminist Movement,AGAINST
+10392,test,Feminist Movement,AGAINST
+10393,test,Feminist Movement,AGAINST
+10394,test,Feminist Movement,AGAINST
+10395,test,Feminist Movement,AGAINST
+10396,test,Feminist Movement,AGAINST
+10397,test,Feminist Movement,AGAINST
+10398,test,Feminist Movement,AGAINST
+10399,test,Feminist Movement,AGAINST
+10400,test,Feminist Movement,AGAINST
+10401,test,Feminist Movement,AGAINST
+10402,test,Feminist Movement,AGAINST
+10403,test,Feminist Movement,AGAINST
+10404,test,Feminist Movement,AGAINST
+10405,test,Feminist Movement,AGAINST
+10406,test,Feminist Movement,AGAINST
+10407,test,Feminist Movement,AGAINST
+10408,test,Feminist Movement,AGAINST
+10409,test,Feminist Movement,AGAINST
+10410,test,Feminist Movement,AGAINST
+10411,test,Feminist Movement,AGAINST
+10412,test,Feminist Movement,AGAINST
+10413,test,Feminist Movement,AGAINST
+10414,test,Feminist Movement,AGAINST
+10415,test,Feminist Movement,AGAINST
+10416,test,Feminist Movement,AGAINST
+10417,test,Feminist Movement,AGAINST
+10418,test,Feminist Movement,AGAINST
+10419,test,Feminist Movement,AGAINST
+10420,test,Feminist Movement,AGAINST
+10421,test,Feminist Movement,AGAINST
+10422,test,Feminist Movement,AGAINST
+10423,test,Feminist Movement,AGAINST
+10424,test,Feminist Movement,AGAINST
+10425,test,Feminist Movement,AGAINST
+10426,test,Feminist Movement,AGAINST
+10427,test,Feminist Movement,AGAINST
+10428,test,Feminist Movement,AGAINST
+10429,test,Feminist Movement,AGAINST
+10430,test,Feminist Movement,AGAINST
+10431,test,Feminist Movement,AGAINST
+10432,test,Feminist Movement,AGAINST
+10433,test,Feminist Movement,AGAINST
+10434,test,Feminist Movement,AGAINST
+10435,test,Feminist Movement,AGAINST
+10436,test,Feminist Movement,AGAINST
+10437,test,Feminist Movement,AGAINST
+10438,test,Feminist Movement,AGAINST
+10439,test,Feminist Movement,AGAINST
+10440,test,Feminist Movement,AGAINST
+10441,test,Feminist Movement,AGAINST
+10442,test,Feminist Movement,AGAINST
+10443,test,Feminist Movement,AGAINST
+10444,test,Feminist Movement,AGAINST
+10445,test,Feminist Movement,AGAINST
+10446,test,Feminist Movement,AGAINST
+10447,test,Feminist Movement,AGAINST
+10448,test,Feminist Movement,AGAINST
+10449,test,Feminist Movement,AGAINST
+10450,test,Feminist Movement,AGAINST
+10451,test,Feminist Movement,AGAINST
+10452,test,Feminist Movement,AGAINST
+10453,test,Feminist Movement,AGAINST
+10454,test,Feminist Movement,AGAINST
+10455,test,Feminist Movement,AGAINST
+10456,test,Feminist Movement,AGAINST
+10457,test,Feminist Movement,AGAINST
+10458,test,Feminist Movement,AGAINST
+10459,test,Feminist Movement,AGAINST
+10460,test,Feminist Movement,AGAINST
+10461,test,Feminist Movement,AGAINST
+10462,test,Feminist Movement,AGAINST
+10463,test,Feminist Movement,AGAINST
+10464,test,Feminist Movement,AGAINST
+10465,test,Feminist Movement,AGAINST
+10466,test,Feminist Movement,AGAINST
+10467,test,Feminist Movement,NONE
+10468,test,Feminist Movement,AGAINST
+10469,test,Feminist Movement,AGAINST
+10470,test,Feminist Movement,FAVOR
+10471,test,Feminist Movement,FAVOR
+10472,test,Feminist Movement,FAVOR
+10473,test,Feminist Movement,AGAINST
+10474,test,Feminist Movement,FAVOR
+10475,test,Feminist Movement,NONE
+10476,test,Feminist Movement,NONE
+10477,test,Feminist Movement,AGAINST
+10478,test,Feminist Movement,NONE
+10479,test,Feminist Movement,FAVOR
+10480,test,Feminist Movement,FAVOR
+10481,test,Feminist Movement,NONE
+10482,test,Feminist Movement,AGAINST
+10483,test,Feminist Movement,NONE
+10484,test,Feminist Movement,NONE
+10485,test,Feminist Movement,AGAINST
+10486,test,Feminist Movement,AGAINST
+10487,test,Feminist Movement,FAVOR
+10488,test,Feminist Movement,NONE
+10489,test,Feminist Movement,AGAINST
+10490,test,Feminist Movement,NONE
+10491,test,Feminist Movement,AGAINST
+10492,test,Feminist Movement,FAVOR
+10493,test,Feminist Movement,AGAINST
+10494,test,Feminist Movement,NONE
+10495,test,Feminist Movement,NONE
+10496,test,Feminist Movement,FAVOR
+10497,test,Feminist Movement,NONE
+10498,test,Feminist Movement,AGAINST
+10499,test,Feminist Movement,AGAINST
+10500,test,Feminist Movement,AGAINST
+10501,test,Feminist Movement,AGAINST
+10502,test,Feminist Movement,NONE
+10503,test,Feminist Movement,FAVOR
+10504,test,Feminist Movement,FAVOR
+10505,test,Feminist Movement,NONE
+10506,test,Feminist Movement,FAVOR
+10507,test,Feminist Movement,FAVOR
+10508,test,Feminist Movement,NONE
+10509,test,Feminist Movement,AGAINST
+10510,test,Feminist Movement,AGAINST
+10511,test,Feminist Movement,NONE
+10512,test,Feminist Movement,AGAINST
+10513,test,Feminist Movement,FAVOR
+10514,test,Feminist Movement,NONE
+10515,test,Feminist Movement,AGAINST
+10516,test,Feminist Movement,FAVOR
+10517,test,Feminist Movement,AGAINST
+10518,test,Feminist Movement,AGAINST
+10519,test,Feminist Movement,AGAINST
+10520,test,Feminist Movement,AGAINST
+10521,test,Feminist Movement,NONE
+10522,test,Feminist Movement,AGAINST
+10523,test,Feminist Movement,FAVOR
+10524,test,Feminist Movement,NONE
+10525,test,Feminist Movement,AGAINST
+10526,test,Feminist Movement,NONE
+10527,test,Feminist Movement,AGAINST
+10528,test,Feminist Movement,AGAINST
+10529,test,Feminist Movement,AGAINST
+10530,test,Feminist Movement,NONE
+10531,test,Feminist Movement,FAVOR
+10532,test,Feminist Movement,AGAINST
+10533,test,Feminist Movement,FAVOR
+10534,test,Feminist Movement,FAVOR
+10535,test,Feminist Movement,AGAINST
+10536,test,Feminist Movement,FAVOR
+10537,test,Feminist Movement,AGAINST
+10538,test,Feminist Movement,NONE
+10539,test,Feminist Movement,AGAINST
+10540,test,Feminist Movement,NONE
+10541,test,Feminist Movement,AGAINST
+10542,test,Feminist Movement,FAVOR
+10543,test,Feminist Movement,NONE
+10544,test,Feminist Movement,AGAINST
+10545,test,Feminist Movement,NONE
+10546,test,Feminist Movement,AGAINST
+10547,test,Feminist Movement,AGAINST
+10548,test,Feminist Movement,NONE
+10549,test,Feminist Movement,NONE
+10550,test,Feminist Movement,FAVOR
+10551,test,Feminist Movement,NONE
+10552,test,Feminist Movement,NONE
+10553,test,Feminist Movement,NONE
+10554,test,Feminist Movement,FAVOR
+10555,test,Feminist Movement,FAVOR
+10556,test,Feminist Movement,AGAINST
+10557,test,Feminist Movement,FAVOR
+10558,test,Feminist Movement,NONE
+10559,test,Feminist Movement,AGAINST
+10560,test,Feminist Movement,AGAINST
+10561,test,Feminist Movement,FAVOR
+10562,test,Feminist Movement,FAVOR
+10563,test,Feminist Movement,AGAINST
+10564,test,Feminist Movement,AGAINST
+10565,test,Feminist Movement,FAVOR
+10566,test,Feminist Movement,FAVOR
+10567,test,Feminist Movement,FAVOR
+10568,test,Feminist Movement,AGAINST
+10569,test,Feminist Movement,AGAINST
+10570,test,Feminist Movement,AGAINST
+10571,test,Feminist Movement,AGAINST
+10572,test,Feminist Movement,AGAINST
+10573,test,Feminist Movement,AGAINST
+10574,test,Feminist Movement,FAVOR
+10575,test,Feminist Movement,FAVOR
+10576,test,Feminist Movement,AGAINST
+10577,test,Feminist Movement,FAVOR
+10578,test,Feminist Movement,FAVOR
+10579,test,Feminist Movement,FAVOR
+10580,test,Feminist Movement,FAVOR
+10581,test,Feminist Movement,NONE
+10582,test,Feminist Movement,FAVOR
+10583,test,Feminist Movement,NONE
+10584,test,Feminist Movement,NONE
+10585,test,Feminist Movement,FAVOR
+10586,test,Feminist Movement,NONE
+10587,test,Feminist Movement,AGAINST
+10588,test,Feminist Movement,NONE
+10589,test,Feminist Movement,AGAINST
+10590,test,Feminist Movement,AGAINST
+10591,test,Feminist Movement,FAVOR
+10592,test,Feminist Movement,AGAINST
+10593,test,Feminist Movement,AGAINST
+10594,test,Feminist Movement,AGAINST
+10595,test,Feminist Movement,FAVOR
+10596,test,Feminist Movement,FAVOR
+10597,test,Feminist Movement,NONE
+10598,test,Feminist Movement,FAVOR
+10599,test,Feminist Movement,NONE
+10600,test,Feminist Movement,AGAINST
+10601,test,Feminist Movement,NONE
+10602,test,Feminist Movement,AGAINST
+10603,test,Feminist Movement,AGAINST
+10604,test,Feminist Movement,AGAINST
+10605,test,Feminist Movement,FAVOR
+10606,test,Feminist Movement,AGAINST
+10607,test,Feminist Movement,FAVOR
+10608,test,Feminist Movement,AGAINST
+10609,test,Feminist Movement,AGAINST
+10610,test,Feminist Movement,FAVOR
+10611,test,Feminist Movement,FAVOR
+10612,test,Feminist Movement,FAVOR
+10613,test,Feminist Movement,FAVOR
+10614,test,Feminist Movement,AGAINST
+10615,test,Feminist Movement,AGAINST
+10616,test,Feminist Movement,AGAINST
+10617,test,Feminist Movement,AGAINST
+10618,test,Feminist Movement,AGAINST
+10619,test,Feminist Movement,AGAINST
+10620,test,Feminist Movement,AGAINST
+10621,test,Feminist Movement,AGAINST
+10622,test,Feminist Movement,AGAINST
+10623,test,Feminist Movement,AGAINST
+10624,test,Feminist Movement,AGAINST
+10625,test,Feminist Movement,AGAINST
+10626,test,Feminist Movement,AGAINST
+10627,test,Feminist Movement,AGAINST
+10628,test,Feminist Movement,AGAINST
+10629,test,Feminist Movement,AGAINST
+10630,test,Feminist Movement,AGAINST
+10631,test,Feminist Movement,AGAINST
+10632,test,Feminist Movement,AGAINST
+10633,test,Feminist Movement,AGAINST
+10634,test,Feminist Movement,AGAINST
+10635,test,Feminist Movement,AGAINST
+10636,test,Feminist Movement,AGAINST
+10637,test,Feminist Movement,AGAINST
+10638,test,Feminist Movement,AGAINST
+10639,test,Feminist Movement,AGAINST
+10640,test,Feminist Movement,AGAINST
+10641,test,Feminist Movement,AGAINST
+10642,test,Feminist Movement,AGAINST
+10643,test,Feminist Movement,AGAINST
+10644,test,Feminist Movement,AGAINST
+10645,test,Feminist Movement,AGAINST
+10646,test,Feminist Movement,AGAINST
+10647,test,Feminist Movement,FAVOR
+10648,test,Feminist Movement,AGAINST
+10649,test,Feminist Movement,AGAINST
+10650,test,Feminist Movement,NONE
+10651,test,Feminist Movement,AGAINST
+10652,test,Feminist Movement,AGAINST
+10653,test,Feminist Movement,AGAINST
+10654,test,Feminist Movement,AGAINST
+10655,test,Feminist Movement,AGAINST
+10656,test,Feminist Movement,FAVOR
+10657,test,Feminist Movement,AGAINST
+10658,test,Feminist Movement,AGAINST
+10659,test,Feminist Movement,NONE
+10660,test,Feminist Movement,AGAINST
+10661,test,Feminist Movement,NONE
+10662,test,Feminist Movement,AGAINST
+10663,test,Feminist Movement,FAVOR
+10664,test,Feminist Movement,NONE
+10665,test,Feminist Movement,FAVOR
+10666,test,Feminist Movement,NONE
+10667,test,Feminist Movement,FAVOR
+10668,test,Feminist Movement,FAVOR
+10669,test,Feminist Movement,FAVOR
+10670,test,Feminist Movement,FAVOR
+10671,test,Feminist Movement,FAVOR
+10672,test,Feminist Movement,AGAINST
+10673,test,Feminist Movement,FAVOR
+10674,test,Feminist Movement,AGAINST
+10675,test,Hillary Clinton,AGAINST
+10676,test,Hillary Clinton,AGAINST
+10677,test,Hillary Clinton,AGAINST
+10678,test,Hillary Clinton,AGAINST
+10679,test,Hillary Clinton,AGAINST
+10680,test,Hillary Clinton,AGAINST
+10681,test,Hillary Clinton,AGAINST
+10682,test,Hillary Clinton,AGAINST
+10683,test,Hillary Clinton,AGAINST
+10684,test,Hillary Clinton,AGAINST
+10685,test,Hillary Clinton,AGAINST
+10686,test,Hillary Clinton,AGAINST
+10687,test,Hillary Clinton,AGAINST
+10688,test,Hillary Clinton,AGAINST
+10689,test,Hillary Clinton,AGAINST
+10690,test,Hillary Clinton,AGAINST
+10691,test,Hillary Clinton,AGAINST
+10692,test,Hillary Clinton,AGAINST
+10693,test,Hillary Clinton,AGAINST
+10694,test,Hillary Clinton,AGAINST
+10695,test,Hillary Clinton,AGAINST
+10696,test,Hillary Clinton,AGAINST
+10697,test,Hillary Clinton,AGAINST
+10698,test,Hillary Clinton,AGAINST
+10699,test,Hillary Clinton,AGAINST
+10700,test,Hillary Clinton,AGAINST
+10701,test,Hillary Clinton,AGAINST
+10702,test,Hillary Clinton,AGAINST
+10703,test,Hillary Clinton,AGAINST
+10704,test,Hillary Clinton,AGAINST
+10705,test,Hillary Clinton,AGAINST
+10706,test,Hillary Clinton,AGAINST
+10707,test,Hillary Clinton,AGAINST
+10708,test,Hillary Clinton,AGAINST
+10709,test,Hillary Clinton,AGAINST
+10710,test,Hillary Clinton,AGAINST
+10711,test,Hillary Clinton,AGAINST
+10712,test,Hillary Clinton,AGAINST
+10713,test,Hillary Clinton,NONE
+10714,test,Hillary Clinton,AGAINST
+10715,test,Hillary Clinton,AGAINST
+10716,test,Hillary Clinton,AGAINST
+10717,test,Hillary Clinton,AGAINST
+10718,test,Hillary Clinton,AGAINST
+10719,test,Hillary Clinton,AGAINST
+10720,test,Hillary Clinton,AGAINST
+10721,test,Hillary Clinton,NONE
+10722,test,Hillary Clinton,NONE
+10723,test,Hillary Clinton,AGAINST
+10724,test,Hillary Clinton,NONE
+10725,test,Hillary Clinton,AGAINST
+10726,test,Hillary Clinton,NONE
+10727,test,Hillary Clinton,AGAINST
+10728,test,Hillary Clinton,NONE
+10729,test,Hillary Clinton,NONE
+10730,test,Hillary Clinton,AGAINST
+10731,test,Hillary Clinton,AGAINST
+10732,test,Hillary Clinton,AGAINST
+10733,test,Hillary Clinton,NONE
+10734,test,Hillary Clinton,NONE
+10735,test,Hillary Clinton,AGAINST
+10736,test,Hillary Clinton,NONE
+10737,test,Hillary Clinton,NONE
+10738,test,Hillary Clinton,AGAINST
+10739,test,Hillary Clinton,NONE
+10740,test,Hillary Clinton,NONE
+10741,test,Hillary Clinton,NONE
+10742,test,Hillary Clinton,AGAINST
+10743,test,Hillary Clinton,FAVOR
+10744,test,Hillary Clinton,NONE
+10745,test,Hillary Clinton,NONE
+10746,test,Hillary Clinton,NONE
+10747,test,Hillary Clinton,FAVOR
+10748,test,Hillary Clinton,NONE
+10749,test,Hillary Clinton,NONE
+10750,test,Hillary Clinton,NONE
+10751,test,Hillary Clinton,NONE
+10752,test,Hillary Clinton,NONE
+10753,test,Hillary Clinton,FAVOR
+10754,test,Hillary Clinton,AGAINST
+10755,test,Hillary Clinton,NONE
+10756,test,Hillary Clinton,FAVOR
+10757,test,Hillary Clinton,NONE
+10758,test,Hillary Clinton,NONE
+10759,test,Hillary Clinton,FAVOR
+10760,test,Hillary Clinton,FAVOR
+10761,test,Hillary Clinton,FAVOR
+10762,test,Hillary Clinton,NONE
+10763,test,Hillary Clinton,FAVOR
+10764,test,Hillary Clinton,AGAINST
+10765,test,Hillary Clinton,NONE
+10766,test,Hillary Clinton,FAVOR
+10767,test,Hillary Clinton,NONE
+10768,test,Hillary Clinton,AGAINST
+10769,test,Hillary Clinton,NONE
+10770,test,Hillary Clinton,FAVOR
+10771,test,Hillary Clinton,FAVOR
+10772,test,Hillary Clinton,AGAINST
+10773,test,Hillary Clinton,FAVOR
+10774,test,Hillary Clinton,FAVOR
+10775,test,Hillary Clinton,AGAINST
+10776,test,Hillary Clinton,FAVOR
+10777,test,Hillary Clinton,FAVOR
+10778,test,Hillary Clinton,NONE
+10779,test,Hillary Clinton,NONE
+10780,test,Hillary Clinton,NONE
+10781,test,Hillary Clinton,AGAINST
+10782,test,Hillary Clinton,FAVOR
+10783,test,Hillary Clinton,NONE
+10784,test,Hillary Clinton,FAVOR
+10785,test,Hillary Clinton,AGAINST
+10786,test,Hillary Clinton,NONE
+10787,test,Hillary Clinton,NONE
+10788,test,Hillary Clinton,AGAINST
+10789,test,Hillary Clinton,FAVOR
+10790,test,Hillary Clinton,AGAINST
+10791,test,Hillary Clinton,FAVOR
+10792,test,Hillary Clinton,AGAINST
+10793,test,Hillary Clinton,AGAINST
+10794,test,Hillary Clinton,AGAINST
+10795,test,Hillary Clinton,FAVOR
+10796,test,Hillary Clinton,AGAINST
+10797,test,Hillary Clinton,AGAINST
+10798,test,Hillary Clinton,AGAINST
+10799,test,Hillary Clinton,AGAINST
+10800,test,Hillary Clinton,NONE
+10801,test,Hillary Clinton,AGAINST
+10802,test,Hillary Clinton,FAVOR
+10803,test,Hillary Clinton,NONE
+10804,test,Hillary Clinton,FAVOR
+10805,test,Hillary Clinton,AGAINST
+10806,test,Hillary Clinton,FAVOR
+10807,test,Hillary Clinton,AGAINST
+10808,test,Hillary Clinton,AGAINST
+10809,test,Hillary Clinton,NONE
+10810,test,Hillary Clinton,FAVOR
+10811,test,Hillary Clinton,NONE
+10812,test,Hillary Clinton,NONE
+10813,test,Hillary Clinton,NONE
+10814,test,Hillary Clinton,AGAINST
+10815,test,Hillary Clinton,NONE
+10816,test,Hillary Clinton,AGAINST
+10817,test,Hillary Clinton,AGAINST
+10818,test,Hillary Clinton,AGAINST
+10819,test,Hillary Clinton,FAVOR
+10820,test,Hillary Clinton,AGAINST
+10821,test,Hillary Clinton,FAVOR
+10822,test,Hillary Clinton,AGAINST
+10823,test,Hillary Clinton,NONE
+10824,test,Hillary Clinton,AGAINST
+10825,test,Hillary Clinton,AGAINST
+10826,test,Hillary Clinton,NONE
+10827,test,Hillary Clinton,AGAINST
+10828,test,Hillary Clinton,NONE
+10829,test,Hillary Clinton,NONE
+10830,test,Hillary Clinton,AGAINST
+10831,test,Hillary Clinton,FAVOR
+10832,test,Hillary Clinton,NONE
+10833,test,Hillary Clinton,AGAINST
+10834,test,Hillary Clinton,AGAINST
+10835,test,Hillary Clinton,NONE
+10836,test,Hillary Clinton,AGAINST
+10837,test,Hillary Clinton,FAVOR
+10838,test,Hillary Clinton,AGAINST
+10839,test,Hillary Clinton,FAVOR
+10840,test,Hillary Clinton,AGAINST
+10841,test,Hillary Clinton,NONE
+10842,test,Hillary Clinton,FAVOR
+10843,test,Hillary Clinton,FAVOR
+10844,test,Hillary Clinton,AGAINST
+10845,test,Hillary Clinton,AGAINST
+10846,test,Hillary Clinton,AGAINST
+10847,test,Hillary Clinton,NONE
+10848,test,Hillary Clinton,NONE
+10849,test,Hillary Clinton,AGAINST
+10850,test,Hillary Clinton,AGAINST
+10851,test,Hillary Clinton,AGAINST
+10852,test,Hillary Clinton,NONE
+10853,test,Hillary Clinton,AGAINST
+10854,test,Hillary Clinton,AGAINST
+10855,test,Hillary Clinton,AGAINST
+10856,test,Hillary Clinton,NONE
+10857,test,Hillary Clinton,NONE
+10858,test,Hillary Clinton,NONE
+10859,test,Hillary Clinton,AGAINST
+10860,test,Hillary Clinton,NONE
+10861,test,Hillary Clinton,AGAINST
+10862,test,Hillary Clinton,AGAINST
+10863,test,Hillary Clinton,AGAINST
+10864,test,Hillary Clinton,AGAINST
+10865,test,Hillary Clinton,AGAINST
+10866,test,Hillary Clinton,FAVOR
+10867,test,Hillary Clinton,FAVOR
+10868,test,Hillary Clinton,AGAINST
+10869,test,Hillary Clinton,AGAINST
+10870,test,Hillary Clinton,AGAINST
+10871,test,Hillary Clinton,NONE
+10872,test,Hillary Clinton,FAVOR
+10873,test,Hillary Clinton,NONE
+10874,test,Hillary Clinton,AGAINST
+10875,test,Hillary Clinton,NONE
+10876,test,Hillary Clinton,AGAINST
+10877,test,Hillary Clinton,AGAINST
+10878,test,Hillary Clinton,AGAINST
+10879,test,Hillary Clinton,AGAINST
+10880,test,Hillary Clinton,NONE
+10881,test,Hillary Clinton,AGAINST
+10882,test,Hillary Clinton,NONE
+10883,test,Hillary Clinton,AGAINST
+10884,test,Hillary Clinton,AGAINST
+10885,test,Hillary Clinton,AGAINST
+10886,test,Hillary Clinton,AGAINST
+10887,test,Hillary Clinton,AGAINST
+10888,test,Hillary Clinton,NONE
+10889,test,Hillary Clinton,NONE
+10890,test,Hillary Clinton,FAVOR
+10891,test,Hillary Clinton,NONE
+10892,test,Hillary Clinton,AGAINST
+10893,test,Hillary Clinton,AGAINST
+10894,test,Hillary Clinton,NONE
+10895,test,Hillary Clinton,AGAINST
+10896,test,Hillary Clinton,AGAINST
+10897,test,Hillary Clinton,FAVOR
+10898,test,Hillary Clinton,AGAINST
+10899,test,Hillary Clinton,AGAINST
+10900,test,Hillary Clinton,FAVOR
+10901,test,Hillary Clinton,FAVOR
+10902,test,Hillary Clinton,AGAINST
+10903,test,Hillary Clinton,AGAINST
+10904,test,Hillary Clinton,FAVOR
+10905,test,Hillary Clinton,NONE
+10906,test,Hillary Clinton,AGAINST
+10907,test,Hillary Clinton,AGAINST
+10908,test,Hillary Clinton,AGAINST
+10909,test,Hillary Clinton,AGAINST
+10910,test,Hillary Clinton,AGAINST
+10911,test,Hillary Clinton,AGAINST
+10912,test,Hillary Clinton,AGAINST
+10913,test,Hillary Clinton,AGAINST
+10914,test,Hillary Clinton,AGAINST
+10915,test,Hillary Clinton,AGAINST
+10916,test,Hillary Clinton,AGAINST
+10917,test,Hillary Clinton,AGAINST
+10918,test,Hillary Clinton,AGAINST
+10919,test,Hillary Clinton,AGAINST
+10920,test,Hillary Clinton,AGAINST
+10921,test,Hillary Clinton,AGAINST
+10922,test,Hillary Clinton,FAVOR
+10923,test,Hillary Clinton,AGAINST
+10924,test,Hillary Clinton,AGAINST
+10925,test,Hillary Clinton,AGAINST
+10926,test,Hillary Clinton,AGAINST
+10927,test,Hillary Clinton,AGAINST
+10928,test,Hillary Clinton,AGAINST
+10929,test,Hillary Clinton,AGAINST
+10930,test,Hillary Clinton,AGAINST
+10931,test,Hillary Clinton,AGAINST
+10932,test,Hillary Clinton,AGAINST
+10933,test,Hillary Clinton,FAVOR
+10934,test,Hillary Clinton,AGAINST
+10935,test,Hillary Clinton,AGAINST
+10936,test,Hillary Clinton,FAVOR
+10937,test,Hillary Clinton,AGAINST
+10938,test,Hillary Clinton,AGAINST
+10939,test,Hillary Clinton,AGAINST
+10940,test,Hillary Clinton,AGAINST
+10941,test,Hillary Clinton,AGAINST
+10942,test,Hillary Clinton,AGAINST
+10943,test,Hillary Clinton,AGAINST
+10944,test,Hillary Clinton,NONE
+10945,test,Hillary Clinton,NONE
+10946,test,Hillary Clinton,NONE
+10947,test,Hillary Clinton,NONE
+10948,test,Hillary Clinton,AGAINST
+10949,test,Hillary Clinton,AGAINST
+10950,test,Hillary Clinton,NONE
+10951,test,Hillary Clinton,AGAINST
+10952,test,Hillary Clinton,NONE
+10953,test,Hillary Clinton,FAVOR
+10954,test,Hillary Clinton,AGAINST
+10955,test,Hillary Clinton,AGAINST
+10956,test,Hillary Clinton,NONE
+10957,test,Hillary Clinton,AGAINST
+10958,test,Hillary Clinton,NONE
+10959,test,Hillary Clinton,AGAINST
+10960,test,Hillary Clinton,AGAINST
+10961,test,Hillary Clinton,AGAINST
+10962,test,Hillary Clinton,NONE
+10963,test,Hillary Clinton,NONE
+10964,test,Hillary Clinton,AGAINST
+10965,test,Hillary Clinton,FAVOR
+10966,test,Hillary Clinton,NONE
+10967,test,Hillary Clinton,FAVOR
+10968,test,Hillary Clinton,AGAINST
+10969,test,Hillary Clinton,NONE
+10970,test,Legalization of Abortion,AGAINST
+10971,test,Legalization of Abortion,AGAINST
+10972,test,Legalization of Abortion,AGAINST
+10973,test,Legalization of Abortion,AGAINST
+10974,test,Legalization of Abortion,AGAINST
+10975,test,Legalization of Abortion,AGAINST
+10976,test,Legalization of Abortion,AGAINST
+10977,test,Legalization of Abortion,AGAINST
+10978,test,Legalization of Abortion,AGAINST
+10979,test,Legalization of Abortion,AGAINST
+10980,test,Legalization of Abortion,AGAINST
+10981,test,Legalization of Abortion,AGAINST
+10982,test,Legalization of Abortion,AGAINST
+10983,test,Legalization of Abortion,AGAINST
+10984,test,Legalization of Abortion,AGAINST
+10985,test,Legalization of Abortion,AGAINST
+10986,test,Legalization of Abortion,AGAINST
+10987,test,Legalization of Abortion,AGAINST
+10988,test,Legalization of Abortion,AGAINST
+10989,test,Legalization of Abortion,AGAINST
+10990,test,Legalization of Abortion,AGAINST
+10991,test,Legalization of Abortion,AGAINST
+10992,test,Legalization of Abortion,AGAINST
+10993,test,Legalization of Abortion,FAVOR
+10994,test,Legalization of Abortion,NONE
+10995,test,Legalization of Abortion,FAVOR
+10996,test,Legalization of Abortion,FAVOR
+10997,test,Legalization of Abortion,NONE
+10998,test,Legalization of Abortion,AGAINST
+10999,test,Legalization of Abortion,NONE
+11000,test,Legalization of Abortion,NONE
+11001,test,Legalization of Abortion,NONE
+11002,test,Legalization of Abortion,NONE
+11003,test,Legalization of Abortion,FAVOR
+11004,test,Legalization of Abortion,AGAINST
+11005,test,Legalization of Abortion,AGAINST
+11006,test,Legalization of Abortion,NONE
+11007,test,Legalization of Abortion,NONE
+11008,test,Legalization of Abortion,AGAINST
+11009,test,Legalization of Abortion,AGAINST
+11010,test,Legalization of Abortion,AGAINST
+11011,test,Legalization of Abortion,NONE
+11012,test,Legalization of Abortion,AGAINST
+11013,test,Legalization of Abortion,AGAINST
+11014,test,Legalization of Abortion,AGAINST
+11015,test,Legalization of Abortion,AGAINST
+11016,test,Legalization of Abortion,AGAINST
+11017,test,Legalization of Abortion,AGAINST
+11018,test,Legalization of Abortion,AGAINST
+11019,test,Legalization of Abortion,AGAINST
+11020,test,Legalization of Abortion,AGAINST
+11021,test,Legalization of Abortion,AGAINST
+11022,test,Legalization of Abortion,AGAINST
+11023,test,Legalization of Abortion,AGAINST
+11024,test,Legalization of Abortion,AGAINST
+11025,test,Legalization of Abortion,AGAINST
+11026,test,Legalization of Abortion,AGAINST
+11027,test,Legalization of Abortion,AGAINST
+11028,test,Legalization of Abortion,AGAINST
+11029,test,Legalization of Abortion,AGAINST
+11030,test,Legalization of Abortion,AGAINST
+11031,test,Legalization of Abortion,AGAINST
+11032,test,Legalization of Abortion,AGAINST
+11033,test,Legalization of Abortion,AGAINST
+11034,test,Legalization of Abortion,AGAINST
+11035,test,Legalization of Abortion,AGAINST
+11036,test,Legalization of Abortion,AGAINST
+11037,test,Legalization of Abortion,AGAINST
+11038,test,Legalization of Abortion,AGAINST
+11039,test,Legalization of Abortion,AGAINST
+11040,test,Legalization of Abortion,AGAINST
+11041,test,Legalization of Abortion,AGAINST
+11042,test,Legalization of Abortion,AGAINST
+11043,test,Legalization of Abortion,AGAINST
+11044,test,Legalization of Abortion,AGAINST
+11045,test,Legalization of Abortion,AGAINST
+11046,test,Legalization of Abortion,AGAINST
+11047,test,Legalization of Abortion,AGAINST
+11048,test,Legalization of Abortion,AGAINST
+11049,test,Legalization of Abortion,AGAINST
+11050,test,Legalization of Abortion,AGAINST
+11051,test,Legalization of Abortion,AGAINST
+11052,test,Legalization of Abortion,AGAINST
+11053,test,Legalization of Abortion,AGAINST
+11054,test,Legalization of Abortion,AGAINST
+11055,test,Legalization of Abortion,AGAINST
+11056,test,Legalization of Abortion,AGAINST
+11057,test,Legalization of Abortion,AGAINST
+11058,test,Legalization of Abortion,AGAINST
+11059,test,Legalization of Abortion,AGAINST
+11060,test,Legalization of Abortion,AGAINST
+11061,test,Legalization of Abortion,AGAINST
+11062,test,Legalization of Abortion,AGAINST
+11063,test,Legalization of Abortion,AGAINST
+11064,test,Legalization of Abortion,AGAINST
+11065,test,Legalization of Abortion,AGAINST
+11066,test,Legalization of Abortion,AGAINST
+11067,test,Legalization of Abortion,AGAINST
+11068,test,Legalization of Abortion,AGAINST
+11069,test,Legalization of Abortion,AGAINST
+11070,test,Legalization of Abortion,AGAINST
+11071,test,Legalization of Abortion,AGAINST
+11072,test,Legalization of Abortion,AGAINST
+11073,test,Legalization of Abortion,AGAINST
+11074,test,Legalization of Abortion,AGAINST
+11075,test,Legalization of Abortion,AGAINST
+11076,test,Legalization of Abortion,AGAINST
+11077,test,Legalization of Abortion,AGAINST
+11078,test,Legalization of Abortion,AGAINST
+11079,test,Legalization of Abortion,AGAINST
+11080,test,Legalization of Abortion,AGAINST
+11081,test,Legalization of Abortion,AGAINST
+11082,test,Legalization of Abortion,AGAINST
+11083,test,Legalization of Abortion,AGAINST
+11084,test,Legalization of Abortion,AGAINST
+11085,test,Legalization of Abortion,AGAINST
+11086,test,Legalization of Abortion,AGAINST
+11087,test,Legalization of Abortion,AGAINST
+11088,test,Legalization of Abortion,AGAINST
+11089,test,Legalization of Abortion,NONE
+11090,test,Legalization of Abortion,FAVOR
+11091,test,Legalization of Abortion,NONE
+11092,test,Legalization of Abortion,NONE
+11093,test,Legalization of Abortion,FAVOR
+11094,test,Legalization of Abortion,NONE
+11095,test,Legalization of Abortion,NONE
+11096,test,Legalization of Abortion,AGAINST
+11097,test,Legalization of Abortion,FAVOR
+11098,test,Legalization of Abortion,AGAINST
+11099,test,Legalization of Abortion,AGAINST
+11100,test,Legalization of Abortion,FAVOR
+11101,test,Legalization of Abortion,FAVOR
+11102,test,Legalization of Abortion,NONE
+11103,test,Legalization of Abortion,AGAINST
+11104,test,Legalization of Abortion,NONE
+11105,test,Legalization of Abortion,AGAINST
+11106,test,Legalization of Abortion,NONE
+11107,test,Legalization of Abortion,FAVOR
+11108,test,Legalization of Abortion,NONE
+11109,test,Legalization of Abortion,FAVOR
+11110,test,Legalization of Abortion,AGAINST
+11111,test,Legalization of Abortion,NONE
+11112,test,Legalization of Abortion,FAVOR
+11113,test,Legalization of Abortion,NONE
+11114,test,Legalization of Abortion,AGAINST
+11115,test,Legalization of Abortion,FAVOR
+11116,test,Legalization of Abortion,NONE
+11117,test,Legalization of Abortion,FAVOR
+11118,test,Legalization of Abortion,FAVOR
+11119,test,Legalization of Abortion,FAVOR
+11120,test,Legalization of Abortion,NONE
+11121,test,Legalization of Abortion,FAVOR
+11122,test,Legalization of Abortion,AGAINST
+11123,test,Legalization of Abortion,FAVOR
+11124,test,Legalization of Abortion,FAVOR
+11125,test,Legalization of Abortion,FAVOR
+11126,test,Legalization of Abortion,FAVOR
+11127,test,Legalization of Abortion,FAVOR
+11128,test,Legalization of Abortion,FAVOR
+11129,test,Legalization of Abortion,FAVOR
+11130,test,Legalization of Abortion,FAVOR
+11131,test,Legalization of Abortion,FAVOR
+11132,test,Legalization of Abortion,FAVOR
+11133,test,Legalization of Abortion,AGAINST
+11134,test,Legalization of Abortion,NONE
+11135,test,Legalization of Abortion,AGAINST
+11136,test,Legalization of Abortion,AGAINST
+11137,test,Legalization of Abortion,AGAINST
+11138,test,Legalization of Abortion,NONE
+11139,test,Legalization of Abortion,AGAINST
+11140,test,Legalization of Abortion,FAVOR
+11141,test,Legalization of Abortion,AGAINST
+11142,test,Legalization of Abortion,AGAINST
+11143,test,Legalization of Abortion,NONE
+11144,test,Legalization of Abortion,AGAINST
+11145,test,Legalization of Abortion,AGAINST
+11146,test,Legalization of Abortion,NONE
+11147,test,Legalization of Abortion,AGAINST
+11148,test,Legalization of Abortion,FAVOR
+11149,test,Legalization of Abortion,AGAINST
+11150,test,Legalization of Abortion,AGAINST
+11151,test,Legalization of Abortion,FAVOR
+11152,test,Legalization of Abortion,FAVOR
+11153,test,Legalization of Abortion,NONE
+11154,test,Legalization of Abortion,FAVOR
+11155,test,Legalization of Abortion,FAVOR
+11156,test,Legalization of Abortion,AGAINST
+11157,test,Legalization of Abortion,NONE
+11158,test,Legalization of Abortion,FAVOR
+11159,test,Legalization of Abortion,AGAINST
+11160,test,Legalization of Abortion,AGAINST
+11161,test,Legalization of Abortion,FAVOR
+11162,test,Legalization of Abortion,FAVOR
+11163,test,Legalization of Abortion,AGAINST
+11164,test,Legalization of Abortion,AGAINST
+11165,test,Legalization of Abortion,AGAINST
+11166,test,Legalization of Abortion,NONE
+11167,test,Legalization of Abortion,FAVOR
+11168,test,Legalization of Abortion,FAVOR
+11169,test,Legalization of Abortion,AGAINST
+11170,test,Legalization of Abortion,AGAINST
+11171,test,Legalization of Abortion,AGAINST
+11172,test,Legalization of Abortion,FAVOR
+11173,test,Legalization of Abortion,AGAINST
+11174,test,Legalization of Abortion,AGAINST
+11175,test,Legalization of Abortion,FAVOR
+11176,test,Legalization of Abortion,NONE
+11177,test,Legalization of Abortion,AGAINST
+11178,test,Legalization of Abortion,AGAINST
+11179,test,Legalization of Abortion,NONE
+11180,test,Legalization of Abortion,AGAINST
+11181,test,Legalization of Abortion,AGAINST
+11182,test,Legalization of Abortion,NONE
+11183,test,Legalization of Abortion,NONE
+11184,test,Legalization of Abortion,AGAINST
+11185,test,Legalization of Abortion,NONE
+11186,test,Legalization of Abortion,AGAINST
+11187,test,Legalization of Abortion,AGAINST
+11188,test,Legalization of Abortion,NONE
+11189,test,Legalization of Abortion,FAVOR
+11190,test,Legalization of Abortion,AGAINST
+11191,test,Legalization of Abortion,AGAINST
+11192,test,Legalization of Abortion,NONE
+11193,test,Legalization of Abortion,AGAINST
+11194,test,Legalization of Abortion,AGAINST
+11195,test,Legalization of Abortion,NONE
+11196,test,Legalization of Abortion,AGAINST
+11197,test,Legalization of Abortion,AGAINST
+11198,test,Legalization of Abortion,AGAINST
+11199,test,Legalization of Abortion,AGAINST
+11200,test,Legalization of Abortion,AGAINST
+11201,test,Legalization of Abortion,AGAINST
+11202,test,Legalization of Abortion,AGAINST
+11203,test,Legalization of Abortion,AGAINST
+11204,test,Legalization of Abortion,AGAINST
+11205,test,Legalization of Abortion,AGAINST
+11206,test,Legalization of Abortion,AGAINST
+11207,test,Legalization of Abortion,AGAINST
+11208,test,Legalization of Abortion,AGAINST
+11209,test,Legalization of Abortion,AGAINST
+11210,test,Legalization of Abortion,AGAINST
+11211,test,Legalization of Abortion,AGAINST
+11212,test,Legalization of Abortion,AGAINST
+11213,test,Legalization of Abortion,AGAINST
+11214,test,Legalization of Abortion,AGAINST
+11215,test,Legalization of Abortion,AGAINST
+11216,test,Legalization of Abortion,AGAINST
+11217,test,Legalization of Abortion,AGAINST
+11218,test,Legalization of Abortion,AGAINST
+11219,test,Legalization of Abortion,AGAINST
+11220,test,Legalization of Abortion,AGAINST
+11221,test,Legalization of Abortion,AGAINST
+11222,test,Legalization of Abortion,AGAINST
+11223,test,Legalization of Abortion,AGAINST
+11224,test,Legalization of Abortion,AGAINST
+11225,test,Legalization of Abortion,AGAINST
+11226,test,Legalization of Abortion,AGAINST
+11227,test,Legalization of Abortion,NONE
+11228,test,Legalization of Abortion,FAVOR
+11229,test,Legalization of Abortion,AGAINST
+11230,test,Legalization of Abortion,FAVOR
+11231,test,Legalization of Abortion,AGAINST
+11232,test,Legalization of Abortion,NONE
+11233,test,Legalization of Abortion,NONE
+11234,test,Legalization of Abortion,FAVOR
+11235,test,Legalization of Abortion,FAVOR
+11236,test,Legalization of Abortion,AGAINST
+11237,test,Legalization of Abortion,NONE
+11238,test,Legalization of Abortion,FAVOR
+11239,test,Legalization of Abortion,NONE
+11240,test,Legalization of Abortion,AGAINST
+11241,test,Legalization of Abortion,NONE
+11242,test,Legalization of Abortion,NONE
+11243,test,Legalization of Abortion,AGAINST
+11244,test,Legalization of Abortion,AGAINST
+11245,test,Legalization of Abortion,NONE
+11246,test,Legalization of Abortion,AGAINST
+11247,test,Legalization of Abortion,AGAINST
+11248,test,Legalization of Abortion,AGAINST
+11249,test,Legalization of Abortion,AGAINST
