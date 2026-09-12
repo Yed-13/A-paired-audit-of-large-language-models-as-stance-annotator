@@ -1,4 +1,4 @@
-# AI Society stance annotation experiment
+# Consistent labels, shifting conclusions: a paired audit of large language models as stance annotators
 
 Experimental data, prompts, code and results for a paired audit of large language models used as stance annotators.
 
