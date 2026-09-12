@@ -1,6 +1,6 @@
 # AI Society stance annotation experiment
 
-Experimental data, prompts, code and results for a paired audit of large language models used as stance annotators. No manuscript or editorial material is included.
+Experimental data, prompts, code and results for a paired audit of large language models used as stance annotators.
 
 ## Design and data
 
